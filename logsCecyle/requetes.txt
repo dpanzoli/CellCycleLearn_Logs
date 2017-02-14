@@ -1,0 +1,8 @@
+--select sequence, count(*) as compte from logs group by sequence;
+
+--select count(LOGS.student_id) from LOGS, LOGS as LOG2, ETUDIANT
+--where LOGS.student_id = ETUDIANT.student_id
+--and LOG2.student_id = LOGS.student_id
+--and LOGS.sequence = 1
+--and LOG2.sequence = 2;
+
