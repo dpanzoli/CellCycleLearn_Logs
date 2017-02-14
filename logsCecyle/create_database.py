@@ -8,7 +8,7 @@ import sys
 import json
 import datetime
 
-conn = sqlite3.connect(r'C:\\Users\\stage\\Desktop\\Stage_Marvyn\\logsCecyle\\student.db')
+conn = sqlite3.connect(r'C:\\Users\\stage\\Desktop\\Stage_Marvyn\\CellCycleLearn_Logs\\logsCecyle\\student.db')
 c = conn.cursor()
 c.execute('''DROP TABLE IF EXISTS ETUDIANT ''')
 c.execute('''DROP TABLE IF EXISTS LOGS ''')
@@ -30,7 +30,7 @@ for f in listdir("./logsUPSCUFR/"):
     if isfile(join("./logsUPSCUFR/",f)):
         #On vire les fichiers inutiles
         tab = f.split("_")
-        if os.path.getsize('C:\\Users\\stage\\Desktop\\Stage_Marvyn\\logsCecyle\\logsUPSCUFR\\'+str(f)) > 20 and tab[2] != "input.log" and os.path.getsize('C:\\Users\\stage\\Desktop\\Stage_Marvyn\\logsCecyle\\logsUPSCUFR\\'+tab[0]+"_"+tab[1]+"_input.log")>20:
+        if os.path.getsize('C:\\Users\\stage\\Desktop\\Stage_Marvyn\\CellCycleLearn_Logs\\logsCecyle\\logsUPSCUFR\\'+str(f)) > 20 and tab[2] != "input.log":
             #On regarde si c'est de champollion
             if(tab[0][0].lower() == "c"):
                 univ = "CUFR"
