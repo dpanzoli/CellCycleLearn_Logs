@@ -24,7 +24,7 @@
 --select student_id, count(*) as compte from LOGS group by student_id
 --having compte > 2;
 
-select LOGS.student_id, LOGS.heure_debut_input from LOGS
+select LOGS.student_id, LOGS.sequence, LOGS.heure_debut_input, LOGS.duree_input/60 from LOGS
 where LOGS.student_id in (
 21100494, 21200184, 21201591, 21301337, 21303380, 21304371, 21403027, 21404331, 21504429, 21604809);
 
