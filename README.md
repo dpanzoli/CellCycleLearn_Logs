@@ -13,7 +13,7 @@ Mais, en pratique, on est loin du compte :
 
 La première phase de nettoyage consiste à isoler les fichiers utiles dans `logsUPSCUFR`. 
 - les fichiers de moins 20 octets ont été supprimés. 
-- les fichiers 
+- les fichiers qui ne correspondent pas à des étudiants
 
 Afin de faciliter les recherches, une base de données est créée pour recenser les fichiers utilisable, ainsi que leurs propriétés.
 `create_database.py`
