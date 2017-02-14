@@ -1,0 +1,20 @@
+{
+    "events": [
+        {
+            "user_id": "toto",
+            "session_id": "toto_1466164088632",
+            "timestamp": 1466160396958,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "logout_btn",
+                "which": "appbar",
+                "x": 1554,
+                "y": 60
+            }
+        }
+    ]
+}

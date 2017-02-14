@@ -1,0 +1,1423 @@
+{
+    "inputs": [
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480326739983,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": []
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": []
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "1"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 4,
+                        "stickers": [
+                            "0"
+                        ]
+                    },
+                    {
+                        "slot": 5,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 6,
+                        "stickers": [
+                            "6"
+                        ]
+                    },
+                    {
+                        "slot": 7,
+                        "stickers": []
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480326764878,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": []
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "1"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": []
+                    },
+                    {
+                        "slot": 4,
+                        "stickers": [
+                            "0"
+                        ]
+                    },
+                    {
+                        "slot": 5,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 6,
+                        "stickers": []
+                    },
+                    {
+                        "slot": 7,
+                        "stickers": []
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480326843921,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": 1,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "0"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "1",
+                            "2"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480326897186,
+            "sequence_id": 2,
+            "section_id": 1,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": []
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": []
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": []
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "0"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480327060704,
+            "sequence_id": 2,
+            "section_id": 1,
+            "activity_id": 1,
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.10256410256410256,
+                    0.19743589743589743,
+                    0.3,
+                    0.4025641025641026,
+                    0.5,
+                    0.5948717948717949,
+                    0.6897435897435897
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480327251660,
+            "sequence_id": 2,
+            "section_id": 2,
+            "activity_id": 0,
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Input",
+                "user_input": {
+                    "protocol": [
+                        "-36",
+                        "72",
+                        "12"
+                    ],
+                    "temoincheck": true,
+                    "culture": [],
+                    "temoin": [
+                        {
+                            "condition": "- glucose",
+                            "time": "0"
+                        },
+                        {
+                            "condition": "+ sérum",
+                            "time": "0"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480327485717,
+            "sequence_id": 2,
+            "section_id": 2,
+            "activity_id": 0,
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Input",
+                "user_input": {
+                    "protocol": [
+                        "-36",
+                        "72",
+                        "12"
+                    ],
+                    "temoincheck": true,
+                    "culture": [
+                        {
+                            "condition": "+ glucose",
+                            "time": "6"
+                        },
+                        {
+                            "condition": "+ oxygène",
+                            "time": "72"
+                        }
+                    ],
+                    "temoin": [
+                        {
+                            "condition": "- glucose",
+                            "time": "30"
+                        },
+                        {
+                            "condition": "+ oxygène",
+                            "time": "0"
+                        },
+                        {
+                            "condition": "- sérum",
+                            "time": "0"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480327700158,
+            "sequence_id": 2,
+            "section_id": 2,
+            "activity_id": 0,
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Input",
+                "user_input": {
+                    "protocol": [
+                        "-36",
+                        "72",
+                        "12"
+                    ],
+                    "temoincheck": true,
+                    "culture": [
+                        {
+                            "condition": "- glucose",
+                            "time": "36"
+                        },
+                        {
+                            "condition": "+ oxygène",
+                            "time": "0"
+                        },
+                        {
+                            "condition": "+ sérum",
+                            "time": "0"
+                        }
+                    ],
+                    "temoin": [
+                        {
+                            "condition": "+ oxygène",
+                            "time": "0"
+                        },
+                        {
+                            "condition": "+ glucose",
+                            "time": "36"
+                        },
+                        {
+                            "condition": "+ sérum",
+                            "time": "0"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480327770374,
+            "sequence_id": 2,
+            "section_id": 2,
+            "activity_id": 1,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "9"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480327816262,
+            "sequence_id": 2,
+            "section_id": 2,
+            "activity_id": 1,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "0"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480327856872,
+            "sequence_id": 2,
+            "section_id": 2,
+            "activity_id": 1,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "1"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480328538552,
+            "sequence_id": 2,
+            "section_id": 2,
+            "activity_id": 5,
+            "activity_kind": "doublepipette",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    6.25,
+                    0,
+                    37.5,
+                    5.014285714285714,
+                    0,
+                    35.1
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329017616,
+            "sequence_id": 2,
+            "section_id": 2,
+            "activity_id": 5,
+            "activity_kind": "doublepipette",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    3.016666666666667,
+                    0.0055248618784530384,
+                    18.1,
+                    3,
+                    0.1,
+                    21
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329018070,
+            "sequence_id": 2,
+            "section_id": 2,
+            "activity_id": 5,
+            "activity_kind": "doublepipette",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    3.016666666666667,
+                    0.0055248618784530384,
+                    18.1,
+                    3,
+                    0.1,
+                    21
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329114123,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "1"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "0"
+                        ]
+                    },
+                    {
+                        "slot": 4,
+                        "stickers": [
+                            "7"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329115266,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "1"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "0"
+                        ]
+                    },
+                    {
+                        "slot": 4,
+                        "stickers": [
+                            "7"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329116657,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "1"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "0"
+                        ]
+                    },
+                    {
+                        "slot": 4,
+                        "stickers": [
+                            "7"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329155310,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": []
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": []
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": []
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "0"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329224055,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.10256410256410256,
+                    0.19743589743589743,
+                    0.3,
+                    0.4025641025641026,
+                    0.5,
+                    0.5948717948717949,
+                    0.6897435897435897
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329238532,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.10256410256410256,
+                    0.34615384615384615,
+                    0.3,
+                    0.4025641025641026,
+                    0.5,
+                    0.5948717948717949,
+                    0.6897435897435897
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329239832,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.10256410256410256,
+                    0.47692307692307695,
+                    0.3,
+                    0.4025641025641026,
+                    0.5,
+                    0.5948717948717949,
+                    0.6897435897435897
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329241538,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.10256410256410256,
+                    0.5923076923076923,
+                    0.3,
+                    0.4025641025641026,
+                    0.5,
+                    0.5948717948717949,
+                    0.6897435897435897
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329242876,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.10256410256410256,
+                    0.7384615384615385,
+                    0.3,
+                    0.4025641025641026,
+                    0.5,
+                    0.5948717948717949,
+                    0.6897435897435897
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329245364,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.10256410256410256,
+                    0.6846153846153846,
+                    0.3,
+                    0.4025641025641026,
+                    0.5,
+                    0.5948717948717949,
+                    0.6897435897435897
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329246520,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.10256410256410256,
+                    0.7076923076923077,
+                    0.3,
+                    0.4025641025641026,
+                    0.5,
+                    0.5948717948717949,
+                    0.6897435897435897
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329248180,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.10256410256410256,
+                    0.6307692307692307,
+                    0.3,
+                    0.4025641025641026,
+                    0.5,
+                    0.5948717948717949,
+                    0.6897435897435897
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329249709,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.10256410256410256,
+                    0.6153846153846154,
+                    0.3,
+                    0.4025641025641026,
+                    0.5,
+                    0.5948717948717949,
+                    0.6897435897435897
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329250621,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.10256410256410256,
+                    0.5897435897435898,
+                    0.3,
+                    0.4025641025641026,
+                    0.5,
+                    0.5948717948717949,
+                    0.6897435897435897
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329256278,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.10256410256410256,
+                    0.5794871794871795,
+                    0.3,
+                    0.4025641025641026,
+                    0.5,
+                    0.5948717948717949,
+                    0.6897435897435897
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329258198,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.10256410256410256,
+                    0.5948717948717949,
+                    0.3,
+                    0.4025641025641026,
+                    0.5,
+                    0.5948717948717949,
+                    0.6897435897435897
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329262492,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.10256410256410256,
+                    0.5948717948717949,
+                    0.3,
+                    0.4025641025641026,
+                    0.5,
+                    0.5948717948717949,
+                    0.6897435897435897
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329263604,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.10256410256410256,
+                    0.5948717948717949,
+                    0.3,
+                    0.4025641025641026,
+                    0.5,
+                    0.5948717948717949,
+                    0.6897435897435897
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329264599,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.10256410256410256,
+                    0.5948717948717949,
+                    0.3,
+                    0.4025641025641026,
+                    0.5,
+                    0.5948717948717949,
+                    0.6897435897435897
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329265932,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.10256410256410256,
+                    0.5948717948717949,
+                    0.3,
+                    0.4025641025641026,
+                    0.5,
+                    0.5948717948717949,
+                    0.7871794871794872
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329269253,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.10256410256410256,
+                    0.5948717948717949,
+                    0.3,
+                    0.4025641025641026,
+                    0.5,
+                    0.5948717948717949,
+                    0.7871794871794872
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329271295,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.10256410256410256,
+                    0.5948717948717949,
+                    0.3,
+                    0.4025641025641026,
+                    0.5,
+                    0.5948717948717949,
+                    0.9948717948717949
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329274878,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.10256410256410256,
+                    0.5948717948717949,
+                    0.3,
+                    0.4025641025641026,
+                    0.8974358974358975,
+                    0.5948717948717949,
+                    0.9948717948717949
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329280701,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.10256410256410256,
+                    0.5948717948717949,
+                    0.5948717948717949,
+                    0.4025641025641026,
+                    0.8974358974358975,
+                    0.5948717948717949,
+                    0.9948717948717949
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329285852,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.10256410256410256,
+                    0.5948717948717949,
+                    0.5948717948717949,
+                    0.7769230769230769,
+                    0.8974358974358975,
+                    0.5948717948717949,
+                    0.9948717948717949
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329290071,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.10256410256410256,
+                    0.5948717948717949,
+                    0.5948717948717949,
+                    0.8948717948717949,
+                    0.8974358974358975,
+                    0.5948717948717949,
+                    0.9948717948717949
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329291550,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.10256410256410256,
+                    0.5948717948717949,
+                    0.5948717948717949,
+                    0.8948717948717949,
+                    0.8974358974358975,
+                    0.5948717948717949,
+                    0.9948717948717949
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329292932,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.10256410256410256,
+                    0.5948717948717949,
+                    0.5948717948717949,
+                    0.7948717948717948,
+                    0.8974358974358975,
+                    0.5948717948717949,
+                    0.9948717948717949
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329294341,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.10256410256410256,
+                    0.5948717948717949,
+                    0.5948717948717949,
+                    0.7897435897435897,
+                    0.8974358974358975,
+                    0.5948717948717949,
+                    0.9948717948717949
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329297084,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.10256410256410256,
+                    0.5948717948717949,
+                    0.5948717948717949,
+                    0.7897435897435897,
+                    0.8974358974358975,
+                    0.8871794871794871,
+                    0.9948717948717949
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329298595,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.10256410256410256,
+                    0.5948717948717949,
+                    0.5948717948717949,
+                    0.7897435897435897,
+                    0.8974358974358975,
+                    0.9153846153846154,
+                    0.9948717948717949
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329300164,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.10256410256410256,
+                    0.5948717948717949,
+                    0.5948717948717949,
+                    0.7897435897435897,
+                    0.8974358974358975,
+                    0.9153846153846154,
+                    0.9948717948717949
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329300844,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.10256410256410256,
+                    0.5948717948717949,
+                    0.5948717948717949,
+                    0.7897435897435897,
+                    0.8974358974358975,
+                    0.9153846153846154,
+                    0.9948717948717949
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329302300,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.10256410256410256,
+                    0.5948717948717949,
+                    0.5948717948717949,
+                    0.7897435897435897,
+                    0.8974358974358975,
+                    0.9435897435897436,
+                    0.9948717948717949
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329303775,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.10256410256410256,
+                    0.5948717948717949,
+                    0.5948717948717949,
+                    0.7897435897435897,
+                    0.8974358974358975,
+                    0.9435897435897436,
+                    0.9948717948717949
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329304940,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.10256410256410256,
+                    0.5948717948717949,
+                    0.5948717948717949,
+                    0.7897435897435897,
+                    0.8974358974358975,
+                    0.9794871794871794,
+                    0.9948717948717949
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329306540,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.10256410256410256,
+                    0.5948717948717949,
+                    0.5948717948717949,
+                    0.7897435897435897,
+                    0.8974358974358975,
+                    1,
+                    0.9948717948717949
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329308645,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.10256410256410256,
+                    0.5948717948717949,
+                    0.5948717948717949,
+                    0.7897435897435897,
+                    0.9538461538461539,
+                    1,
+                    0.9948717948717949
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329311052,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.10256410256410256,
+                    0.5948717948717949,
+                    0.5948717948717949,
+                    0.7897435897435897,
+                    0.8923076923076924,
+                    1,
+                    0.9948717948717949
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329319819,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.5794871794871795,
+                    0.5948717948717949,
+                    0.5948717948717949,
+                    0.7897435897435897,
+                    0.8923076923076924,
+                    1,
+                    0.9948717948717949
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329429300,
+            "sequence_id": 2,
+            "section_id": 5,
+            "activity_id": 0,
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    "prolifération",
+                    "facteurs de croissance",
+                    "le point de restriction",
+                    "G1",
+                    "synchronisées",
+                    "M"
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329434149,
+            "sequence_id": 2,
+            "section_id": 5,
+            "activity_id": 0,
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    "prolifération",
+                    "facteurs de croissance",
+                    "le point de restriction",
+                    "G1",
+                    "synchronisées",
+                    "G2"
+                ]
+            }
+        },
+        {
+            "user_id": "cecycle ",
+            "session_id": "cecycle _1480339385707",
+            "timestamp": 1480329438544,
+            "sequence_id": 2,
+            "section_id": 5,
+            "activity_id": 0,
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    "prolifération",
+                    "facteurs de croissance",
+                    "le point de restriction",
+                    "G1",
+                    "synchronisées",
+                    "G0"
+                ]
+            }
+        }
+    ]
+}

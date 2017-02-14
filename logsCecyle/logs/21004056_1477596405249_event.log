@@ -1,0 +1,116 @@
+{
+    "events": [
+        {
+            "user_id": "21004056",
+            "session_id": "21004056_1477596405249",
+            "timestamp": 1477583566923,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1364,
+                "y": 711
+            }
+        },
+        {
+            "user_id": "21004056",
+            "session_id": "21004056_1477596405249",
+            "timestamp": 1477583570479,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "interface_pane",
+                "which": "iconbar_wrapper",
+                "x": 568,
+                "y": 73
+            }
+        },
+        {
+            "user_id": "21004056",
+            "session_id": "21004056_1477596405249",
+            "timestamp": 1477583571039,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "interface_pane",
+                "which": "iconbar_wrapper",
+                "x": 591,
+                "y": 30
+            }
+        },
+        {
+            "user_id": "21004056",
+            "session_id": "21004056_1477596405249",
+            "timestamp": 1477583572117,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "toggle_btn",
+                "which": "timer",
+                "x": 1165,
+                "y": 61
+            }
+        },
+        {
+            "user_id": "21004056",
+            "session_id": "21004056_1477596405249",
+            "timestamp": 1477583573602,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "toggle_btn",
+                "which": "timer",
+                "x": 1165,
+                "y": 61
+            }
+        },
+        {
+            "user_id": "21004056",
+            "session_id": "21004056_1477596405249",
+            "timestamp": 1477583574315,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 898,
+                "y": 264
+            }
+        },
+        {
+            "user_id": "21004056",
+            "session_id": "21004056_1477596405249",
+            "timestamp": 1477583574510,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 901,
+                "y": 264
+            }
+        }
+    ]
+}

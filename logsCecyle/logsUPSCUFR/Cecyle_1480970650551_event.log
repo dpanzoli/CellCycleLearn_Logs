@@ -1,0 +1,116 @@
+{
+    "events": [
+        {
+            "user_id": "Cecyle",
+            "session_id": "Cecyle_1480970650551",
+            "timestamp": 1480957785442,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "shadow_pane",
+                "which": "info_pane",
+                "x": 880,
+                "y": 36
+            }
+        },
+        {
+            "user_id": "Cecyle",
+            "session_id": "Cecyle_1480970650551",
+            "timestamp": 1480957787591,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "interface_pane",
+                "which": "iconbar_wrapper",
+                "x": 1089,
+                "y": 67
+            }
+        },
+        {
+            "user_id": "Cecyle",
+            "session_id": "Cecyle_1480970650551",
+            "timestamp": 1480957788527,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "notepad_btn",
+                "which": "appbar",
+                "x": 1125,
+                "y": 56
+            }
+        },
+        {
+            "user_id": "Cecyle",
+            "session_id": "Cecyle_1480970650551",
+            "timestamp": 1480957790289,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "calc_btn",
+                "which": "appbar",
+                "x": 1230,
+                "y": 59
+            }
+        },
+        {
+            "user_id": "Cecyle",
+            "session_id": "Cecyle_1480970650551",
+            "timestamp": 1480957792566,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "mainpane",
+                "which": "notepad",
+                "x": 21,
+                "y": 8
+            }
+        },
+        {
+            "user_id": "Cecyle",
+            "session_id": "Cecyle_1480970650551",
+            "timestamp": 1480957795182,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "interface_pane",
+                "which": "iconbar_wrapper",
+                "x": 416,
+                "y": 16
+            }
+        },
+        {
+            "user_id": "Cecyle",
+            "session_id": "Cecyle_1480970650551",
+            "timestamp": 1480957797099,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "logout_btn",
+                "which": "appbar",
+                "x": 1276,
+                "y": 58
+            }
+        }
+    ]
+}

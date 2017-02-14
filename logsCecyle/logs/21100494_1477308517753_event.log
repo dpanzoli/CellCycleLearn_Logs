@@ -1,0 +1,68 @@
+{
+    "events": [
+        {
+            "user_id": "21100494",
+            "session_id": "21100494_1477308517753",
+            "timestamp": 1477295679770,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "interface_pane",
+                "which": "iconbar_wrapper",
+                "x": 636,
+                "y": 100
+            }
+        },
+        {
+            "user_id": "21100494",
+            "session_id": "21100494_1477308517753",
+            "timestamp": 1477295680088,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 836,
+                "y": 379
+            }
+        },
+        {
+            "user_id": "21100494",
+            "session_id": "21100494_1477308517753",
+            "timestamp": 1477295683334,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "shadow_pane",
+                "which": "info_pane",
+                "x": 872,
+                "y": 34
+            }
+        },
+        {
+            "user_id": "21100494",
+            "session_id": "21100494_1477308517753",
+            "timestamp": 1477295685939,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "interface_pane",
+                "which": "iconbar_wrapper",
+                "x": 1083,
+                "y": 62
+            }
+        }
+    ]
+}

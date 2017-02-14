@@ -1,0 +1,84 @@
+{
+    "events": [
+        {
+            "user_id": "21606698",
+            "session_id": "21606698_1475266606619",
+            "timestamp": 1475253789619,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "-1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "transition_pane",
+                "which": "requirement",
+                "x": 912,
+                "y": 356
+            }
+        },
+        {
+            "user_id": "21606698",
+            "session_id": "21606698_1475266606619",
+            "timestamp": 1475253790467,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "-1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "transition_pane",
+                "which": "requirement",
+                "x": 562,
+                "y": 403
+            }
+        },
+        {
+            "user_id": "21606698",
+            "session_id": "21606698_1475266606619",
+            "timestamp": 1475253833209,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 168,
+                "y": 176
+            }
+        },
+        {
+            "user_id": "21606698",
+            "session_id": "21606698_1475266606619",
+            "timestamp": 1475253833519,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 168,
+                "y": 176
+            }
+        },
+        {
+            "user_id": "21606698",
+            "session_id": "21606698_1475266606619",
+            "timestamp": 1475253834019,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 168,
+                "y": 176
+            }
+        }
+    ]
+}

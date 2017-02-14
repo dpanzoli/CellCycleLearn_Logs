@@ -1,0 +1,36 @@
+{
+    "events": [
+        {
+            "user_id": "21606698",
+            "session_id": "21606698_1475266763308",
+            "timestamp": 1475254000341,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "-1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "transition_pane",
+                "which": "requirement",
+                "x": 459,
+                "y": 203
+            }
+        },
+        {
+            "user_id": "21606698",
+            "session_id": "21606698_1475266763308",
+            "timestamp": 1475254010135,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "-1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "transition_pane",
+                "which": "requirement",
+                "x": 459,
+                "y": 203
+            }
+        }
+    ]
+}

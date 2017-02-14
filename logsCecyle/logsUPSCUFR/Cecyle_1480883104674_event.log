@@ -1,0 +1,68 @@
+{
+    "events": [
+        {
+            "user_id": "Cecyle",
+            "session_id": "Cecyle_1480883104674",
+            "timestamp": 1480870274772,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "-1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "transition_pane",
+                "which": "requirement",
+                "x": 688,
+                "y": 461
+            }
+        },
+        {
+            "user_id": "Cecyle",
+            "session_id": "Cecyle_1480883104674",
+            "timestamp": 1480870275529,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "-1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "transition_pane",
+                "which": "requirement",
+                "x": 975,
+                "y": 630
+            }
+        },
+        {
+            "user_id": "Cecyle",
+            "session_id": "Cecyle_1480883104674",
+            "timestamp": 1480870276934,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 216,
+                "y": 308
+            }
+        },
+        {
+            "user_id": "Cecyle",
+            "session_id": "Cecyle_1480883104674",
+            "timestamp": 1480870277564,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 219,
+                "y": 175
+            }
+        }
+    ]
+}

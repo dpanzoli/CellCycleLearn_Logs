@@ -1,0 +1,148 @@
+{
+    "events": [
+        {
+            "user_id": "21303077",
+            "session_id": "21303077_1476027168732",
+            "timestamp": 1476014348553,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "interface_pane",
+                "which": "iconbar_wrapper",
+                "x": 243,
+                "y": 21
+            }
+        },
+        {
+            "user_id": "21303077",
+            "session_id": "21303077_1476027168732",
+            "timestamp": 1476014351125,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "shadow_pane",
+                "which": "info_pane",
+                "x": 794,
+                "y": 26
+            }
+        },
+        {
+            "user_id": "21303077",
+            "session_id": "21303077_1476027168732",
+            "timestamp": 1476014355423,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "interface_pane",
+                "which": "iconbar_wrapper",
+                "x": 1088,
+                "y": 68
+            }
+        },
+        {
+            "user_id": "21303077",
+            "session_id": "21303077_1476027168732",
+            "timestamp": 1476014356112,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "notepad_btn",
+                "which": "appbar",
+                "x": 1120,
+                "y": 63
+            }
+        },
+        {
+            "user_id": "21303077",
+            "session_id": "21303077_1476027168732",
+            "timestamp": 1476014357597,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 829,
+                "y": 368
+            }
+        },
+        {
+            "user_id": "21303077",
+            "session_id": "21303077_1476027168732",
+            "timestamp": 1476014358610,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "calc_btn",
+                "which": "appbar",
+                "x": 1190,
+                "y": 50
+            }
+        },
+        {
+            "user_id": "21303077",
+            "session_id": "21303077_1476027168732",
+            "timestamp": 1476014361244,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "mainpane",
+                "which": "notepad",
+                "x": 18,
+                "y": 14
+            }
+        },
+        {
+            "user_id": "21303077",
+            "session_id": "21303077_1476027168732",
+            "timestamp": 1476014363235,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "interface_pane",
+                "which": "iconbar_wrapper",
+                "x": 407,
+                "y": 15
+            }
+        },
+        {
+            "user_id": "21303077",
+            "session_id": "21303077_1476027168732",
+            "timestamp": 1476014364311,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "logout_btn",
+                "which": "appbar",
+                "x": 1287,
+                "y": 48
+            }
+        }
+    ]
+}

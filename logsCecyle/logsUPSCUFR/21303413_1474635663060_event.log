@@ -1,0 +1,68 @@
+{
+    "events": [
+        {
+            "user_id": "21303413",
+            "session_id": "21303413_1474635663060",
+            "timestamp": 1474622789538,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "-1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "requirements",
+                "x": 1229,
+                "y": 688
+            }
+        },
+        {
+            "user_id": "21303413",
+            "session_id": "21303413_1474635663060",
+            "timestamp": 1474622799449,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "previous_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 374,
+                "y": 684
+            }
+        },
+        {
+            "user_id": "21303413",
+            "session_id": "21303413_1474635663060",
+            "timestamp": 1474622799535,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "previous_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 378,
+                "y": 684
+            }
+        },
+        {
+            "user_id": "21303413",
+            "session_id": "21303413_1474635663060",
+            "timestamp": 1474622799549,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "previous_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 378,
+                "y": 684
+            }
+        }
+    ]
+}

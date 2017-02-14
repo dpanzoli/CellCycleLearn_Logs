@@ -1,0 +1,4199 @@
+{
+    "events": [
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982356084,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "-1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "requirements",
+                "x": 1409,
+                "y": 680
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982385446,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "G2/M",
+                "x": 1165,
+                "y": 232
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982386455,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "G2/M",
+                "x": 630,
+                "y": 193
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982389015,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "S/G2",
+                "x": 1266,
+                "y": 241
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982389958,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "S/G2",
+                "x": 512,
+                "y": 400
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982391367,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "G1/S",
+                "x": 1361,
+                "y": 244
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982392894,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "G1/S",
+                "x": 629,
+                "y": 608
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982398735,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "L",
+                "x": 1210,
+                "y": 246
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982399517,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "L",
+                "x": 1027,
+                "y": 286
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982419608,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "R",
+                "x": 1408,
+                "y": 242
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982420257,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "R",
+                "x": 1059,
+                "y": 278
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982430264,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "P",
+                "x": 1128,
+                "y": 245
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982430958,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "P",
+                "x": 547,
+                "y": 280
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982431744,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "P",
+                "x": 1120,
+                "y": 242
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982433014,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "P",
+                "x": 914,
+                "y": 534
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982434342,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1401,
+                "y": 683
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982434462,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1401,
+                "y": 683
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982434471,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1401,
+                "y": 683
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982443776,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "L",
+                "x": 1221,
+                "y": 244
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982444671,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "L",
+                "x": 1062,
+                "y": 290
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982451504,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "iM",
+                "x": 1312,
+                "y": 236
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982452463,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "iM",
+                "x": 700,
+                "y": 183
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982453447,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1400,
+                "y": 695
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982453535,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1400,
+                "y": 695
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982453545,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1400,
+                "y": 695
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982471353,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "S/G2",
+                "x": 512,
+                "y": 413
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982472327,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "reset_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 951,
+                "y": 696
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982472913,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "P",
+                "x": 925,
+                "y": 535
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982473481,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "P",
+                "x": 984,
+                "y": 716
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982474240,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "L",
+                "x": 1051,
+                "y": 292
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982475583,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "L",
+                "x": 976,
+                "y": 594
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982476560,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "P",
+                "x": 555,
+                "y": 170
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982477463,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "P",
+                "x": 995,
+                "y": 587
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982483706,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "P",
+                "x": 1120,
+                "y": 153
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982484992,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "P",
+                "x": 516,
+                "y": 317
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982491144,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "P",
+                "x": 1128,
+                "y": 142
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982491552,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "P",
+                "x": 1058,
+                "y": 173
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982496017,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "R",
+                "x": 1392,
+                "y": 142
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982496854,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "R",
+                "x": 553,
+                "y": 178
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982497815,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1404,
+                "y": 598
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982497896,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1404,
+                "y": 598
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982497906,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1404,
+                "y": 598
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982499240,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1403,
+                "y": 603
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982499344,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1403,
+                "y": 603
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982499357,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1403,
+                "y": 603
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982513072,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1401,
+                "y": 578
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982513176,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1401,
+                "y": 578
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982513195,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1401,
+                "y": 578
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982525202,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/sequence2/act1/dd4.png",
+                "x": 1228,
+                "y": 146
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982525736,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/sequence2/act1/dd4.png",
+                "x": 768,
+                "y": 230
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982529122,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/sequence2/act1/dd2.png",
+                "x": 1402,
+                "y": 155
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982529720,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/sequence2/act1/dd2.png",
+                "x": 989,
+                "y": 160
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982533010,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/sequence2/act1/dd1.png",
+                "x": 1151,
+                "y": 157
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982534248,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/sequence2/act1/dd1.png",
+                "x": 583,
+                "y": 157
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982536008,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1395,
+                "y": 594
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982536104,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1395,
+                "y": 594
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982536113,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1395,
+                "y": 594
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982538714,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/sequence2/act1/dd3.png",
+                "x": 1322,
+                "y": 181
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982539544,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/sequence2/act1/dd3.png",
+                "x": 967,
+                "y": 187
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982542928,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1399,
+                "y": 593
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982543016,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1399,
+                "y": 593
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982543022,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1399,
+                "y": 593
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982545400,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1415,
+                "y": 596
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982545464,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1415,
+                "y": 596
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982545473,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1415,
+                "y": 596
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982942238,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1402,
+                "y": 602
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982942350,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1402,
+                "y": 602
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982942363,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1402,
+                "y": 602
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982945783,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "-1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1387,
+                "y": 568
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982946179,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "-1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "hypothesis",
+                "x": 1386,
+                "y": 588
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982976576,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/sequence2/act2/flag1.png",
+                "x": 1295,
+                "y": 312
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982977886,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/sequence2/act2/flag1.png",
+                "x": 679,
+                "y": 519
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982979670,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Checkpoint influencé par la privation en facteurs de croissance",
+                "x": 1379,
+                "y": 599
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982979766,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Checkpoint influencé par la privation en facteurs de croissance",
+                "x": 1379,
+                "y": 599
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982979782,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Checkpoint influencé par la privation en facteurs de croissance",
+                "x": 1379,
+                "y": 599
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982982206,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Checkpoint influencé par la privation en facteurs de croissance",
+                "x": 1381,
+                "y": 593
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982982310,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Checkpoint influencé par la privation en facteurs de croissance",
+                "x": 1381,
+                "y": 593
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474982982325,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Checkpoint influencé par la privation en facteurs de croissance",
+                "x": 1381,
+                "y": 593
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983033076,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Evolution du nombre de cellules",
+                "x": 627,
+                "y": 324
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983052804,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Evolution du nombre de cellules",
+                "x": 617,
+                "y": 60
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983054652,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Evolution du nombre de cellules",
+                "x": 711,
+                "y": 31
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983058292,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Evolution du nombre de cellules",
+                "x": 785,
+                "y": 52
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983060764,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Evolution du nombre de cellules",
+                "x": 871,
+                "y": 54
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983063750,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Evolution du nombre de cellules",
+                "x": 958,
+                "y": 61
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983066044,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Evolution du nombre de cellules",
+                "x": 1002,
+                "y": 53
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983067313,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Evolution du nombre de cellules",
+                "x": 1372,
+                "y": 590
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983068540,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Evolution du nombre de cellules",
+                "x": 1370,
+                "y": 605
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983070279,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "-1",
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "protocol",
+                "x": 1357,
+                "y": 576
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983076394,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Click",
+                "what": "check_temoin",
+                "which": "Planification du protocole expérimental",
+                "x": 1349,
+                "y": 209
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983077426,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Click",
+                "what": "add_modif_culture",
+                "which": "Planification du protocole expérimental",
+                "x": 1301,
+                "y": 209
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983084009,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Click",
+                "what": "statement_pane",
+                "which": "Planification du protocole expérimental",
+                "x": 1209,
+                "y": 290
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983084569,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Click",
+                "what": "statement_pane",
+                "which": "Planification du protocole expérimental",
+                "x": 1209,
+                "y": 279
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983085898,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Click",
+                "what": "add_modif_culture",
+                "which": "Planification du protocole expérimental",
+                "x": 1296,
+                "y": 209
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983088626,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Click",
+                "what": "statement_pane",
+                "which": "Planification du protocole expérimental",
+                "x": 1204,
+                "y": 293
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983089042,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Click",
+                "what": "statement_pane",
+                "which": "Planification du protocole expérimental",
+                "x": 1214,
+                "y": 280
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983089243,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Click",
+                "what": "statement_pane",
+                "which": "Planification du protocole expérimental",
+                "x": 1214,
+                "y": 280
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983089738,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Click",
+                "what": "statement_pane",
+                "which": "Planification du protocole expérimental",
+                "x": 1233,
+                "y": 288
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983093162,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Click",
+                "what": "statement_pane",
+                "which": "Planification du protocole expérimental",
+                "x": 1329,
+                "y": 294
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983093426,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Click",
+                "what": "statement_pane",
+                "which": "Planification du protocole expérimental",
+                "x": 1329,
+                "y": 294
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983098858,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Click",
+                "what": "main_pane",
+                "which": "Planification du protocole expérimental",
+                "x": 858,
+                "y": 123
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983099818,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Click",
+                "what": "statement_pane",
+                "which": "Planification du protocole expérimental",
+                "x": 1211,
+                "y": 285
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983100011,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Click",
+                "what": "statement_pane",
+                "which": "Planification du protocole expérimental",
+                "x": 1211,
+                "y": 285
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983100195,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Click",
+                "what": "statement_pane",
+                "which": "Planification du protocole expérimental",
+                "x": 1211,
+                "y": 285
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983100530,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Click",
+                "what": "statement_pane",
+                "which": "Planification du protocole expérimental",
+                "x": 1209,
+                "y": 293
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983100667,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Click",
+                "what": "statement_pane",
+                "which": "Planification du protocole expérimental",
+                "x": 1211,
+                "y": 288
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983101075,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Click",
+                "what": "add_modif_culture",
+                "which": "Planification du protocole expérimental",
+                "x": 1296,
+                "y": 208
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983101427,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Click",
+                "what": "add_modif_culture",
+                "which": "Planification du protocole expérimental",
+                "x": 1305,
+                "y": 208
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983101995,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Click",
+                "what": "check_temoin",
+                "which": "Planification du protocole expérimental",
+                "x": 1358,
+                "y": 207
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983102290,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Click",
+                "what": "check_temoin",
+                "which": "Planification du protocole expérimental",
+                "x": 1358,
+                "y": 207
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983102854,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Planification du protocole expérimental",
+                "x": 1390,
+                "y": 586
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983104042,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Click",
+                "what": "statement_pane",
+                "which": "Planification du protocole expérimental",
+                "x": 1214,
+                "y": 334
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983104235,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Click",
+                "what": "statement_pane",
+                "which": "Planification du protocole expérimental",
+                "x": 1212,
+                "y": 330
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983104451,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Click",
+                "what": "statement_pane",
+                "which": "Planification du protocole expérimental",
+                "x": 1212,
+                "y": 330
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983104754,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Click",
+                "what": "statement_pane",
+                "which": "Planification du protocole expérimental",
+                "x": 1211,
+                "y": 318
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983104915,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Click",
+                "what": "statement_pane",
+                "which": "Planification du protocole expérimental",
+                "x": 1211,
+                "y": 318
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983105051,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Click",
+                "what": "statement_pane",
+                "which": "Planification du protocole expérimental",
+                "x": 1211,
+                "y": 318
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983108339,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Planification du protocole expérimental",
+                "x": 1414,
+                "y": 599
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983109132,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Planification du protocole expérimental",
+                "x": 1414,
+                "y": 599
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983110011,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Planification du protocole expérimental",
+                "x": 1414,
+                "y": 599
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983127224,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Planification du protocole expérimental",
+                "x": 1414,
+                "y": 599
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983136674,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "7",
+                "x": 1239,
+                "y": 133
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983136832,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "7",
+                "x": 1239,
+                "y": 133
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983136845,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "DD_sticker",
+                "which": "7",
+                "x": 1239,
+                "y": 133
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983137185,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "7",
+                "x": 1239,
+                "y": 133
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983138504,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "7",
+                "x": 727,
+                "y": 442
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983139360,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Nombres de boîtes de Pétri",
+                "x": 1403,
+                "y": 593
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983139448,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Nombres de boîtes de Pétri",
+                "x": 1403,
+                "y": 593
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983139456,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Nombres de boîtes de Pétri",
+                "x": 1403,
+                "y": 593
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983176732,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "13",
+                "x": 1358,
+                "y": 136
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983177754,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "13",
+                "x": 734,
+                "y": 457
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983178593,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Nombres de boîtes de Pétri",
+                "x": 1404,
+                "y": 574
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983178657,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Nombres de boîtes de Pétri",
+                "x": 1404,
+                "y": 574
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983178665,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Nombres de boîtes de Pétri",
+                "x": 1404,
+                "y": 574
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983179337,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Nombres de boîtes de Pétri",
+                "x": 1403,
+                "y": 587
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983179401,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Nombres de boîtes de Pétri",
+                "x": 1403,
+                "y": 587
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983179413,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Nombres de boîtes de Pétri",
+                "x": 1403,
+                "y": 587
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983189921,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Nombres de boîtes de Pétri",
+                "x": 1390,
+                "y": 580
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983190041,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Nombres de boîtes de Pétri",
+                "x": 1390,
+                "y": 580
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983190055,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Nombres de boîtes de Pétri",
+                "x": 1390,
+                "y": 580
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983224405,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Densité cellulaire",
+                "x": 1377,
+                "y": 585
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983229740,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "3",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Nombre de cellules par boîte et taille des boîtes",
+                "x": 1377,
+                "y": 585
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983232721,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "4",
+            "activity_kind": "doublepipette",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Ensemencement",
+                "x": 1377,
+                "y": 585
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983314474,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "doublepipette",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Changement de milieu",
+                "x": 1378,
+                "y": 608
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983316122,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "doublepipette",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Changement de milieu",
+                "x": 1379,
+                "y": 599
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983317279,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "doublepipette",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Changement de milieu",
+                "x": 1379,
+                "y": 599
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983317992,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "doublepipette",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Changement de milieu",
+                "x": 1379,
+                "y": 599
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983344033,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Changement de milieu",
+                "x": 1413,
+                "y": 592
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983350079,
+            "sequence_id": 2,
+            "section_id": "3",
+            "activity_id": "-1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "experiment",
+                "x": 1378,
+                "y": 591
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983351884,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "-1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "results",
+                "x": 1378,
+                "y": 591
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983357181,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/sequence2/act11a/facs4.png",
+                "x": 1129,
+                "y": 220
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983357987,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/sequence2/act11a/facs4.png",
+                "x": 667,
+                "y": 400
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983364524,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/sequence2/act11a/facs3.png",
+                "x": 1239,
+                "y": 207
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983365475,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/sequence2/act11a/facs3.png",
+                "x": 767,
+                "y": 388
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983366956,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/sequence2/act11a/facs1.png",
+                "x": 1174,
+                "y": 209
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983367651,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/sequence2/act11a/facs1.png",
+                "x": 857,
+                "y": 398
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983370077,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/sequence2/act11a/facs2.png",
+                "x": 1283,
+                "y": 219
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983370534,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/sequence2/act11a/facs2.png",
+                "x": 963,
+                "y": 407
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983373419,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Profils de cytométrie de flux au cours de l'expérience",
+                "x": 1387,
+                "y": 579
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983373499,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Profils de cytométrie de flux au cours de l'expérience",
+                "x": 1387,
+                "y": 579
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983373507,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Profils de cytométrie de flux au cours de l'expérience",
+                "x": 1387,
+                "y": 579
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983379608,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/sequence2/act11a/facs2.png",
+                "x": 1027,
+                "y": 398
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983380358,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/sequence2/act11a/facs2.png",
+                "x": 652,
+                "y": 409
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983382582,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/sequence2/act11a/facs1.png",
+                "x": 892,
+                "y": 397
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983382996,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/sequence2/act11a/facs1.png",
+                "x": 747,
+                "y": 410
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983385149,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/sequence2/act11a/facs3.png",
+                "x": 1226,
+                "y": 199
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983385751,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/sequence2/act11a/facs3.png",
+                "x": 871,
+                "y": 408
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983386253,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/sequence2/act11a/facs4.png",
+                "x": 1134,
+                "y": 193
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983386695,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/sequence2/act11a/facs4.png",
+                "x": 1024,
+                "y": 384
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983388692,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Profils de cytométrie de flux au cours de l'expérience",
+                "x": 1378,
+                "y": 593
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983388795,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Profils de cytométrie de flux au cours de l'expérience",
+                "x": 1378,
+                "y": 593
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983388803,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Profils de cytométrie de flux au cours de l'expérience",
+                "x": 1378,
+                "y": 593
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983394630,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "S",
+                "x": 1317,
+                "y": 166
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983395516,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "S",
+                "x": 896,
+                "y": 497
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983401909,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/sequence2/act11a/facs3.png",
+                "x": 1237,
+                "y": 226
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983402548,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/sequence2/act11a/facs3.png",
+                "x": 762,
+                "y": 429
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983408749,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/sequence2/act11a/facs3.png",
+                "x": 1226,
+                "y": 225
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983409596,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/sequence2/act11a/facs3.png",
+                "x": 677,
+                "y": 422
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983412269,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "G1",
+                "x": 1350,
+                "y": 177
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983413156,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "G1",
+                "x": 893,
+                "y": 507
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983413973,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "G2",
+                "x": 1376,
+                "y": 188
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983414844,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "G2",
+                "x": 891,
+                "y": 512
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983415710,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "M",
+                "x": 1409,
+                "y": 185
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983416636,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "M",
+                "x": 894,
+                "y": 505
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983417701,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "S",
+                "x": 1315,
+                "y": 182
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983418316,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "S",
+                "x": 881,
+                "y": 510
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983418964,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Profils de cytométrie de flux au cours de l'expérience",
+                "x": 1428,
+                "y": 590
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983419060,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Profils de cytométrie de flux au cours de l'expérience",
+                "x": 1428,
+                "y": 590
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983419068,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Profils de cytométrie de flux au cours de l'expérience",
+                "x": 1428,
+                "y": 590
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983422884,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Profils de cytométrie de flux au cours de l",
+                "x": 1413,
+                "y": 600
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983422964,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Profils de cytométrie de flux au cours de l",
+                "x": 1413,
+                "y": 600
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983422977,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Profils de cytométrie de flux au cours de l",
+                "x": 1413,
+                "y": 600
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983434437,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "memo_pane",
+                "which": "Profils de cytométrie de flux au cours de l'expérience",
+                "x": 1057,
+                "y": 417
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983434533,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "memo_pane",
+                "which": "Profils de cytométrie de flux au cours de l'expérience",
+                "x": 1057,
+                "y": 417
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983434539,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "memo_pane",
+                "which": "Profils de cytométrie de flux au cours de l'expérience",
+                "x": 1057,
+                "y": 417
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983434620,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "memo_pane",
+                "which": "Profils de cytométrie de flux au cours de l'expérience",
+                "x": 1057,
+                "y": 417
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983434709,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "memo_pane",
+                "which": "Profils de cytométrie de flux au cours de l'expérience",
+                "x": 1057,
+                "y": 417
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983434714,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "memo_pane",
+                "which": "Profils de cytométrie de flux au cours de l'expérience",
+                "x": 1057,
+                "y": 417
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983435468,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Profils de cytométrie de flux au cours de l",
+                "x": 1417,
+                "y": 588
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983435565,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Profils de cytométrie de flux au cours de l",
+                "x": 1417,
+                "y": 588
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983435602,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Profils de cytométrie de flux au cours de l",
+                "x": 1417,
+                "y": 588
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983446553,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/sequence2/act2/flag1.png",
+                "x": 644,
+                "y": 507
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983449783,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/sequence2/act2/flag1.png",
+                "x": 594,
+                "y": 63
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983451278,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/sequence2/act2/flag1.png",
+                "x": 1251,
+                "y": 172
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983451951,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/sequence2/act2/flag1.png",
+                "x": 945,
+                "y": 450
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983452761,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/sequence2/act2/flag1.png",
+                "x": 591,
+                "y": 61
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983453683,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/sequence2/act2/flag1.png",
+                "x": 1291,
+                "y": 203
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983455181,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/sequence2/act2/flag1.png",
+                "x": 605,
+                "y": 81
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983455844,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_slot",
+                "which": "2",
+                "x": 629,
+                "y": 527
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983461908,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "btn_bar",
+                "which": "Checkpoint influencé par la privation en sérum",
+                "x": 1390,
+                "y": 596
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983462012,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "btn_bar",
+                "which": "Checkpoint influencé par la privation en sérum",
+                "x": 1390,
+                "y": 596
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983462026,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "btn_bar",
+                "which": "Checkpoint influencé par la privation en sérum",
+                "x": 1390,
+                "y": 596
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983467037,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "btn_bar",
+                "which": "Checkpoint influencé par la privation en sérum",
+                "x": 1403,
+                "y": 594
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983467141,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "btn_bar",
+                "which": "Checkpoint influencé par la privation en sérum",
+                "x": 1403,
+                "y": 594
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983467163,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "1",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Click",
+                "what": "btn_bar",
+                "which": "Checkpoint influencé par la privation en sérum",
+                "x": 1403,
+                "y": 594
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983472518,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "MousePressed",
+                "what": "Curve_canvas",
+                "which": "Profils de cytométrie de flux et courbe d'évolution dans une phase",
+                "x": 727,
+                "y": 216
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983472637,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "menu_item",
+                "which": "Changement de milieu",
+                "x": 397,
+                "y": 119
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983473348,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "Curve_canvas",
+                "which": "Profils de cytométrie de flux et courbe d'évolution dans une phase",
+                "x": 581,
+                "y": 242
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983474496,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "MousePressed",
+                "what": "Curve_canvas",
+                "which": "Profils de cytométrie de flux et courbe d'évolution dans une phase",
+                "x": 548,
+                "y": 326
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983476275,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "Curve_canvas",
+                "which": "Profils de cytométrie de flux et courbe d'évolution dans une phase",
+                "x": 546,
+                "y": 224
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983476279,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Profils de cytométrie de flux et courbe d'évolution dans une phase",
+                "x": 546,
+                "y": 224
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983478625,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "MousePressed",
+                "what": "Curve_canvas",
+                "which": "Profils de cytométrie de flux et courbe d'évolution dans une phase",
+                "x": 627,
+                "y": 74
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983480876,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "Curve_canvas",
+                "which": "Profils de cytométrie de flux et courbe d'évolution dans une phase",
+                "x": 615,
+                "y": 225
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983480880,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Profils de cytométrie de flux et courbe d'évolution dans une phase",
+                "x": 615,
+                "y": 225
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983483184,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "MousePressed",
+                "what": "Curve_canvas",
+                "which": "Profils de cytométrie de flux et courbe d'évolution dans une phase",
+                "x": 702,
+                "y": 70
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983486181,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "Curve_canvas",
+                "which": "Profils de cytométrie de flux et courbe d'évolution dans une phase",
+                "x": 685,
+                "y": 125
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983486185,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Profils de cytométrie de flux et courbe d'évolution dans une phase",
+                "x": 685,
+                "y": 125
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983488392,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "MousePressed",
+                "what": "Curve_canvas",
+                "which": "Profils de cytométrie de flux et courbe d'évolution dans une phase",
+                "x": 776,
+                "y": 70
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983490555,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "Curve_canvas",
+                "which": "Profils de cytométrie de flux et courbe d'évolution dans une phase",
+                "x": 772,
+                "y": 123
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983490559,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Profils de cytométrie de flux et courbe d'évolution dans une phase",
+                "x": 772,
+                "y": 123
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983502728,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "MousePressed",
+                "what": "Curve_canvas",
+                "which": "Profils de cytométrie de flux et courbe d'évolution dans une phase",
+                "x": 859,
+                "y": 68
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983504427,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "Curve_canvas",
+                "which": "Profils de cytométrie de flux et courbe d'évolution dans une phase",
+                "x": 860,
+                "y": 123
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983504431,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Profils de cytométrie de flux et courbe d'évolution dans une phase",
+                "x": 860,
+                "y": 123
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983511288,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "MousePressed",
+                "what": "Curve_canvas",
+                "which": "Profils de cytométrie de flux et courbe d'évolution dans une phase",
+                "x": 705,
+                "y": 117
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983516275,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "Curve_canvas",
+                "which": "Profils de cytométrie de flux et courbe d'évolution dans une phase",
+                "x": 697,
+                "y": 214
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983516279,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Profils de cytométrie de flux et courbe d'évolution dans une phase",
+                "x": 697,
+                "y": 214
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983518702,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Profils de cytométrie de flux et courbe d",
+                "x": 1404,
+                "y": 603
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983518790,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Profils de cytométrie de flux et courbe d",
+                "x": 1404,
+                "y": 603
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983518804,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Profils de cytométrie de flux et courbe d",
+                "x": 1404,
+                "y": 603
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983522566,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Profils de cytométrie de flux et courbe d",
+                "x": 1403,
+                "y": 594
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983522670,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Profils de cytométrie de flux et courbe d",
+                "x": 1403,
+                "y": 594
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983522682,
+            "sequence_id": 2,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Profils de cytométrie de flux et courbe d",
+                "x": 1403,
+                "y": 594
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983573342,
+            "sequence_id": 2,
+            "section_id": "5",
+            "activity_id": "-1",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "synthesis",
+                "x": 1368,
+                "y": 604
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983576327,
+            "sequence_id": 2,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "select_keyword",
+                "which": "0",
+                "x": 656,
+                "y": 81
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983580258,
+            "sequence_id": 2,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "main_pane",
+                "which": "Synthèse",
+                "x": 637,
+                "y": 113
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983582936,
+            "sequence_id": 2,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "select_keyword",
+                "which": "1",
+                "x": 845,
+                "y": 105
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983589006,
+            "sequence_id": 2,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "main_pane",
+                "which": "Synthèse",
+                "x": 860,
+                "y": 220
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983590888,
+            "sequence_id": 2,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "select_keyword",
+                "which": "2",
+                "x": 882,
+                "y": 138
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983591976,
+            "sequence_id": 2,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "main_pane",
+                "which": "Synthèse",
+                "x": 878,
+                "y": 175
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983593361,
+            "sequence_id": 2,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "select_keyword",
+                "which": "3",
+                "x": 782,
+                "y": 161
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983597207,
+            "sequence_id": 2,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "main_pane",
+                "which": "Synthèse",
+                "x": 780,
+                "y": 208
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983599105,
+            "sequence_id": 2,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "select_keyword",
+                "which": "4",
+                "x": 628,
+                "y": 192
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983603173,
+            "sequence_id": 2,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "main_pane",
+                "which": "Synthèse",
+                "x": 632,
+                "y": 242
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983604762,
+            "sequence_id": 2,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "select_keyword",
+                "which": "5",
+                "x": 706,
+                "y": 219
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983607166,
+            "sequence_id": 2,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "main_pane",
+                "which": "Synthèse",
+                "x": 705,
+                "y": 262
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983608350,
+            "sequence_id": 2,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Synthèse",
+                "x": 1419,
+                "y": 594
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983609954,
+            "sequence_id": 2,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "select_keyword",
+                "which": "0",
+                "x": 622,
+                "y": 72
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983611797,
+            "sequence_id": 2,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "main_pane",
+                "which": "Synthèse",
+                "x": 626,
+                "y": 120
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983612955,
+            "sequence_id": 2,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Synthèse",
+                "x": 1396,
+                "y": 588
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983614399,
+            "sequence_id": 2,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "end_btn",
+                "which": "Synthèse",
+                "x": 1379,
+                "y": 585
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983628296,
+            "sequence_id": 2,
+            "section_id": 5,
+            "activity_id": 0,
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "EndSession",
+                "note": [
+                    " ",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "score": 75000
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995235511",
+            "timestamp": 1474983628299,
+            "sequence_id": 2,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "end_btn",
+                "which": "Synthèse",
+                "x": 1406,
+                "y": 588
+            }
+        }
+    ]
+}

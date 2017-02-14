@@ -1,0 +1,1460 @@
+{
+    "events": [
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463839919399,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "shadow_pane",
+                "which": "info_pane",
+                "x": 1146,
+                "y": 28
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463839925779,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "interface_pane",
+                "which": "iconbar_wrapper",
+                "x": 1087,
+                "y": 70
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463839927337,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "-1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "requirements",
+                "x": 1510,
+                "y": 678
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463839928099,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "interface_pane",
+                "which": "iconbar_wrapper",
+                "x": 1139,
+                "y": 31
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463839928176,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "interface_pane",
+                "which": "iconbar_wrapper",
+                "x": 1139,
+                "y": 31
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463839928180,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "shadow_pane",
+                "which": "info_pane",
+                "x": 1139,
+                "y": 31
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463839929487,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "main_pane",
+                "which": "main_pane",
+                "x": 1076,
+                "y": 74
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463839929568,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "main_pane",
+                "which": "main_pane",
+                "x": 1076,
+                "y": 74
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463839929573,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "main_pane",
+                "which": "main_pane",
+                "x": 1076,
+                "y": 74
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463839929847,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "quit_btn",
+                "which": "info_pane",
+                "x": 1078,
+                "y": 70
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463839929952,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "quit_btn",
+                "which": "info_pane",
+                "x": 1078,
+                "y": 70
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463839929964,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "interface_pane",
+                "which": "iconbar_wrapper",
+                "x": 1078,
+                "y": 70
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463839930760,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "previous_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 666,
+                "y": 704
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463839930848,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "previous_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 666,
+                "y": 704
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463839930861,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "previous_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 666,
+                "y": 704
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463839932005,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "shadow_pane",
+                "which": "info_pane",
+                "x": 1153,
+                "y": 24
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463839934773,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "shadow_pane",
+                "which": "info_pane",
+                "x": 1153,
+                "y": 24
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463839935856,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "interface_pane",
+                "which": "iconbar_wrapper",
+                "x": 1083,
+                "y": 70
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463839936573,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "menu_item",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 359,
+                "y": 168
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463839938527,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "interface_pane",
+                "which": "iconbar_wrapper",
+                "x": 1136,
+                "y": 26
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463839938632,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "interface_pane",
+                "which": "iconbar_wrapper",
+                "x": 1136,
+                "y": 25
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463839938642,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "shadow_pane",
+                "which": "info_pane",
+                "x": 1136,
+                "y": 25
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463839941246,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "quit_btn",
+                "which": "info_pane",
+                "x": 1081,
+                "y": 71
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463839941335,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "quit_btn",
+                "which": "info_pane",
+                "x": 1081,
+                "y": 71
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463839941348,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "interface_pane",
+                "which": "iconbar_wrapper",
+                "x": 1081,
+                "y": 71
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463839942052,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "main_pane",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1192,
+                "y": 378
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463839942159,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "main_pane",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1191,
+                "y": 378
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463839942165,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "main_pane",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1191,
+                "y": 378
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463841516920,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "interface_pane",
+                "which": "iconbar_wrapper",
+                "x": 662,
+                "y": 69
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463841517007,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "interface_pane",
+                "which": "iconbar_wrapper",
+                "x": 662,
+                "y": 69
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842298732,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1810,
+                "y": 200
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842298825,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1810,
+                "y": 199
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842298825,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1810,
+                "y": 199
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842538843,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1643,
+                "y": 264
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842538962,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1643,
+                "y": 264
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842538962,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1643,
+                "y": 264
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842541468,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1503,
+                "y": 695
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842541577,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842541582,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842541795,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842541888,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842542002,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842542010,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842542104,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842542229,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842542244,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842542350,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842542436,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842542457,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842543114,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842543196,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842543213,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842544343,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842544436,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842544439,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842544684,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842544805,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842544818,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842544918,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842545025,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842545039,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842545588,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842545696,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842545706,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842546767,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842546887,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842546904,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842548285,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "-1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "hypothesis",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842548386,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "statement_pane",
+                "which": "Checkpoint influencé par la privation en facteurs de croissance",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842548493,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "statement_pane",
+                "which": "Checkpoint influencé par la privation en facteurs de croissance",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842548495,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "statement_pane",
+                "which": "Checkpoint influencé par la privation en facteurs de croissance",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842548587,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "statement_pane",
+                "which": "Checkpoint influencé par la privation en facteurs de croissance",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842548676,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "statement_pane",
+                "which": "Checkpoint influencé par la privation en facteurs de croissance",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842548678,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "statement_pane",
+                "which": "Checkpoint influencé par la privation en facteurs de croissance",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842548845,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "statement_pane",
+                "which": "Checkpoint influencé par la privation en facteurs de croissance",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842548975,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Checkpoint influencé par la privation en facteurs de croissance",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842549096,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Checkpoint influencé par la privation en facteurs de croissance",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842549202,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Checkpoint influencé par la privation en facteurs de croissance",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842549206,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Checkpoint influencé par la privation en facteurs de croissance",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842549623,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Checkpoint influencé par la privation en facteurs de croissance",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842549729,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Checkpoint influencé par la privation en facteurs de croissance",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842549750,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Checkpoint influencé par la privation en facteurs de croissance",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842549958,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "statement_pane",
+                "which": "Evolution du nombre de cellules",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842551016,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Evolution du nombre de cellules",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842551580,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Evolution du nombre de cellules",
+                "x": 1503,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842557519,
+            "sequence_id": 2,
+            "section_id": 1,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 489,
+                "y": 315
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842559696,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": 1,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "menu_item",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 436,
+                "y": 254
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842564057,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "memo_pane",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 924,
+                "y": 284
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842564132,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "memo_pane",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 924,
+                "y": 282
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842566650,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "memo_pane",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 882,
+                "y": 370
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463839993607",
+            "timestamp": 1463842566776,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "memo_pane",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 882,
+                "y": 369
+            }
+        }
+    ]
+}

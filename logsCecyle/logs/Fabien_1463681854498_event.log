@@ -1,0 +1,36 @@
+{
+    "events": [
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463681854498",
+            "timestamp": 1463751809492,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "shadow_pane",
+                "which": "info_pane",
+                "x": 1054,
+                "y": 23
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463681854498",
+            "timestamp": 1463754065761,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "interface_pane",
+                "which": "iconbar_wrapper",
+                "x": 1090,
+                "y": 71
+            }
+        }
+    ]
+}

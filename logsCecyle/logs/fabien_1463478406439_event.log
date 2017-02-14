@@ -1,0 +1,612 @@
+{
+    "events": [
+        {
+            "user_id": "fabien",
+            "session_id": "fabien_1463478406439",
+            "timestamp": 1463478346954,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 766,
+                "y": 817
+            }
+        },
+        {
+            "user_id": "fabien",
+            "session_id": "fabien_1463478406439",
+            "timestamp": 1463478387438,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "-1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "requirements",
+                "x": 1514,
+                "y": 707
+            }
+        },
+        {
+            "user_id": "fabien",
+            "session_id": "fabien_1463478406439",
+            "timestamp": 1463478419148,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 280,
+                "y": 961
+            }
+        },
+        {
+            "user_id": "fabien",
+            "session_id": "fabien_1463478406439",
+            "timestamp": 1463478419293,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 280,
+                "y": 961
+            }
+        },
+        {
+            "user_id": "fabien",
+            "session_id": "fabien_1463478406439",
+            "timestamp": 1463478421508,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 179,
+                "y": 634
+            }
+        },
+        {
+            "user_id": "fabien",
+            "session_id": "fabien_1463478406439",
+            "timestamp": 1463478421595,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 179,
+                "y": 633
+            }
+        },
+        {
+            "user_id": "fabien",
+            "session_id": "fabien_1463478406439",
+            "timestamp": 1463478428865,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 78,
+                "y": 811
+            }
+        },
+        {
+            "user_id": "fabien",
+            "session_id": "fabien_1463478406439",
+            "timestamp": 1463478428961,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 78,
+                "y": 811
+            }
+        },
+        {
+            "user_id": "fabien",
+            "session_id": "fabien_1463478406439",
+            "timestamp": 1463478478480,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 724,
+                "y": 974
+            }
+        },
+        {
+            "user_id": "fabien",
+            "session_id": "fabien_1463478406439",
+            "timestamp": 1463478478588,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 724,
+                "y": 973
+            }
+        },
+        {
+            "user_id": "fabien",
+            "session_id": "fabien_1463478406439",
+            "timestamp": 1463478480742,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 836,
+                "y": 972
+            }
+        },
+        {
+            "user_id": "fabien",
+            "session_id": "fabien_1463478406439",
+            "timestamp": 1463478480836,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 836,
+                "y": 972
+            }
+        },
+        {
+            "user_id": "fabien",
+            "session_id": "fabien_1463478406439",
+            "timestamp": 1463478480854,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 836,
+                "y": 972
+            }
+        },
+        {
+            "user_id": "fabien",
+            "session_id": "fabien_1463478406439",
+            "timestamp": 1463478481149,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 821,
+                "y": 963
+            }
+        },
+        {
+            "user_id": "fabien",
+            "session_id": "fabien_1463478406439",
+            "timestamp": 1463478481259,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 821,
+                "y": 963
+            }
+        },
+        {
+            "user_id": "fabien",
+            "session_id": "fabien_1463478406439",
+            "timestamp": 1463478568883,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 316,
+                "y": 725
+            }
+        },
+        {
+            "user_id": "fabien",
+            "session_id": "fabien_1463478406439",
+            "timestamp": 1463478569007,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 316,
+                "y": 724
+            }
+        },
+        {
+            "user_id": "fabien",
+            "session_id": "fabien_1463478406439",
+            "timestamp": 1463478590437,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 946,
+                "y": 892
+            }
+        },
+        {
+            "user_id": "fabien",
+            "session_id": "fabien_1463478406439",
+            "timestamp": 1463478590538,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 946,
+                "y": 892
+            }
+        },
+        {
+            "user_id": "fabien",
+            "session_id": "fabien_1463478406439",
+            "timestamp": 1463478590963,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 946,
+                "y": 892
+            }
+        },
+        {
+            "user_id": "fabien",
+            "session_id": "fabien_1463478406439",
+            "timestamp": 1463478591049,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 946,
+                "y": 892
+            }
+        },
+        {
+            "user_id": "fabien",
+            "session_id": "fabien_1463478406439",
+            "timestamp": 1463478591049,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 946,
+                "y": 892
+            }
+        },
+        {
+            "user_id": "fabien",
+            "session_id": "fabien_1463478406439",
+            "timestamp": 1463478591629,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 740,
+                "y": 813
+            }
+        },
+        {
+            "user_id": "fabien",
+            "session_id": "fabien_1463478406439",
+            "timestamp": 1463478591717,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 740,
+                "y": 813
+            }
+        },
+        {
+            "user_id": "fabien",
+            "session_id": "fabien_1463478406439",
+            "timestamp": 1463478591733,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 740,
+                "y": 813
+            }
+        },
+        {
+            "user_id": "fabien",
+            "session_id": "fabien_1463478406439",
+            "timestamp": 1463478642456,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "statement_pane",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1390,
+                "y": 152
+            }
+        },
+        {
+            "user_id": "fabien",
+            "session_id": "fabien_1463478406439",
+            "timestamp": 1463478642575,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "statement_pane",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1390,
+                "y": 152
+            }
+        },
+        {
+            "user_id": "fabien",
+            "session_id": "fabien_1463478406439",
+            "timestamp": 1463478668135,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "main_pane",
+                "which": "Les phases du cycle cellulaire",
+                "x": 805,
+                "y": 354
+            }
+        },
+        {
+            "user_id": "fabien",
+            "session_id": "fabien_1463478406439",
+            "timestamp": 1463478668204,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "main_pane",
+                "which": "Les phases du cycle cellulaire",
+                "x": 805,
+                "y": 354
+            }
+        },
+        {
+            "user_id": "fabien",
+            "session_id": "fabien_1463478406439",
+            "timestamp": 1463478685716,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 206,
+                "y": 770
+            }
+        },
+        {
+            "user_id": "fabien",
+            "session_id": "fabien_1463478406439",
+            "timestamp": 1463478685819,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 206,
+                "y": 770
+            }
+        },
+        {
+            "user_id": "fabien",
+            "session_id": "fabien_1463478406439",
+            "timestamp": 1463478687084,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 128,
+                "y": 625
+            }
+        },
+        {
+            "user_id": "fabien",
+            "session_id": "fabien_1463478406439",
+            "timestamp": 1463478687166,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 127,
+                "y": 624
+            }
+        },
+        {
+            "user_id": "fabien",
+            "session_id": "fabien_1463478406439",
+            "timestamp": 1463478687182,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 127,
+                "y": 624
+            }
+        },
+        {
+            "user_id": "fabien",
+            "session_id": "fabien_1463478406439",
+            "timestamp": 1463478708136,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 431,
+                "y": 501
+            }
+        },
+        {
+            "user_id": "fabien",
+            "session_id": "fabien_1463478406439",
+            "timestamp": 1463478708237,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 431,
+                "y": 501
+            }
+        },
+        {
+            "user_id": "fabien",
+            "session_id": "fabien_1463478406439",
+            "timestamp": 1463478709219,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "main_pane",
+                "which": "Les phases du cycle cellulaire",
+                "x": 902,
+                "y": 506
+            }
+        },
+        {
+            "user_id": "fabien",
+            "session_id": "fabien_1463478406439",
+            "timestamp": 1463478709357,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "main_pane",
+                "which": "Les phases du cycle cellulaire",
+                "x": 901,
+                "y": 504
+            }
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "events": [
+        {
+            "user_id": "zdmjhlf",
+            "session_id": "zdmjhlf_1467276660663",
+            "timestamp": 1467276663219,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "-1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "hypothesis",
+                "x": 1398,
+                "y": 679
+            }
+        },
+        {
+            "user_id": "zdmjhlf",
+            "session_id": "zdmjhlf_1467276660663",
+            "timestamp": 1467276664775,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Hypothèses à vérifier",
+                "x": 1398,
+                "y": 679
+            }
+        },
+        {
+            "user_id": "zdmjhlf",
+            "session_id": "zdmjhlf_1467276660663",
+            "timestamp": 1467276664865,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Hypothèses à vérifier",
+                "x": 1398,
+                "y": 679
+            }
+        },
+        {
+            "user_id": "zdmjhlf",
+            "session_id": "zdmjhlf_1467276660663",
+            "timestamp": 1467276664885,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Hypothèses à vérifier",
+                "x": 1398,
+                "y": 679
+            }
+        },
+        {
+            "user_id": "zdmjhlf",
+            "session_id": "zdmjhlf_1467276660663",
+            "timestamp": 1467276670093,
+            "sequence_id": 3,
+            "section_id": "1",
+            "activity_id": "-1",
+            "activity_kind": "planning",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "protocol",
+                "x": 1398,
+                "y": 679
+            }
+        }
+    ]
+}

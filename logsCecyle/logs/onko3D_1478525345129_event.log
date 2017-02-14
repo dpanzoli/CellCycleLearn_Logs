@@ -1,0 +1,116 @@
+{
+    "events": [
+        {
+            "user_id": "onko3D",
+            "session_id": "onko3D_1478525345129",
+            "timestamp": 1478512491645,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 133,
+                "y": 179
+            }
+        },
+        {
+            "user_id": "onko3D",
+            "session_id": "onko3D_1478525345129",
+            "timestamp": 1478512492800,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 133,
+                "y": 179
+            }
+        },
+        {
+            "user_id": "onko3D",
+            "session_id": "onko3D_1478525345129",
+            "timestamp": 1478512493537,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 163,
+                "y": 284
+            }
+        },
+        {
+            "user_id": "onko3D",
+            "session_id": "onko3D_1478525345129",
+            "timestamp": 1478512496174,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "-1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "requirements",
+                "x": 1228,
+                "y": 698
+            }
+        },
+        {
+            "user_id": "onko3D",
+            "session_id": "onko3D_1478525345129",
+            "timestamp": 1478512641211,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "S",
+                "x": 968,
+                "y": 258
+            }
+        },
+        {
+            "user_id": "onko3D",
+            "session_id": "onko3D_1478525345129",
+            "timestamp": 1478512641251,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "S",
+                "x": 968,
+                "y": 258
+            }
+        },
+        {
+            "user_id": "onko3D",
+            "session_id": "onko3D_1478525345129",
+            "timestamp": 1478512641264,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "DD_sticker",
+                "which": "S",
+                "x": 968,
+                "y": 258
+            }
+        }
+    ]
+}

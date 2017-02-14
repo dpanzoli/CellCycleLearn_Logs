@@ -1,0 +1,2100 @@
+{
+    "events": [
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797360046,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 401,
+                "y": 120
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797361587,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 164,
+                "y": 171
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797365529,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 165,
+                "y": 178
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797407255,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "-1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "requirements",
+                "x": 1348,
+                "y": 691
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797414722,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "toggle_btn",
+                "which": "timer",
+                "x": 1128,
+                "y": 59
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797414884,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "toggle_btn",
+                "which": "timer",
+                "x": 1128,
+                "y": 59
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797414899,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "toggle_btn",
+                "which": "timer",
+                "x": 1128,
+                "y": 59
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797416903,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "notepad_btn",
+                "which": "appbar",
+                "x": 1205,
+                "y": 49
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797417055,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "notepad_btn",
+                "which": "appbar",
+                "x": 1205,
+                "y": 49
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797417121,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "notepad_btn",
+                "which": "appbar",
+                "x": 1205,
+                "y": 49
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797418439,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "textarea",
+                "which": "notepad",
+                "x": 283,
+                "y": 124
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797419715,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "textarea",
+                "which": "notepad",
+                "x": 318,
+                "y": 236
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797419712,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "textarea",
+                "which": "notepad",
+                "x": 318,
+                "y": 236
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797420128,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "mainpane",
+                "which": "notepad",
+                "x": 313,
+                "y": 46
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797424296,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "mainpane",
+                "which": "notepad",
+                "x": 470,
+                "y": 153
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797425758,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "textarea",
+                "which": "notepad",
+                "x": 326,
+                "y": 219
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797425942,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "textarea",
+                "which": "notepad",
+                "x": 326,
+                "y": 219
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797425944,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "textarea",
+                "which": "notepad",
+                "x": 326,
+                "y": 219
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797434365,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "quit_btn",
+                "which": "notepad",
+                "x": 568,
+                "y": 120
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797434565,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "quit_btn",
+                "which": "notepad",
+                "x": 568,
+                "y": 120
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797434578,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "main_pane",
+                "which": "Les phases du cycle cellulaire",
+                "x": 568,
+                "y": 120
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797436388,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "calc_btn",
+                "which": "appbar",
+                "x": 1285,
+                "y": 56
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797436636,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "calc_btn",
+                "which": "appbar",
+                "x": 1285,
+                "y": 56
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797436647,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "calc_btn",
+                "which": "appbar",
+                "x": 1285,
+                "y": 56
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797438105,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "main_pane",
+                "which": "calculator",
+                "x": 93,
+                "y": 72
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797438729,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "main_pane",
+                "which": "calculator",
+                "x": 172,
+                "y": 166
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797438733,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "main_pane",
+                "which": "calculator",
+                "x": 172,
+                "y": 166
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797439162,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "main_pane",
+                "which": "calculator",
+                "x": 177,
+                "y": 142
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797439695,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "main_pane",
+                "which": "calculator",
+                "x": 247,
+                "y": 236
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797440353,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "main_pane",
+                "which": "calculator",
+                "x": 68,
+                "y": 207
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797440824,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "main_pane",
+                "which": "calculator",
+                "x": 86,
+                "y": 238
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797441320,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "main_pane",
+                "which": "calculator",
+                "x": 138,
+                "y": 82
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797441774,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "main_pane",
+                "which": "calculator",
+                "x": 156,
+                "y": 121
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797441776,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "main_pane",
+                "which": "calculator",
+                "x": 156,
+                "y": 121
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797442702,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "main_pane",
+                "which": "calculator",
+                "x": 47,
+                "y": 10
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797446019,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "main_pane",
+                "which": "calculator",
+                "x": 204,
+                "y": 120
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797451699,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "quit_btn",
+                "which": "calc",
+                "x": 181,
+                "y": 122
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797451893,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "quit_btn",
+                "which": "calc",
+                "x": 181,
+                "y": 122
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797451906,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 181,
+                "y": 122
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797456146,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "G0",
+                "x": 1156,
+                "y": 260
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797457821,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "G0",
+                "x": 973,
+                "y": 246
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797458905,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "L",
+                "x": 1140,
+                "y": 337
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797461361,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "L",
+                "x": 879,
+                "y": 336
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797463587,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/act0/dd1.png",
+                "x": 1174,
+                "y": 407
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797468054,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/act0/dd1.png",
+                "x": 970,
+                "y": 360
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797468930,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/act0/dd3.png",
+                "x": 1270,
+                "y": 427
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797470667,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/act0/dd3.png",
+                "x": 602,
+                "y": 161
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797471909,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/act0/dd4.png",
+                "x": 1278,
+                "y": 538
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797473425,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/act0/dd4.png",
+                "x": 507,
+                "y": 532
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797474191,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/act0/dd2.png",
+                "x": 1193,
+                "y": 537
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797475758,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/act0/dd2.png",
+                "x": 924,
+                "y": 589
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797478890,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "S",
+                "x": 1291,
+                "y": 257
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797481261,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "S",
+                "x": 1270,
+                "y": 296
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797483580,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "G1",
+                "x": 1106,
+                "y": 260
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797485867,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "G1",
+                "x": 808,
+                "y": 519
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797487428,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "G2",
+                "x": 1326,
+                "y": 333
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797489020,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "G2",
+                "x": 661,
+                "y": 260
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797490156,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "M",
+                "x": 1230,
+                "y": 253
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797492576,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "M",
+                "x": 602,
+                "y": 464
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797494454,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1356,
+                "y": 690
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797494631,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1356,
+                "y": 690
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797494637,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1356,
+                "y": 690
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797501050,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/act0/dd2.png",
+                "x": 903,
+                "y": 600
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797502426,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/act0/dd4.png",
+                "x": 514,
+                "y": 499
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797505865,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/act0/dd4.png",
+                "x": 1288,
+                "y": 530
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797507164,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/act0/dd4.png",
+                "x": 894,
+                "y": 576
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797510866,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "G2",
+                "x": 661,
+                "y": 265
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797513276,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "G2",
+                "x": 882,
+                "y": 329
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797514616,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "G1",
+                "x": 813,
+                "y": 518
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797516869,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_slot",
+                "which": "3",
+                "x": 655,
+                "y": 255
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797517922,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "M",
+                "x": 592,
+                "y": 461
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797519530,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "M",
+                "x": 798,
+                "y": 515
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797521985,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "S",
+                "x": 1290,
+                "y": 250
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797524761,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "S",
+                "x": 608,
+                "y": 453
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797526622,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1322,
+                "y": 684
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797526801,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1322,
+                "y": 684
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797526808,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1322,
+                "y": 684
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797532305,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "G1",
+                "x": 650,
+                "y": 259
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797533409,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "G1",
+                "x": 868,
+                "y": 321
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797535472,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "M",
+                "x": 813,
+                "y": 528
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797539700,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_slot",
+                "which": "3",
+                "x": 649,
+                "y": 263
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797545047,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "G3",
+                "x": 1254,
+                "y": 331
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797547504,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "G3",
+                "x": 811,
+                "y": 520
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797549190,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "S",
+                "x": 612,
+                "y": 466
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797550372,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "S",
+                "x": 1206,
+                "y": 351
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797552403,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "P",
+                "x": 1193,
+                "y": 328
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797554049,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "P",
+                "x": 601,
+                "y": 469
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797555601,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1322,
+                "y": 682
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797555757,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1322,
+                "y": 682
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797555762,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1322,
+                "y": 682
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797559234,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1341,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797559238,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1341,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797559254,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1341,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797578199,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "notepad_btn",
+                "which": "appbar",
+                "x": 1206,
+                "y": 66
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797578361,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "notepad_btn",
+                "which": "appbar",
+                "x": 1206,
+                "y": 66
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797578368,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "notepad_btn",
+                "which": "appbar",
+                "x": 1206,
+                "y": 66
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797581136,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "textarea",
+                "which": "notepad",
+                "x": 233,
+                "y": 241
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797581304,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "textarea",
+                "which": "notepad",
+                "x": 233,
+                "y": 241
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797581311,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "textarea",
+                "which": "notepad",
+                "x": 233,
+                "y": 241
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797608002,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "mainpane",
+                "which": "notepad",
+                "x": 391,
+                "y": 129
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797611065,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "mainpane",
+                "which": "notepad",
+                "x": 379,
+                "y": 304
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797613638,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 925,
+                "y": 327
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797613777,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 925,
+                "y": 327
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797613778,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 925,
+                "y": 327
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797614967,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 905,
+                "y": 229
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797630562,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "textarea",
+                "which": "notepad",
+                "x": 421,
+                "y": 471
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797630569,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 384,
+                "y": 70
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797630572,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 384,
+                "y": 70
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797633702,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "textarea",
+                "which": "notepad",
+                "x": 479,
+                "y": 426
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797633832,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "textarea",
+                "which": "notepad",
+                "x": 479,
+                "y": 426
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797633831,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "textarea",
+                "which": "notepad",
+                "x": 479,
+                "y": 426
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797638151,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "textarea",
+                "which": "notepad",
+                "x": 422,
+                "y": 572
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797638909,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "mainpane",
+                "which": "notepad",
+                "x": 465,
+                "y": 360
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797638911,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "mainpane",
+                "which": "notepad",
+                "x": 465,
+                "y": 360
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797639760,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "mainpane",
+                "which": "notepad",
+                "x": 367,
+                "y": 331
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797639875,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "mainpane",
+                "which": "notepad",
+                "x": 367,
+                "y": 331
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797639880,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "mainpane",
+                "which": "notepad",
+                "x": 367,
+                "y": 331
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797640873,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 370,
+                "y": 279
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797641446,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 382,
+                "y": 162
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797641443,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 382,
+                "y": 162
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797645490,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "textarea",
+                "which": "notepad",
+                "x": 361,
+                "y": 471
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797646658,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 360,
+                "y": 216
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797646661,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 360,
+                "y": 216
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797647619,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "textarea",
+                "which": "notepad",
+                "x": 522,
+                "y": 365
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797647808,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "textarea",
+                "which": "notepad",
+                "x": 522,
+                "y": 365
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797647811,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "textarea",
+                "which": "notepad",
+                "x": 522,
+                "y": 365
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797648792,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "quit_btn",
+                "which": "notepad",
+                "x": 560,
+                "y": 296
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797648960,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "quit_btn",
+                "which": "notepad",
+                "x": 560,
+                "y": 296
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797648970,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 560,
+                "y": 296
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797651309,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "memo_pane",
+                "which": "Les phases du cycle cellulaire",
+                "x": 613,
+                "y": 54
+            }
+        },
+        {
+            "user_id": "shirley",
+            "session_id": "shirley_1465797434586",
+            "timestamp": 1465797651872,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 643,
+                "y": 207
+            }
+        }
+    ]
+}

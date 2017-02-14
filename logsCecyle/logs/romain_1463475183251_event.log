@@ -1,0 +1,84 @@
+{
+    "events": [
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463475183251",
+            "timestamp": 1463475112714,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "notepad_btn",
+                "which": "appbar",
+                "x": 1407,
+                "y": 52
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463475183251",
+            "timestamp": 1463475114236,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "interface_pane",
+                "which": "iconbar_wrapper",
+                "x": 417,
+                "y": 17
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463475183251",
+            "timestamp": 1463475131200,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 139,
+                "y": 115
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463475183251",
+            "timestamp": 1463475133809,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 518,
+                "y": 171
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463475183251",
+            "timestamp": 1463475139553,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "logout_btn",
+                "which": "appbar",
+                "x": 1570,
+                "y": 50
+            }
+        }
+    ]
+}

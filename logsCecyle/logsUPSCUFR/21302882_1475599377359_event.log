@@ -1,0 +1,100 @@
+{
+    "events": [
+        {
+            "user_id": "21302882",
+            "session_id": "21302882_1475599377359",
+            "timestamp": 1475586552165,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "-1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "requirements",
+                "x": 1318,
+                "y": 687
+            }
+        },
+        {
+            "user_id": "21302882",
+            "session_id": "21302882_1475599377359",
+            "timestamp": 1475586586791,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "previous_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 453,
+                "y": 702
+            }
+        },
+        {
+            "user_id": "21302882",
+            "session_id": "21302882_1475599377359",
+            "timestamp": 1475586586864,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "previous_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 452,
+                "y": 701
+            }
+        },
+        {
+            "user_id": "21302882",
+            "session_id": "21302882_1475599377359",
+            "timestamp": 1475586586891,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "previous_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 452,
+                "y": 701
+            }
+        },
+        {
+            "user_id": "21302882",
+            "session_id": "21302882_1475599377359",
+            "timestamp": 1475586590441,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "toggle_btn",
+                "which": "timer",
+                "x": 1079,
+                "y": 69
+            }
+        },
+        {
+            "user_id": "21302882",
+            "session_id": "21302882_1475599377359",
+            "timestamp": 1475586592206,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "logout_btn",
+                "which": "appbar",
+                "x": 1313,
+                "y": 78
+            }
+        }
+    ]
+}

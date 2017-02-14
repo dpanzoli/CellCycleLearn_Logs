@@ -1,0 +1,607 @@
+{
+    "inputs": [
+        {
+            "user_id": "cecyle",
+            "session_id": "cecyle_1480354485975",
+            "timestamp": 1480341894202,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": []
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "1"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": []
+                    },
+                    {
+                        "slot": 4,
+                        "stickers": [
+                            "0"
+                        ]
+                    },
+                    {
+                        "slot": 5,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 6,
+                        "stickers": []
+                    },
+                    {
+                        "slot": 7,
+                        "stickers": []
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "cecyle",
+            "session_id": "cecyle_1480354485975",
+            "timestamp": 1480341932562,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": 1,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "0"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "1"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "cecyle",
+            "session_id": "cecyle_1480354485975",
+            "timestamp": 1480341972266,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": 1,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "0"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "1",
+                            "2"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "cecyle",
+            "session_id": "cecyle_1480354485975",
+            "timestamp": 1480342064780,
+            "sequence_id": 2,
+            "section_id": 1,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": []
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": []
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "0"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": []
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "cecyle",
+            "session_id": "cecyle_1480354485975",
+            "timestamp": 1480342375102,
+            "sequence_id": 2,
+            "section_id": 1,
+            "activity_id": 1,
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.2948717948717949,
+                    0.3487179487179487,
+                    0.49743589743589745,
+                    0.5512820512820513,
+                    0.6948717948717948,
+                    0.8025641025641026,
+                    1
+                ]
+            }
+        },
+        {
+            "user_id": "cecyle",
+            "session_id": "cecyle_1480354485975",
+            "timestamp": 1480342633561,
+            "sequence_id": 2,
+            "section_id": 2,
+            "activity_id": 0,
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Input",
+                "user_input": {
+                    "protocol": [
+                        "-36",
+                        "132",
+                        "12"
+                    ],
+                    "temoincheck": true,
+                    "culture": [
+                        {
+                            "condition": "- sérum",
+                            "time": "0"
+                        }
+                    ],
+                    "temoin": [
+                        {
+                            "condition": "+ sérum",
+                            "time": "0"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "user_id": "cecyle",
+            "session_id": "cecyle_1480354485975",
+            "timestamp": 1480342657049,
+            "sequence_id": 2,
+            "section_id": 2,
+            "activity_id": 0,
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Input",
+                "user_input": {
+                    "protocol": [
+                        "-36",
+                        "72",
+                        "12"
+                    ],
+                    "temoincheck": true,
+                    "culture": [
+                        {
+                            "condition": "- sérum",
+                            "time": "0"
+                        }
+                    ],
+                    "temoin": [
+                        {
+                            "condition": "+ sérum",
+                            "time": "0"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "user_id": "cecyle",
+            "session_id": "cecyle_1480354485975",
+            "timestamp": 1480342855208,
+            "sequence_id": 2,
+            "section_id": 2,
+            "activity_id": 1,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "8"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "cecyle",
+            "session_id": "cecyle_1480354485975",
+            "timestamp": 1480343605654,
+            "sequence_id": 2,
+            "section_id": 2,
+            "activity_id": 5,
+            "activity_kind": "doublepipette",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    3,
+                    0.005,
+                    18,
+                    3,
+                    0.1,
+                    21
+                ]
+            }
+        },
+        {
+            "user_id": "cecyle",
+            "session_id": "cecyle_1480354485975",
+            "timestamp": 1480343713794,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "0"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "1"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 4,
+                        "stickers": [
+                            "4"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "cecyle",
+            "session_id": "cecyle_1480354485975",
+            "timestamp": 1480343715803,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": []
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": []
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "0"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": []
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "cecyle",
+            "session_id": "cecyle_1480354485975",
+            "timestamp": 1480343734011,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": []
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": []
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "0"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": []
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "cecyle",
+            "session_id": "cecyle_1480354485975",
+            "timestamp": 1480343734026,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": []
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": []
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": []
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "0"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "cecyle",
+            "session_id": "cecyle_1480354485975",
+            "timestamp": 1480343748394,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.2948717948717949,
+                    0.3487179487179487,
+                    0.49743589743589745,
+                    0.5512820512820513,
+                    0.6948717948717948,
+                    0.8025641025641026,
+                    1
+                ]
+            }
+        },
+        {
+            "user_id": "cecyle",
+            "session_id": "cecyle_1480354485975",
+            "timestamp": 1480343763461,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.2948717948717949,
+                    0.3487179487179487,
+                    0.6025641025641025,
+                    0.5512820512820513,
+                    0.6948717948717948,
+                    0.8025641025641026,
+                    1
+                ]
+            }
+        },
+        {
+            "user_id": "cecyle",
+            "session_id": "cecyle_1480354485975",
+            "timestamp": 1480343769412,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.5564102564102564,
+                    0.3487179487179487,
+                    0.6025641025641025,
+                    0.5512820512820513,
+                    0.6948717948717948,
+                    0.8025641025641026,
+                    1
+                ]
+            }
+        },
+        {
+            "user_id": "cecyle",
+            "session_id": "cecyle_1480354485975",
+            "timestamp": 1480343774826,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.5564102564102564,
+                    0.5769230769230769,
+                    0.6025641025641025,
+                    0.5512820512820513,
+                    0.6948717948717948,
+                    0.8025641025641026,
+                    1
+                ]
+            }
+        },
+        {
+            "user_id": "cecyle",
+            "session_id": "cecyle_1480354485975",
+            "timestamp": 1480343778822,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.5564102564102564,
+                    0.5769230769230769,
+                    0.6025641025641025,
+                    0.5512820512820513,
+                    0.8692307692307693,
+                    0.8025641025641026,
+                    1
+                ]
+            }
+        },
+        {
+            "user_id": "cecyle",
+            "session_id": "cecyle_1480354485975",
+            "timestamp": 1480343781693,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.5564102564102564,
+                    0.5769230769230769,
+                    0.6025641025641025,
+                    0.5512820512820513,
+                    0.8692307692307693,
+                    0.9641025641025641,
+                    1
+                ]
+            }
+        },
+        {
+            "user_id": "cecyle",
+            "session_id": "cecyle_1480354485975",
+            "timestamp": 1480343783845,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.5564102564102564,
+                    0.5769230769230769,
+                    0.6025641025641025,
+                    0.5512820512820513,
+                    0.8692307692307693,
+                    0.9641025641025641,
+                    1
+                ]
+            }
+        },
+        {
+            "user_id": "cecyle",
+            "session_id": "cecyle_1480354485975",
+            "timestamp": 1480343841222,
+            "sequence_id": 2,
+            "section_id": 5,
+            "activity_id": 0,
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    "prolifération",
+                    "facteurs de croissance",
+                    "G1/S",
+                    "G1",
+                    "synchronisées",
+                    "G0"
+                ]
+            }
+        },
+        {
+            "user_id": "cecyle",
+            "session_id": "cecyle_1480354485975",
+            "timestamp": 1480343844599,
+            "sequence_id": 2,
+            "section_id": 5,
+            "activity_id": 0,
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    "prolifération",
+                    "facteurs de croissance",
+                    "le point de restriction",
+                    "G1",
+                    "synchronisées",
+                    "G0"
+                ]
+            }
+        }
+    ]
+}

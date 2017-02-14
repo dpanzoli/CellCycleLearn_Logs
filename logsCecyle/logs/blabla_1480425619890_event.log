@@ -1,0 +1,36 @@
+{
+    "events": [
+        {
+            "user_id": "blabla",
+            "session_id": "blabla_1480425619890",
+            "timestamp": 1480412758858,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 3,
+                "y": 212
+            }
+        },
+        {
+            "user_id": "blabla",
+            "session_id": "blabla_1480425619890",
+            "timestamp": 1480412759173,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 108,
+                "y": 214
+            }
+        }
+    ]
+}

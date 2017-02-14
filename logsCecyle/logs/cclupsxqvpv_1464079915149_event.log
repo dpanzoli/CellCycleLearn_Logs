@@ -1,0 +1,964 @@
+{
+    "events": [
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079854584,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "-1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "requirements",
+                "x": 1250,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079869878,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "G0",
+                "x": 1155,
+                "y": 271
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079870504,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "G0",
+                "x": 857,
+                "y": 250
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079871632,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "G1",
+                "x": 1210,
+                "y": 265
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079872279,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "G1",
+                "x": 740,
+                "y": 328
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079873712,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "M",
+                "x": 1071,
+                "y": 335
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079874399,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "M",
+                "x": 536,
+                "y": 264
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079875144,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "S",
+                "x": 1182,
+                "y": 334
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079875879,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "S",
+                "x": 681,
+                "y": 520
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079878568,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "G2",
+                "x": 1016,
+                "y": 333
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079879623,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "G2",
+                "x": 470,
+                "y": 469
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079880592,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/act0/dd1.png",
+                "x": 1173,
+                "y": 434
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079881327,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/act0/dd1.png",
+                "x": 868,
+                "y": 396
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079882103,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/act0/dd4.png",
+                "x": 1160,
+                "y": 547
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079882582,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/act0/dd4.png",
+                "x": 760,
+                "y": 608
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079883143,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/act0/dd2.png",
+                "x": 1042,
+                "y": 438
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079883742,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/act0/dd2.png",
+                "x": 372,
+                "y": 547
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079884343,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/act0/dd3.png",
+                "x": 1033,
+                "y": 551
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079884894,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/act0/dd3.png",
+                "x": 443,
+                "y": 172
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079885558,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1215,
+                "y": 678
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079885670,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1215,
+                "y": 678
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079885676,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1215,
+                "y": 678
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079886647,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1213,
+                "y": 696
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079886735,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1213,
+                "y": 696
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079886748,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1213,
+                "y": 696
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079890471,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1239,
+                "y": 692
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079890582,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1239,
+                "y": 692
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079890596,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1239,
+                "y": 692
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079892548,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "-1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "hypothesis",
+                "x": 1237,
+                "y": 689
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079897887,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "14h",
+                "x": 1217,
+                "y": 441
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079898878,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "14h",
+                "x": 848,
+                "y": 372
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079899647,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "9h",
+                "x": 1153,
+                "y": 427
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079900526,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "9h",
+                "x": 428,
+                "y": 474
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079901383,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "4h45",
+                "x": 1134,
+                "y": 520
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079904105,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "4h45",
+                "x": 1111,
+                "y": 592
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079904458,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "1h00",
+                "x": 1058,
+                "y": 515
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079905062,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "1h00",
+                "x": 728,
+                "y": 583
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079905774,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "0h30",
+                "x": 1071,
+                "y": 439
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079906757,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "0h30",
+                "x": 571,
+                "y": 169
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079907670,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "La durée des phases du cycle cellulaire",
+                "x": 1202,
+                "y": 690
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079907749,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "La durée des phases du cycle cellulaire",
+                "x": 1202,
+                "y": 690
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079907761,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "La durée des phases du cycle cellulaire",
+                "x": 1202,
+                "y": 690
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079913462,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "La durée des phases du cycle cellulaire",
+                "x": 1214,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079913630,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "La durée des phases du cycle cellulaire",
+                "x": 1214,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079913656,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "La durée des phases du cycle cellulaire",
+                "x": 1214,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079923942,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "statement_pane",
+                "which": "Courbe de croissance dans des conditions optimales",
+                "x": 1178,
+                "y": 317
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079924566,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "statement_pane",
+                "which": "Courbe de croissance dans des conditions optimales",
+                "x": 1079,
+                "y": 474
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079928990,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "statement_pane",
+                "which": "Courbe de croissance dans des conditions optimales",
+                "x": 1074,
+                "y": 521
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079953334,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Courbe de croissance dans des conditions optimales",
+                "x": 574,
+                "y": 436
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079966693,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Courbe de croissance dans des conditions optimales",
+                "x": 665,
+                "y": 435
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079969165,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Courbe de croissance dans des conditions optimales",
+                "x": 391,
+                "y": 497
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079971253,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Courbe de croissance dans des conditions optimales",
+                "x": 483,
+                "y": 497
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079975093,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Courbe de croissance dans des conditions optimales",
+                "x": 585,
+                "y": 500
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079982423,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Courbe de croissance dans des conditions optimales",
+                "x": 755,
+                "y": 306
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079985709,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Courbe de croissance dans des conditions optimales",
+                "x": 667,
+                "y": 404
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079990420,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Courbe de croissance dans des conditions optimales",
+                "x": 858,
+                "y": 203
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079993340,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Courbe de croissance dans des conditions optimales",
+                "x": 665,
+                "y": 412
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464079993724,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Courbe de croissance dans des conditions optimales",
+                "x": 819,
+                "y": 414
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464080002205,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Courbe de croissance dans des conditions optimales",
+                "x": 1225,
+                "y": 693
+            }
+        },
+        {
+            "user_id": "cclupsxqvpv",
+            "session_id": "cclupsxqvpv_1464079915149",
+            "timestamp": 1464080010378,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Courbe de croissance dans des conditions optimales",
+                "x": 1218,
+                "y": 688
+            }
+        }
+    ]
+}

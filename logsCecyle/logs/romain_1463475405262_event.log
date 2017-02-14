@@ -1,0 +1,212 @@
+{
+    "events": [
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463475405262",
+            "timestamp": 1463475380346,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "-1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "transition_pane",
+                "which": "results",
+                "x": 1308,
+                "y": 496
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463475405262",
+            "timestamp": 1463475381395,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "-1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "transition_pane",
+                "which": "results",
+                "x": 1054,
+                "y": 216
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463475405262",
+            "timestamp": 1463475402577,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1805,
+                "y": 358
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463475405262",
+            "timestamp": 1463475544074,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 506,
+                "y": 319
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463475405262",
+            "timestamp": 1463475545210,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 491,
+                "y": 693
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463475405262",
+            "timestamp": 1463475545938,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 344,
+                "y": 660
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463475405262",
+            "timestamp": 1463475585446,
+            "sequence_id": 1,
+            "section_id": 2,
+            "activity_id": 1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "menu_item",
+                "which": "Nombres de boîtes de Pétri",
+                "x": 492,
+                "y": 569
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463475405262",
+            "timestamp": 1463475587765,
+            "sequence_id": 1,
+            "section_id": 1,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "menu_item",
+                "which": "La durée des phases du cycle cellulaire",
+                "x": 515,
+                "y": 298
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463475405262",
+            "timestamp": 1463475589913,
+            "sequence_id": 1,
+            "section_id": 1,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "menu_item",
+                "which": "Densité Cellulaire",
+                "x": 518,
+                "y": 517
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463475405262",
+            "timestamp": 1463475590001,
+            "sequence_id": 1,
+            "section_id": 1,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "menu_item",
+                "which": "Densité Cellulaire",
+                "x": 518,
+                "y": 517
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463475405262",
+            "timestamp": 1463475590008,
+            "sequence_id": 1,
+            "section_id": 2,
+            "activity_id": 3,
+            "activity_kind": "input",
+            "data": {
+                "kind": "Click",
+                "what": "menu_item",
+                "which": "Densité Cellulaire",
+                "x": 518,
+                "y": 517
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463475405262",
+            "timestamp": 1463475688561,
+            "sequence_id": 1,
+            "section_id": 2,
+            "activity_id": 3,
+            "activity_kind": "input",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 79,
+                "y": 272
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463475405262",
+            "timestamp": 1463475769763,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "3",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Densité Cellulaire",
+                "x": 1525,
+                "y": 685
+            }
+        }
+    ]
+}

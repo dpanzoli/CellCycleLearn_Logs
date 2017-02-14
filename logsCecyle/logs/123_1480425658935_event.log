@@ -1,0 +1,20 @@
+{
+    "events": [
+        {
+            "user_id": "123",
+            "session_id": "123_1480425658935",
+            "timestamp": 1480412810185,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 720,
+                "y": 217
+            }
+        }
+    ]
+}

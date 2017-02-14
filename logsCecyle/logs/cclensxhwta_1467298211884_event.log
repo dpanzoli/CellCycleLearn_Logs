@@ -1,0 +1,2407 @@
+{
+    "events": [
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298127903,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "-1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "hypothesis",
+                "x": 1248,
+                "y": 695
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298142868,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "statement_pane",
+                "which": "Hypothèses à vérifier",
+                "x": 1245,
+                "y": 210
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298142973,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "statement_pane",
+                "which": "Hypothèses à vérifier",
+                "x": 1245,
+                "y": 210
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298143493,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_slot",
+                "x": 866,
+                "y": 207
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298143588,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_slot",
+                "x": 866,
+                "y": 207
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298143591,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "DD_slot",
+                "x": 866,
+                "y": 207
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298156323,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "statement_pane",
+                "which": "Hypothèses à vérifier",
+                "x": 1135,
+                "y": 390
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298156434,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "statement_pane",
+                "which": "Hypothèses à vérifier",
+                "x": 1126,
+                "y": 390
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298156436,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "statement_pane",
+                "which": "Hypothèses à vérifier",
+                "x": 1126,
+                "y": 390
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298158019,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Hypothèses à vérifier",
+                "x": 1090,
+                "y": 687
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298158147,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Hypothèses à vérifier",
+                "x": 1090,
+                "y": 687
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298158163,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Hypothèses à vérifier",
+                "x": 1090,
+                "y": 687
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298160257,
+            "sequence_id": 3,
+            "section_id": "1",
+            "activity_id": "-1",
+            "activity_kind": "planning",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "protocol",
+                "x": 1196,
+                "y": 691
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298171452,
+            "sequence_id": 3,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "planning",
+            "data": {
+                "kind": "Click",
+                "what": "modif_milieu",
+                "which": "Planification du protocole expérimental",
+                "x": 1022,
+                "y": 317
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298172771,
+            "sequence_id": 3,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "planning",
+            "data": {
+                "kind": "Click",
+                "what": "modif_milieu",
+                "which": "Planification du protocole expérimental",
+                "x": 1031,
+                "y": 318
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298175550,
+            "sequence_id": 3,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "planning",
+            "data": {
+                "kind": "Click",
+                "what": "statement_pane",
+                "which": "Planification du protocole expérimental",
+                "x": 983,
+                "y": 443
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298179168,
+            "sequence_id": 3,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "planning",
+            "data": {
+                "kind": "Click",
+                "what": "add_event_culture",
+                "which": "Planification du protocole expérimental",
+                "x": 1071,
+                "y": 314
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298187768,
+            "sequence_id": 3,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "planning",
+            "data": {
+                "kind": "Click",
+                "what": "statement_pane",
+                "which": "Planification du protocole expérimental",
+                "x": 1226,
+                "y": 321
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298191740,
+            "sequence_id": 3,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "planning",
+            "data": {
+                "kind": "Click",
+                "what": "down_btn_facs",
+                "which": "Planification du protocole expérimental",
+                "x": 1229,
+                "y": 256
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298196294,
+            "sequence_id": 3,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "btn_bar",
+                "which": "Planification du protocole expérimental",
+                "x": 1119,
+                "y": 693
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298199485,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "-1",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "undefined",
+                "x": 1204,
+                "y": 685
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298221770,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1023,
+                "y": 335
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298231509,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1052,
+                "y": 271
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298233173,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1052,
+                "y": 289
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298234475,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1061,
+                "y": 305
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298235930,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1051,
+                "y": 329
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298237061,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1032,
+                "y": 293
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298238044,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1033,
+                "y": 264
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298239313,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1039,
+                "y": 278
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298250192,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1005,
+                "y": 507
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298251446,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1017,
+                "y": 521
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298253414,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1011,
+                "y": 505
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298254320,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1019,
+                "y": 523
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298255179,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1025,
+                "y": 539
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298280744,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1070,
+                "y": 456
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298294015,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1069,
+                "y": 475
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298354606,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1073,
+                "y": 463
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298365145,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1053,
+                "y": 502
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298373461,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "previous_btn",
+                "which": "libellé",
+                "x": 925,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298383376,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_slot",
+                "x": 558,
+                "y": 202
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298383505,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_slot",
+                "x": 558,
+                "y": 202
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298383507,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "DD_slot",
+                "x": 558,
+                "y": 202
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298384304,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_slot",
+                "x": 756,
+                "y": 224
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298384431,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_slot",
+                "x": 756,
+                "y": 224
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298384434,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "DD_slot",
+                "x": 756,
+                "y": 224
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298386728,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_slot",
+                "x": 818,
+                "y": 349
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298387223,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_slot",
+                "x": 775,
+                "y": 204
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298387784,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_slot",
+                "x": 767,
+                "y": 318
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298387879,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_slot",
+                "x": 767,
+                "y": 318
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298387882,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "DD_slot",
+                "x": 767,
+                "y": 318
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298388175,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_slot",
+                "x": 752,
+                "y": 206
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298388271,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_slot",
+                "x": 752,
+                "y": 206
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298388274,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "DD_slot",
+                "x": 752,
+                "y": 206
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298392439,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "statement_pane",
+                "which": "Hypothèses à vérifier",
+                "x": 1249,
+                "y": 222
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298392583,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "statement_pane",
+                "which": "Hypothèses à vérifier",
+                "x": 1249,
+                "y": 222
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298393175,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "statement_pane",
+                "which": "Hypothèses à vérifier",
+                "x": 1248,
+                "y": 226
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298393319,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "statement_pane",
+                "which": "Hypothèses à vérifier",
+                "x": 1248,
+                "y": 226
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298393943,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "statement_pane",
+                "which": "Hypothèses à vérifier",
+                "x": 1241,
+                "y": 202
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298394039,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "statement_pane",
+                "which": "Hypothèses à vérifier",
+                "x": 1241,
+                "y": 202
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298394041,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "statement_pane",
+                "which": "Hypothèses à vérifier",
+                "x": 1241,
+                "y": 202
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298395079,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Hypothèses à vérifier",
+                "x": 1077,
+                "y": 690
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298395151,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Hypothèses à vérifier",
+                "x": 1077,
+                "y": 690
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298395165,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "planning",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Hypothèses à vérifier",
+                "x": 1077,
+                "y": 690
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298402847,
+            "sequence_id": 3,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "btn_bar",
+                "which": "Planification du protocole expérimental",
+                "x": 1137,
+                "y": 691
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298406669,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "-1",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "undefined",
+                "x": 1157,
+                "y": 693
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298425943,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "1",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1034,
+                "y": 533
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298429396,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "1",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1053,
+                "y": 460
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298437267,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "1",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1066,
+                "y": 480
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298485554,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "previous_btn",
+                "which": "libellé",
+                "x": 905,
+                "y": 693
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298490819,
+            "sequence_id": 3,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "menu_item",
+                "which": "Expérimentation n°1",
+                "x": 235,
+                "y": 406
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298490930,
+            "sequence_id": 3,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "menu_item",
+                "which": "Expérimentation n°1",
+                "x": 235,
+                "y": 406
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298490947,
+            "sequence_id": 3,
+            "section_id": 2,
+            "activity_id": 0,
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "menu_item",
+                "which": "Expérimentation n°1",
+                "x": 235,
+                "y": 406
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298492975,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1053,
+                "y": 186
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298494119,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 906,
+                "y": 372
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298495609,
+            "sequence_id": 3,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "menu_item",
+                "which": "Hypothèses à vérifier",
+                "x": 216,
+                "y": 161
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298497344,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "x": 1093,
+                "y": 283
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298497874,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "statement_pane",
+                "which": "Hypothèses à vérifier",
+                "x": 833,
+                "y": 195
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298500106,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_slot",
+                "x": 749,
+                "y": 161
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298500218,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_slot",
+                "x": 749,
+                "y": 161
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298500221,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "DD_slot",
+                "x": 749,
+                "y": 161
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298500962,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_slot",
+                "x": 748,
+                "y": 162
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298501058,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_slot",
+                "x": 748,
+                "y": 162
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298501064,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "DD_slot",
+                "x": 748,
+                "y": 162
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298525857,
+            "sequence_id": 3,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "menu_item",
+                "which": "Expérimentation n°1",
+                "x": 184,
+                "y": 404
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298525937,
+            "sequence_id": 3,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "menu_item",
+                "which": "Expérimentation n°1",
+                "x": 184,
+                "y": 404
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298525952,
+            "sequence_id": 3,
+            "section_id": 2,
+            "activity_id": 0,
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "menu_item",
+                "which": "Expérimentation n°1",
+                "x": 184,
+                "y": 404
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298527134,
+            "sequence_id": 3,
+            "section_id": 2,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 204,
+                "y": 362
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298531751,
+            "sequence_id": 3,
+            "section_id": 2,
+            "activity_id": 0,
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "menu_item",
+                "which": "Expérimentation n°1",
+                "x": 257,
+                "y": 406
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298555872,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1094,
+                "y": 546
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298559385,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "previous_btn",
+                "which": "libellé",
+                "x": 917,
+                "y": 695
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298562735,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "x": 1113,
+                "y": 305
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298563663,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "statement_pane",
+                "which": "Hypothèses à vérifier",
+                "x": 831,
+                "y": 565
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298564831,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Hypothèses à vérifier",
+                "x": 854,
+                "y": 690
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298564918,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Hypothèses à vérifier",
+                "x": 854,
+                "y": 690
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298564930,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Hypothèses à vérifier",
+                "x": 854,
+                "y": 690
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298572806,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Hypothèses à vérifier",
+                "x": 1036,
+                "y": 693
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298572950,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Hypothèses à vérifier",
+                "x": 1036,
+                "y": 693
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298572960,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "planning",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Hypothèses à vérifier",
+                "x": 1036,
+                "y": 693
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298581159,
+            "sequence_id": 3,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "planning",
+            "data": {
+                "kind": "Click",
+                "what": "modif_milieu",
+                "which": "Planification du protocole expérimental",
+                "x": 1004,
+                "y": 346
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298582449,
+            "sequence_id": 3,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "planning",
+            "data": {
+                "kind": "Click",
+                "what": "add_event_culture",
+                "which": "Planification du protocole expérimental",
+                "x": 1087,
+                "y": 349
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298584968,
+            "sequence_id": 3,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "planning",
+            "data": {
+                "kind": "Click",
+                "what": "statement_pane",
+                "which": "Planification du protocole expérimental",
+                "x": 1223,
+                "y": 339
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298585887,
+            "sequence_id": 3,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "planning",
+            "data": {
+                "kind": "Click",
+                "what": "statement_pane",
+                "which": "Planification du protocole expérimental",
+                "x": 1223,
+                "y": 339
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298598856,
+            "sequence_id": 3,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "btn_bar",
+                "which": "Planification du protocole expérimental",
+                "x": 1156,
+                "y": 695
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298601898,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "-1",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "undefined",
+                "x": 1156,
+                "y": 695
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298608446,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1043,
+                "y": 188
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298614879,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1038,
+                "y": 265
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298618981,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1033,
+                "y": 542
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298623569,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1068,
+                "y": 527
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298624982,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1064,
+                "y": 543
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298640085,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1064,
+                "y": 560
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298641912,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1061,
+                "y": 591
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298643213,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1052,
+                "y": 551
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298644310,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1042,
+                "y": 525
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298647906,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1027,
+                "y": 543
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298650602,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 998,
+                "y": 523
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298651949,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1001,
+                "y": 507
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298655980,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1021,
+                "y": 548
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298657554,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "previous_btn",
+                "which": "libellé",
+                "x": 889,
+                "y": 687
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298662226,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_slot",
+                "x": 572,
+                "y": 408
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298662690,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_slot",
+                "x": 600,
+                "y": 521
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298663106,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_slot",
+                "x": 636,
+                "y": 584
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298663185,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_slot",
+                "x": 636,
+                "y": 584
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298663188,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "DD_slot",
+                "x": 636,
+                "y": 584
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298663898,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Hypothèses à vérifier",
+                "x": 829,
+                "y": 683
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298663979,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Hypothèses à vérifier",
+                "x": 829,
+                "y": 683
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298663993,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Hypothèses à vérifier",
+                "x": 829,
+                "y": 683
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298664547,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Hypothèses à vérifier",
+                "x": 829,
+                "y": 683
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298664609,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Hypothèses à vérifier",
+                "x": 829,
+                "y": 683
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298664622,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "btn_bar",
+                "which": "Hypothèses à vérifier",
+                "x": 829,
+                "y": 683
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298665978,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Hypothèses à vérifier",
+                "x": 1209,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298666073,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Hypothèses à vérifier",
+                "x": 1209,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298666105,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Hypothèses à vérifier",
+                "x": 1209,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298689657,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Hypothèses à vérifier",
+                "x": 1219,
+                "y": 689
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298689752,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Hypothèses à vérifier",
+                "x": 1219,
+                "y": 689
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298689780,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Hypothèses à vérifier",
+                "x": 1219,
+                "y": 689
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298694658,
+            "sequence_id": 3,
+            "section_id": "3",
+            "activity_id": "0",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "undefined",
+                "x": 1219,
+                "y": 692
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298696283,
+            "sequence_id": 3,
+            "section_id": "3",
+            "activity_id": "0",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "undefined",
+                "x": 1210,
+                "y": 688
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298698058,
+            "sequence_id": 3,
+            "section_id": "3",
+            "activity_id": "0",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "undefined",
+                "x": 1224,
+                "y": 689
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298699652,
+            "sequence_id": 3,
+            "section_id": "3",
+            "activity_id": "0",
+            "data": {
+                "kind": "Click",
+                "what": "previous_btn",
+                "which": "undefined",
+                "x": 357,
+                "y": 685
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298702420,
+            "sequence_id": 3,
+            "section_id": "3",
+            "activity_id": "-1",
+            "data": {
+                "kind": "Click",
+                "what": "previous_btn",
+                "which": "synthesis",
+                "x": 357,
+                "y": 685
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298703531,
+            "sequence_id": 3,
+            "section_id": "3",
+            "activity_id": "-1",
+            "data": {
+                "kind": "Click",
+                "what": "previous_btn",
+                "which": "synthesis",
+                "x": 375,
+                "y": 697
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298717418,
+            "sequence_id": 3,
+            "section_id": "3",
+            "activity_id": "-1",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "synthesis",
+                "x": 1208,
+                "y": 692
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298719129,
+            "sequence_id": 3,
+            "section_id": "3",
+            "activity_id": "-1",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "synthesis",
+                "x": 1220,
+                "y": 684
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298721186,
+            "sequence_id": 3,
+            "section_id": "3",
+            "activity_id": "-1",
+            "data": {
+                "kind": "Click",
+                "what": "previous_btn",
+                "which": "synthesis",
+                "x": 385,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298722983,
+            "sequence_id": 3,
+            "section_id": "3",
+            "activity_id": "-1",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1204,
+                "y": 668
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298750816,
+            "sequence_id": 3,
+            "section_id": 0,
+            "activity_id": 0,
+            "data": {
+                "kind": "Click",
+                "what": "menu_item",
+                "which": "Synthèse",
+                "x": 32,
+                "y": 688
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298753090,
+            "sequence_id": 3,
+            "section_id": 2,
+            "activity_id": 2,
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "menu_item",
+                "which": "Expérimentation n°3",
+                "x": 42,
+                "y": 575
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298756390,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "previous_btn",
+                "which": "libellé",
+                "x": 893,
+                "y": 696
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298759565,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Hypothèses à vérifier",
+                "x": 1210,
+                "y": 696
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298759654,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Hypothèses à vérifier",
+                "x": 1210,
+                "y": 696
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298759662,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Hypothèses à vérifier",
+                "x": 1210,
+                "y": 696
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298762775,
+            "sequence_id": 3,
+            "section_id": "3",
+            "activity_id": "0",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "undefined",
+                "x": 1241,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "cclensxhwta",
+            "session_id": "cclensxhwta_1467298211884",
+            "timestamp": 1467298764145,
+            "sequence_id": 3,
+            "section_id": "3",
+            "activity_id": "0",
+            "data": {
+                "kind": "Click",
+                "what": "previous_btn",
+                "which": "undefined",
+                "x": 381,
+                "y": 696
+            }
+        }
+    ]
+}

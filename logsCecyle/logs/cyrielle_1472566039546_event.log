@@ -1,0 +1,36 @@
+{
+    "events": [
+        {
+            "user_id": "cyrielle",
+            "session_id": "cyrielle_1472566039546",
+            "timestamp": 1472553244343,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "interface_pane",
+                "which": "iconbar_wrapper",
+                "x": 465,
+                "y": 64
+            }
+        },
+        {
+            "user_id": "cyrielle",
+            "session_id": "cyrielle_1472566039546",
+            "timestamp": 1472553248023,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "toggle_btn",
+                "which": "timer",
+                "x": 1319,
+                "y": 62
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "events": [
+        {
+            "user_id": "fds",
+            "session_id": "fds_1472816304185",
+            "timestamp": 1472803421695,
+            "sequence_id": 3,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "interface_pane",
+                "which": "iconbar_wrapper",
+                "x": 443,
+                "y": 65
+            }
+        },
+        {
+            "user_id": "fds",
+            "session_id": "fds_1472816304185",
+            "timestamp": 1472803422582,
+            "sequence_id": 3,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "shadow_pane",
+                "which": "info_pane",
+                "x": 870,
+                "y": 29
+            }
+        },
+        {
+            "user_id": "fds",
+            "session_id": "fds_1472816304185",
+            "timestamp": 1472803425365,
+            "sequence_id": 3,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "notepad_btn",
+                "which": "appbar",
+                "x": 1088,
+                "y": 70
+            }
+        },
+        {
+            "user_id": "fds",
+            "session_id": "fds_1472816304185",
+            "timestamp": 1472803425871,
+            "sequence_id": 3,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "notepad_btn",
+                "which": "appbar",
+                "x": 1084,
+                "y": 43
+            }
+        }
+    ]
+}

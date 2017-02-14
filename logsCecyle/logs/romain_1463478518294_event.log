@@ -1,0 +1,452 @@
+{
+    "events": [
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463478518294",
+            "timestamp": 1463478509238,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "notepad_btn",
+                "which": "appbar",
+                "x": 1392,
+                "y": 48
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463478518294",
+            "timestamp": 1463478510245,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "textarea",
+                "which": "notepad",
+                "x": 274,
+                "y": 154
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463478518294",
+            "timestamp": 1463478518769,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "interface_pane",
+                "which": "iconbar_wrapper",
+                "x": 417,
+                "y": 11
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463478518294",
+            "timestamp": 1463478742589,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 84,
+                "y": 116
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463478518294",
+            "timestamp": 1463478747726,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "-1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "requirements",
+                "x": 1544,
+                "y": 678
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463478518294",
+            "timestamp": 1463478852095,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1727,
+                "y": 274
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463478518294",
+            "timestamp": 1463478852186,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1727,
+                "y": 274
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463478518294",
+            "timestamp": 1463478852188,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1727,
+                "y": 274
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463478518294",
+            "timestamp": 1463478855471,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1818,
+                "y": 184
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463478518294",
+            "timestamp": 1463478855555,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1818,
+                "y": 184
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463478518294",
+            "timestamp": 1463478855557,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1818,
+                "y": 184
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463478518294",
+            "timestamp": 1463478908210,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_slot",
+                "which": "5",
+                "x": 803,
+                "y": 185
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463478518294",
+            "timestamp": 1463478908307,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_slot",
+                "which": "5",
+                "x": 803,
+                "y": 185
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463478518294",
+            "timestamp": 1463478909321,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_slot",
+                "which": "5",
+                "x": 777,
+                "y": 204
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463478518294",
+            "timestamp": 1463478909434,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_slot",
+                "which": "5",
+                "x": 777,
+                "y": 204
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463478518294",
+            "timestamp": 1463478909436,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "DD_slot",
+                "which": "5",
+                "x": 777,
+                "y": 204
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463478518294",
+            "timestamp": 1463478910813,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "R",
+                "x": 1344,
+                "y": 266
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463478518294",
+            "timestamp": 1463478911915,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "R",
+                "x": 914,
+                "y": 186
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463478518294",
+            "timestamp": 1463478952815,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "R",
+                "x": 902,
+                "y": 155
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463478518294",
+            "timestamp": 1463478953219,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "R",
+                "x": 1553,
+                "y": 414
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463478518294",
+            "timestamp": 1463478954723,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "R",
+                "x": 908,
+                "y": 162
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463478518294",
+            "timestamp": 1463478954809,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "R",
+                "x": 908,
+                "y": 162
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463478518294",
+            "timestamp": 1463478954811,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "DD_sticker",
+                "which": "R",
+                "x": 908,
+                "y": 162
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463478518294",
+            "timestamp": 1463478954890,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "R",
+                "x": 908,
+                "y": 162
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463478518294",
+            "timestamp": 1463478954993,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "R",
+                "x": 908,
+                "y": 162
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463478518294",
+            "timestamp": 1463478954997,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "DD_sticker",
+                "which": "R",
+                "x": 908,
+                "y": 162
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463478518294",
+            "timestamp": 1463478956080,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "iM",
+                "x": 1295,
+                "y": 264
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463478518294",
+            "timestamp": 1463478956721,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "iM",
+                "x": 910,
+                "y": 175
+            }
+        }
+    ]
+}

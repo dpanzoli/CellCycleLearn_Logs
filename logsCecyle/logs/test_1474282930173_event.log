@@ -1,0 +1,52 @@
+{
+    "events": [
+        {
+            "user_id": "test",
+            "session_id": "test_1474282930173",
+            "timestamp": 1474270068396,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 634,
+                "y": 439
+            }
+        },
+        {
+            "user_id": "test",
+            "session_id": "test_1474282930173",
+            "timestamp": 1474270098136,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "shadow_pane",
+                "which": "info_pane",
+                "x": 902,
+                "y": 36
+            }
+        },
+        {
+            "user_id": "test",
+            "session_id": "test_1474282930173",
+            "timestamp": 1474270099660,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "interface_pane",
+                "which": "iconbar_wrapper",
+                "x": 1085,
+                "y": 70
+            }
+        }
+    ]
+}

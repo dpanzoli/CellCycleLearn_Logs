@@ -1,0 +1,2350 @@
+{
+    "inputs": [
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474633451034,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "0"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "1"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 4,
+                        "stickers": [
+                            "4"
+                        ]
+                    },
+                    {
+                        "slot": 5,
+                        "stickers": [
+                            "9"
+                        ]
+                    },
+                    {
+                        "slot": 6,
+                        "stickers": [
+                            "12"
+                        ]
+                    },
+                    {
+                        "slot": 7,
+                        "stickers": [
+                            "10"
+                        ]
+                    },
+                    {
+                        "slot": 8,
+                        "stickers": [
+                            "11"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474633792626,
+            "sequence_id": 1,
+            "section_id": 1,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "4"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "1"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "1"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474633883673,
+            "sequence_id": 1,
+            "section_id": 1,
+            "activity_id": 1,
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    994.8979591836735,
+                    1147.9591836734694,
+                    3137.7551020408164,
+                    5892.857142857143,
+                    5846.938775510204,
+                    5801.0204081632655
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474634025766,
+            "sequence_id": 1,
+            "section_id": 2,
+            "activity_id": 2,
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    11,
+                    8,
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474634050962,
+            "sequence_id": 1,
+            "section_id": 2,
+            "activity_id": 2,
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    11,
+                    8,
+                    13,
+                    12
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474634263989,
+            "sequence_id": 1,
+            "section_id": 2,
+            "activity_id": 3,
+            "activity_kind": "input",
+            "data": {
+                "kind": "Input",
+                "user_input": "1150000"
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474634678115,
+            "sequence_id": 1,
+            "section_id": 2,
+            "activity_id": 5,
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    198636,
+                    3.47,
+                    0.09,
+                    38.199999999999996
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474634689515,
+            "sequence_id": 1,
+            "section_id": 2,
+            "activity_id": 5,
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    209091,
+                    3.48,
+                    0.09,
+                    38.3
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474634704715,
+            "sequence_id": 1,
+            "section_id": 2,
+            "activity_id": 5,
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    209091,
+                    3.49,
+                    0.09,
+                    38.4
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474634938503,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "0"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "4"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "1"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 4,
+                        "stickers": [
+                            "5"
+                        ]
+                    },
+                    {
+                        "slot": 5,
+                        "stickers": [
+                            "3"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474634963827,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    994.8979591836735,
+                    1147.9591836734694,
+                    3137.7551020408164,
+                    5892.857142857143,
+                    5846.938775510204,
+                    5801.0204081632655
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474634974844,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    994.8979591836735,
+                    979.5918367346939,
+                    3137.7551020408164,
+                    5892.857142857143,
+                    5846.938775510204,
+                    5801.0204081632655
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474634980692,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    994.8979591836735,
+                    979.5918367346939,
+                    1561.2244897959183,
+                    5892.857142857143,
+                    5846.938775510204,
+                    5801.0204081632655
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474634988084,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    994.8979591836735,
+                    979.5918367346939,
+                    1561.2244897959183,
+                    2020.408163265306,
+                    5846.938775510204,
+                    5801.0204081632655
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474634993171,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    994.8979591836735,
+                    979.5918367346939,
+                    1561.2244897959183,
+                    2020.408163265306,
+                    3045.918367346939,
+                    5801.0204081632655
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474635004043,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    994.8979591836735,
+                    979.5918367346939,
+                    1561.2244897959183,
+                    2020.408163265306,
+                    3045.918367346939,
+                    3061.224489795918
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474635050890,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "4"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "2"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474635082869,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 3,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "4"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "1"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "1"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474635105326,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 3,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "4"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "1"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "1"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474635105332,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 3,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "4"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "1"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "1"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474635111066,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 3,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "4"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "1"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "1"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474635111072,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 3,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "4"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "1"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "1"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474635119194,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 3,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "4"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "1"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "1"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474635119199,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 3,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "4"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "1"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474635125803,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 3,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "4"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "1"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474635125810,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 3,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "4"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "0"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474635237616,
+            "sequence_id": 1,
+            "section_id": 5,
+            "activity_id": 0,
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    "latence",
+                    "exponentielle",
+                    "la courbe de croissance",
+                    "une phase stationnaire",
+                    "l'inhibition de contact",
+                    "synchronisée",
+                    "le profil de cytométrie de flux",
+                    "G1",
+                    "ordonnées",
+                    "G1, S, G2, M"
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474635242112,
+            "sequence_id": 1,
+            "section_id": 5,
+            "activity_id": 0,
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    "latence",
+                    "exponentielle",
+                    "la courbe de croissance",
+                    "une phase stationnaire",
+                    "l'inhibition de contact",
+                    "asynchrone",
+                    "le profil de cytométrie de flux",
+                    "G1",
+                    "ordonnées",
+                    "G1, S, G2, M"
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474635461761,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": []
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "1"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": []
+                    },
+                    {
+                        "slot": 4,
+                        "stickers": [
+                            "0"
+                        ]
+                    },
+                    {
+                        "slot": 5,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 6,
+                        "stickers": []
+                    },
+                    {
+                        "slot": 7,
+                        "stickers": []
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474635509347,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": 1,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "0"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "2",
+                            "1"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474635677424,
+            "sequence_id": 2,
+            "section_id": 1,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "0"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "0"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "0"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "0"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474635799463,
+            "sequence_id": 2,
+            "section_id": 1,
+            "activity_id": 1,
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.47692307692307695,
+                    0.4794871794871795,
+                    0.47692307692307695,
+                    0.47435897435897434,
+                    0.44871794871794873,
+                    0.38974358974358975
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474635890095,
+            "sequence_id": 2,
+            "section_id": 2,
+            "activity_id": 0,
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Input",
+                "user_input": {
+                    "protocol": [
+                        "-36",
+                        "72",
+                        "12"
+                    ],
+                    "temoincheck": true,
+                    "culture": [
+                        {
+                            "condition": "- sérum",
+                            "time": "0"
+                        }
+                    ],
+                    "temoin": [
+                        {
+                            "condition": "+ sérum",
+                            "time": "0"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636041695,
+            "sequence_id": 2,
+            "section_id": 2,
+            "activity_id": 1,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "9"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636064222,
+            "sequence_id": 2,
+            "section_id": 2,
+            "activity_id": 1,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "8"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636611571,
+            "sequence_id": 2,
+            "section_id": 2,
+            "activity_id": 5,
+            "activity_kind": "doublepipette",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    3.3000000000000003,
+                    0.09090909090909091,
+                    19.8,
+                    3.0214285714285714,
+                    0.0070921985815602835,
+                    21.15
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636631057,
+            "sequence_id": 2,
+            "section_id": 2,
+            "activity_id": 5,
+            "activity_kind": "doublepipette",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    3.3000000000000003,
+                    0.09090909090909091,
+                    19.8,
+                    3.107142857142857,
+                    0.034482758620689655,
+                    21.75
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636632208,
+            "sequence_id": 2,
+            "section_id": 2,
+            "activity_id": 5,
+            "activity_kind": "doublepipette",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    3.3000000000000003,
+                    0.09090909090909091,
+                    19.8,
+                    3.107142857142857,
+                    0.034482758620689655,
+                    21.75
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636756747,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "0"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "1"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 4,
+                        "stickers": [
+                            "4"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636773642,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "0"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "0"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "0"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "0"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636792854,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "0"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "0"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "0"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "0"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636792857,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "0"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "0"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "0"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "0"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636859074,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.47692307692307695,
+                    0.4794871794871795,
+                    0.47692307692307695,
+                    0.47435897435897434,
+                    0.44871794871794873,
+                    0.38974358974358975
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636862820,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.5743589743589743,
+                    0.4794871794871795,
+                    0.47692307692307695,
+                    0.47435897435897434,
+                    0.44871794871794873,
+                    0.38974358974358975
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636864548,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.5743589743589743,
+                    0.5538461538461539,
+                    0.47692307692307695,
+                    0.47435897435897434,
+                    0.44871794871794873,
+                    0.38974358974358975
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636865812,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.5743589743589743,
+                    0.6102564102564103,
+                    0.47692307692307695,
+                    0.47435897435897434,
+                    0.44871794871794873,
+                    0.38974358974358975
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636866860,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.5743589743589743,
+                    0.6512820512820513,
+                    0.47692307692307695,
+                    0.47435897435897434,
+                    0.44871794871794873,
+                    0.38974358974358975
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636868908,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.5743589743589743,
+                    0.5974358974358974,
+                    0.47692307692307695,
+                    0.47435897435897434,
+                    0.44871794871794873,
+                    0.38974358974358975
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636870964,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.5743589743589743,
+                    0.5974358974358974,
+                    0.541025641025641,
+                    0.47435897435897434,
+                    0.44871794871794873,
+                    0.38974358974358975
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636872068,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.5743589743589743,
+                    0.5974358974358974,
+                    0.5871794871794872,
+                    0.47435897435897434,
+                    0.44871794871794873,
+                    0.38974358974358975
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636872884,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.5743589743589743,
+                    0.5974358974358974,
+                    0.617948717948718,
+                    0.47435897435897434,
+                    0.44871794871794873,
+                    0.38974358974358975
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636873724,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.5743589743589743,
+                    0.5974358974358974,
+                    0.6384615384615384,
+                    0.47435897435897434,
+                    0.44871794871794873,
+                    0.38974358974358975
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636875564,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.5743589743589743,
+                    0.5974358974358974,
+                    0.6564102564102564,
+                    0.47435897435897434,
+                    0.44871794871794873,
+                    0.38974358974358975
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636876524,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.5743589743589743,
+                    0.5974358974358974,
+                    0.6846153846153846,
+                    0.47435897435897434,
+                    0.44871794871794873,
+                    0.38974358974358975
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636878035,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.5743589743589743,
+                    0.5974358974358974,
+                    0.717948717948718,
+                    0.47435897435897434,
+                    0.44871794871794873,
+                    0.38974358974358975
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636880699,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.5743589743589743,
+                    0.5974358974358974,
+                    0.6871794871794872,
+                    0.47435897435897434,
+                    0.44871794871794873,
+                    0.38974358974358975
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636882403,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.5743589743589743,
+                    0.5974358974358974,
+                    0.6871794871794872,
+                    0.5435897435897435,
+                    0.44871794871794873,
+                    0.38974358974358975
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636883259,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.5743589743589743,
+                    0.5974358974358974,
+                    0.6871794871794872,
+                    0.6,
+                    0.44871794871794873,
+                    0.38974358974358975
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636884779,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.5743589743589743,
+                    0.5974358974358974,
+                    0.6871794871794872,
+                    0.6461538461538462,
+                    0.44871794871794873,
+                    0.38974358974358975
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636886107,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.5743589743589743,
+                    0.5974358974358974,
+                    0.6871794871794872,
+                    0.6461538461538462,
+                    0.44871794871794873,
+                    0.38974358974358975
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636887579,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.5743589743589743,
+                    0.5974358974358974,
+                    0.6871794871794872,
+                    0.7153846153846154,
+                    0.44871794871794873,
+                    0.38974358974358975
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636888787,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.5743589743589743,
+                    0.5974358974358974,
+                    0.6871794871794872,
+                    0.7769230769230769,
+                    0.44871794871794873,
+                    0.38974358974358975
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636889877,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.5743589743589743,
+                    0.5974358974358974,
+                    0.6871794871794872,
+                    0.7769230769230769,
+                    0.44871794871794873,
+                    0.38974358974358975
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636891507,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.5743589743589743,
+                    0.5974358974358974,
+                    0.6871794871794872,
+                    0.8384615384615385,
+                    0.44871794871794873,
+                    0.38974358974358975
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636892586,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.5743589743589743,
+                    0.5974358974358974,
+                    0.6871794871794872,
+                    0.8384615384615385,
+                    0.44871794871794873,
+                    0.38974358974358975
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636893410,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.5743589743589743,
+                    0.5974358974358974,
+                    0.6871794871794872,
+                    0.8384615384615385,
+                    0.44871794871794873,
+                    0.38974358974358975
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636894555,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.5743589743589743,
+                    0.5974358974358974,
+                    0.6871794871794872,
+                    0.8743589743589744,
+                    0.44871794871794873,
+                    0.38974358974358975
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636896754,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.5743589743589743,
+                    0.5974358974358974,
+                    0.6871794871794872,
+                    0.8743589743589744,
+                    0.6564102564102564,
+                    0.38974358974358975
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636899818,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.5743589743589743,
+                    0.5974358974358974,
+                    0.6871794871794872,
+                    0.8743589743589744,
+                    0.9974358974358974,
+                    0.38974358974358975
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636902086,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.5743589743589743,
+                    0.5974358974358974,
+                    0.6871794871794872,
+                    0.8743589743589744,
+                    0.9974358974358974,
+                    0.7230769230769231
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636903789,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.5743589743589743,
+                    0.5974358974358974,
+                    0.6871794871794872,
+                    0.8743589743589744,
+                    0.9974358974358974,
+                    0.9256410256410257
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636905122,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.5743589743589743,
+                    0.5974358974358974,
+                    0.6871794871794872,
+                    0.8743589743589744,
+                    0.9974358974358974,
+                    0.9256410256410257
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636906378,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.5743589743589743,
+                    0.5974358974358974,
+                    0.6871794871794872,
+                    0.8743589743589744,
+                    0.9974358974358974,
+                    0.9923076923076923
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636909786,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.5743589743589743,
+                    0.5974358974358974,
+                    0.6871794871794872,
+                    0.8743589743589744,
+                    1,
+                    0.9923076923076923
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636911538,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.5743589743589743,
+                    0.5974358974358974,
+                    0.6871794871794872,
+                    0.8743589743589744,
+                    1,
+                    0.9923076923076923
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636912803,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.5743589743589743,
+                    0.5974358974358974,
+                    0.6871794871794872,
+                    0.8743589743589744,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636914906,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.6025641025641025,
+                    0.5974358974358974,
+                    0.6871794871794872,
+                    0.8743589743589744,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636916730,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.6025641025641025,
+                    0.6230769230769231,
+                    0.6871794871794872,
+                    0.8743589743589744,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636918137,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.6025641025641025,
+                    0.6230769230769231,
+                    0.717948717948718,
+                    0.8743589743589744,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636920249,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.6025641025641025,
+                    0.6230769230769231,
+                    0.7102564102564103,
+                    0.8743589743589744,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636921786,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.6025641025641025,
+                    0.6230769230769231,
+                    0.7102564102564103,
+                    0.8666666666666667,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636923593,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.6025641025641025,
+                    0.6230769230769231,
+                    0.7102564102564103,
+                    0.8179487179487179,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636925289,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.6025641025641025,
+                    0.6230769230769231,
+                    0.7102564102564103,
+                    0.8179487179487179,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636926593,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.6025641025641025,
+                    0.6230769230769231,
+                    0.7102564102564103,
+                    0.9358974358974359,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636929065,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.6025641025641025,
+                    0.6230769230769231,
+                    0.7102564102564103,
+                    0.8871794871794871,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636930993,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.6025641025641025,
+                    0.6230769230769231,
+                    0.7102564102564103,
+                    0.8717948717948718,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636933561,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.6025641025641025,
+                    0.6230769230769231,
+                    0.7102564102564103,
+                    0.8717948717948718,
+                    0.9743589743589743,
+                    1
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636935296,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.6025641025641025,
+                    0.6230769230769231,
+                    0.7102564102564103,
+                    0.8717948717948718,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636936280,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.6025641025641025,
+                    0.6230769230769231,
+                    0.7102564102564103,
+                    0.8717948717948718,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636937400,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.6025641025641025,
+                    0.6230769230769231,
+                    0.7102564102564103,
+                    0.8717948717948718,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474636938008,
+            "sequence_id": 2,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0.29743589743589743,
+                    0.6025641025641025,
+                    0.6230769230769231,
+                    0.7102564102564103,
+                    0.8717948717948718,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474637008365,
+            "sequence_id": 2,
+            "section_id": 5,
+            "activity_id": 0,
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    "prolifération",
+                    "facteurs de croissance",
+                    "G1/S",
+                    "G1",
+                    "synchronisées",
+                    "G0"
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474637013133,
+            "sequence_id": 2,
+            "section_id": 5,
+            "activity_id": 0,
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    "prolifération",
+                    "facteurs de croissance",
+                    "iM",
+                    "G1",
+                    "synchronisées",
+                    "G0"
+                ]
+            }
+        },
+        {
+            "user_id": "21401848",
+            "session_id": "21401848_1474646249162",
+            "timestamp": 1474637016245,
+            "sequence_id": 2,
+            "section_id": 5,
+            "activity_id": 0,
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    "prolifération",
+                    "facteurs de croissance",
+                    "le point de restriction",
+                    "G1",
+                    "synchronisées",
+                    "G0"
+                ]
+            }
+        }
+    ]
+}

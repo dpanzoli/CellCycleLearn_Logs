@@ -1,0 +1,4823 @@
+{
+    "events": [
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388487205,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "-1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "transition_pane",
+                "which": "requirement",
+                "x": 1107,
+                "y": 371
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388501352,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "-1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "transition_pane",
+                "which": "requirement",
+                "x": 545,
+                "y": 370
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388509609,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "-1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "requirements",
+                "x": 1409,
+                "y": 682
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388525416,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "G0",
+                "x": 1209,
+                "y": 265
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388527059,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "G0",
+                "x": 1032,
+                "y": 251
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388529351,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "G1",
+                "x": 1226,
+                "y": 330
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388531148,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "G1",
+                "x": 920,
+                "y": 329
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388532310,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "S",
+                "x": 1163,
+                "y": 341
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388533616,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "S",
+                "x": 844,
+                "y": 532
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388536049,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "G2",
+                "x": 1328,
+                "y": 275
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388537726,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "G2",
+                "x": 652,
+                "y": 480
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388539026,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "M",
+                "x": 1283,
+                "y": 329
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388540656,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "M",
+                "x": 690,
+                "y": 254
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388552648,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/act0/dd1.png",
+                "x": 1195,
+                "y": 554
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388554496,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/act0/dd1.png",
+                "x": 1003,
+                "y": 388
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388557589,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/act0/dd4.png",
+                "x": 1198,
+                "y": 446
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388559373,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/act0/dd4.png",
+                "x": 923,
+                "y": 616
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388563021,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/act0/dd2.png",
+                "x": 1343,
+                "y": 556
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388564840,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/act0/dd2.png",
+                "x": 584,
+                "y": 541
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388566198,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/act0/dd3.png",
+                "x": 1323,
+                "y": 464
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388566262,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/act0/dd3.png",
+                "x": 1323,
+                "y": 464
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388566267,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "DD_sticker",
+                "which": "/ressources/act0/dd3.png",
+                "x": 1323,
+                "y": 464
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388566365,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/act0/dd3.png",
+                "x": 1323,
+                "y": 464
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388569153,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/act0/dd3.png",
+                "x": 649,
+                "y": 204
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388570666,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1401,
+                "y": 695
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388570804,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1401,
+                "y": 695
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388570811,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1401,
+                "y": 695
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388573153,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1401,
+                "y": 695
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388573251,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1401,
+                "y": 695
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388573268,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1401,
+                "y": 695
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388608579,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1374,
+                "y": 684
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388608605,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1374,
+                "y": 684
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388608618,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1374,
+                "y": 684
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388610305,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "-1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "hypothesis",
+                "x": 1374,
+                "y": 684
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388628555,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "9h",
+                "x": 1301,
+                "y": 507
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388630578,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "9h",
+                "x": 1019,
+                "y": 358
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388637432,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "0h30",
+                "x": 1221,
+                "y": 430
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388639775,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "0h30",
+                "x": 718,
+                "y": 160
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388645245,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "9h",
+                "x": 1017,
+                "y": 362
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388646051,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "9h",
+                "x": 972,
+                "y": 702
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388647113,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "14h",
+                "x": 1144,
+                "y": 435
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388647954,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "14h",
+                "x": 1026,
+                "y": 358
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388649127,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "9h",
+                "x": 1304,
+                "y": 510
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388652881,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "9h",
+                "x": 596,
+                "y": 470
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388661468,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "0h30",
+                "x": 1207,
+                "y": 440
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388662371,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "0h30",
+                "x": 898,
+                "y": 581
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388663331,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "La durée des phases du cycle cellulaire",
+                "x": 1395,
+                "y": 693
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388663418,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "La durée des phases du cycle cellulaire",
+                "x": 1395,
+                "y": 693
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388663434,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "La durée des phases du cycle cellulaire",
+                "x": 1395,
+                "y": 693
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388666804,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "La durée des phases du cycle cellulaire",
+                "x": 1395,
+                "y": 693
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388666913,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "La durée des phases du cycle cellulaire",
+                "x": 1395,
+                "y": 693
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388666938,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "La durée des phases du cycle cellulaire",
+                "x": 1395,
+                "y": 693
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388682965,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Courbe de croissance dans des conditions optimales",
+                "x": 554,
+                "y": 495
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388685675,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Courbe de croissance dans des conditions optimales",
+                "x": 639,
+                "y": 502
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388691113,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Courbe de croissance dans des conditions optimales",
+                "x": 822,
+                "y": 366
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388697118,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Courbe de croissance dans des conditions optimales",
+                "x": 918,
+                "y": 304
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388701057,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Courbe de croissance dans des conditions optimales",
+                "x": 1011,
+                "y": 303
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388703928,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Courbe de croissance dans des conditions optimales",
+                "x": 723,
+                "y": 401
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388709993,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Courbe de croissance dans des conditions optimales",
+                "x": 820,
+                "y": 301
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388713177,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Courbe de croissance dans des conditions optimales",
+                "x": 902,
+                "y": 240
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388715897,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Courbe de croissance dans des conditions optimales",
+                "x": 1003,
+                "y": 245
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388719169,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Courbe de croissance dans des conditions optimales",
+                "x": 1356,
+                "y": 685
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388722168,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Courbe de croissance dans des conditions optimales",
+                "x": 1356,
+                "y": 685
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388723781,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "-1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "protocol",
+                "x": 1356,
+                "y": 685
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388827415,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Planification du protocole expérimental",
+                "x": 1363,
+                "y": 685
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388888976,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "1",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Nombres de boîtes de Pétri",
+                "x": 1374,
+                "y": 696
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388964304,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_A",
+                "which": "Comptage",
+                "x": 1324,
+                "y": 496
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388964414,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_A",
+                "which": "Comptage",
+                "x": 1324,
+                "y": 496
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388964585,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_A",
+                "which": "Comptage",
+                "x": 1324,
+                "y": 496
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388964939,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_A",
+                "which": "Comptage",
+                "x": 1324,
+                "y": 496
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388965130,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_A",
+                "which": "Comptage",
+                "x": 1324,
+                "y": 496
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388965300,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_A",
+                "which": "Comptage",
+                "x": 1324,
+                "y": 496
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388965513,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_A",
+                "which": "Comptage",
+                "x": 1324,
+                "y": 496
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388965704,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_A",
+                "which": "Comptage",
+                "x": 1324,
+                "y": 496
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388965977,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_A",
+                "which": "Comptage",
+                "x": 1324,
+                "y": 496
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388966312,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_A",
+                "which": "Comptage",
+                "x": 1324,
+                "y": 496
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388974329,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_B",
+                "which": "Comptage",
+                "x": 1329,
+                "y": 547
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388974450,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_B",
+                "which": "Comptage",
+                "x": 1329,
+                "y": 547
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388974613,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_B",
+                "which": "Comptage",
+                "x": 1329,
+                "y": 547
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388974794,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_B",
+                "which": "Comptage",
+                "x": 1329,
+                "y": 547
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388974954,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_B",
+                "which": "Comptage",
+                "x": 1329,
+                "y": 547
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388975125,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_B",
+                "which": "Comptage",
+                "x": 1329,
+                "y": 547
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388975338,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_B",
+                "which": "Comptage",
+                "x": 1329,
+                "y": 547
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388975578,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_B",
+                "which": "Comptage",
+                "x": 1329,
+                "y": 547
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388976887,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_C",
+                "which": "Comptage",
+                "x": 1314,
+                "y": 605
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388997727,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_C",
+                "which": "Comptage",
+                "x": 1326,
+                "y": 595
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388997859,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_C",
+                "which": "Comptage",
+                "x": 1326,
+                "y": 595
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388998040,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_C",
+                "which": "Comptage",
+                "x": 1326,
+                "y": 595
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388998211,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_C",
+                "which": "Comptage",
+                "x": 1326,
+                "y": 595
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388998402,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_C",
+                "which": "Comptage",
+                "x": 1326,
+                "y": 595
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388998604,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_C",
+                "which": "Comptage",
+                "x": 1326,
+                "y": 595
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388998815,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_C",
+                "which": "Comptage",
+                "x": 1326,
+                "y": 595
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388999017,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_C",
+                "which": "Comptage",
+                "x": 1326,
+                "y": 595
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388999189,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_C",
+                "which": "Comptage",
+                "x": 1326,
+                "y": 595
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388999390,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_C",
+                "which": "Comptage",
+                "x": 1326,
+                "y": 595
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477388999652,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_C",
+                "which": "Comptage",
+                "x": 1326,
+                "y": 595
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389000368,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_C",
+                "which": "Comptage",
+                "x": 1326,
+                "y": 595
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389018016,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_B",
+                "which": "Comptage",
+                "x": 1329,
+                "y": 543
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389018203,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_B",
+                "which": "Comptage",
+                "x": 1329,
+                "y": 543
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389033410,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_D",
+                "which": "Comptage",
+                "x": 1328,
+                "y": 650
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389033539,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_D",
+                "which": "Comptage",
+                "x": 1328,
+                "y": 650
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389033710,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_D",
+                "which": "Comptage",
+                "x": 1328,
+                "y": 650
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389033903,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_D",
+                "which": "Comptage",
+                "x": 1328,
+                "y": 650
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389034094,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_D",
+                "which": "Comptage",
+                "x": 1328,
+                "y": 650
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389034376,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_D",
+                "which": "Comptage",
+                "x": 1328,
+                "y": 650
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389034880,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_D",
+                "which": "Comptage",
+                "x": 1328,
+                "y": 650
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389035393,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_D",
+                "which": "Comptage",
+                "x": 1328,
+                "y": 650
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389035697,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_D",
+                "which": "Comptage",
+                "x": 1328,
+                "y": 650
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389035788,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_D",
+                "which": "Comptage",
+                "x": 1328,
+                "y": 650
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389036068,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_D",
+                "which": "Comptage",
+                "x": 1328,
+                "y": 650
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389047984,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Comptage",
+                "x": 1366,
+                "y": 687
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389064664,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_B",
+                "which": "Comptage",
+                "x": 1324,
+                "y": 550
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389065724,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_B",
+                "which": "Comptage",
+                "x": 1326,
+                "y": 547
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389066257,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_B",
+                "which": "Comptage",
+                "x": 1326,
+                "y": 547
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389068977,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_B",
+                "which": "Comptage",
+                "x": 1327,
+                "y": 546
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389070091,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Comptage",
+                "x": 1357,
+                "y": 679
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389083409,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "count_field_B",
+                "which": "Comptage",
+                "x": 1329,
+                "y": 550
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389084521,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Comptage",
+                "x": 1357,
+                "y": 695
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389088510,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Comptage",
+                "x": 1357,
+                "y": 695
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389142695,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "previous_btn",
+                "which": "Comptage",
+                "x": 506,
+                "y": 706
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389144991,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "1",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Nombres de boîtes de Pétri",
+                "x": 1387,
+                "y": 689
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389150145,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "input",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Comptage",
+                "x": 1387,
+                "y": 689
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389155324,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "3",
+            "activity_kind": "input",
+            "data": {
+                "kind": "Click",
+                "what": "main_pane",
+                "which": "Densité Cellulaire",
+                "x": 740,
+                "y": 614
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389155991,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "3",
+            "activity_kind": "input",
+            "data": {
+                "kind": "Click",
+                "what": "main_pane",
+                "which": "Densité Cellulaire",
+                "x": 799,
+                "y": 620
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389322104,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "3",
+            "activity_kind": "input",
+            "data": {
+                "kind": "Click",
+                "what": "input_field",
+                "which": "Densité Cellulaire",
+                "x": 1234,
+                "y": 500
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389330783,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "3",
+            "activity_kind": "input",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Densité Cellulaire",
+                "x": 1384,
+                "y": 700
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389332195,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "3",
+            "activity_kind": "input",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Densité Cellulaire",
+                "x": 1384,
+                "y": 700
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389375605,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "3",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Densité Cellulaire",
+                "x": 1364,
+                "y": 692
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389393909,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "4",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Nombre de cellules par boite et tailles des boites",
+                "x": 1391,
+                "y": 683
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389515722,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "previous_btn",
+                "which": "Ensemencement",
+                "x": 557,
+                "y": 687
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389566006,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "4",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Nombre de cellules par boite et tailles des boites",
+                "x": 1376,
+                "y": 691
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389802623,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "select_milieu",
+                "which": "Ensemencement",
+                "x": 1169,
+                "y": 305
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389802626,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "select_milieu",
+                "which": "Ensemencement",
+                "x": 1169,
+                "y": 305
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389806537,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1278,
+                "y": 495
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389807363,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1278,
+                "y": 495
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389809502,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "pipette_2",
+                "which": "Ensemencement",
+                "x": 1340,
+                "y": 395
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389809505,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "pipette_2",
+                "which": "Ensemencement",
+                "x": 1340,
+                "y": 395
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389810500,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1300,
+                "y": 507
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389810862,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1300,
+                "y": 507
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389811217,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1300,
+                "y": 507
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389811598,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1300,
+                "y": 507
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389812113,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1300,
+                "y": 507
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389812749,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1300,
+                "y": 507
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389813335,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1300,
+                "y": 507
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389817884,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "pipette_1",
+                "which": "Ensemencement",
+                "x": 1293,
+                "y": 393
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389817887,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "pipette_1",
+                "which": "Ensemencement",
+                "x": 1293,
+                "y": 393
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389820472,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1258,
+                "y": 499
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389820990,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1258,
+                "y": 499
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389821450,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1258,
+                "y": 499
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389822054,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1258,
+                "y": 499
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389822519,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1258,
+                "y": 499
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389823034,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1258,
+                "y": 499
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389823699,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1258,
+                "y": 499
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389826808,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "pipette_0",
+                "which": "Ensemencement",
+                "x": 1256,
+                "y": 391
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389826812,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "pipette_0",
+                "which": "Ensemencement",
+                "x": 1256,
+                "y": 391
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389828489,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1231,
+                "y": 507
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389829005,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1231,
+                "y": 507
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389829722,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1231,
+                "y": 507
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389830447,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1231,
+                "y": 507
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389830999,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1231,
+                "y": 507
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389831535,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1231,
+                "y": 507
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389832302,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1231,
+                "y": 507
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389832906,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1231,
+                "y": 507
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389833506,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1231,
+                "y": 507
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389837324,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "select_serum",
+                "which": "Ensemencement",
+                "x": 1173,
+                "y": 364
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389837327,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "select_serum",
+                "which": "Ensemencement",
+                "x": 1173,
+                "y": 364
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389842618,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "pipette_2",
+                "which": "Ensemencement",
+                "x": 1342,
+                "y": 343
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389842621,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "pipette_2",
+                "which": "Ensemencement",
+                "x": 1342,
+                "y": 343
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389844682,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1286,
+                "y": 495
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389845419,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1286,
+                "y": 495
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389846215,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1286,
+                "y": 495
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389854072,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "pipette_1",
+                "which": "Ensemencement",
+                "x": 1292,
+                "y": 424
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389854075,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "pipette_1",
+                "which": "Ensemencement",
+                "x": 1292,
+                "y": 424
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389855077,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1278,
+                "y": 505
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389855682,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1278,
+                "y": 505
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389856248,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1278,
+                "y": 505
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389860202,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "select_cells",
+                "which": "Ensemencement",
+                "x": 1153,
+                "y": 415
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389860206,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "select_cells",
+                "which": "Ensemencement",
+                "x": 1153,
+                "y": 415
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389863913,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "pipette_2",
+                "which": "Ensemencement",
+                "x": 1336,
+                "y": 367
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389863916,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "pipette_2",
+                "which": "Ensemencement",
+                "x": 1336,
+                "y": 367
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389865159,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1306,
+                "y": 510
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389872926,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "pipette_1",
+                "which": "Ensemencement",
+                "x": 1297,
+                "y": 384
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389872929,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "pipette_1",
+                "which": "Ensemencement",
+                "x": 1297,
+                "y": 384
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389874769,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1263,
+                "y": 502
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389875312,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1263,
+                "y": 502
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389875724,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1263,
+                "y": 502
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389876290,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1263,
+                "y": 502
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389876794,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1263,
+                "y": 502
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389877287,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1263,
+                "y": 502
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389877762,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1263,
+                "y": 502
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389878296,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1263,
+                "y": 502
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389878830,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1263,
+                "y": 502
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389880285,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "pipette_0",
+                "which": "Ensemencement",
+                "x": 1263,
+                "y": 403
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389880288,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "pipette_0",
+                "which": "Ensemencement",
+                "x": 1263,
+                "y": 403
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389881491,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1262,
+                "y": 491
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389886074,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Ensemencement",
+                "x": 1363,
+                "y": 684
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389899492,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Ensemencement",
+                "x": 1383,
+                "y": 683
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389899925,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Ensemencement",
+                "x": 1383,
+                "y": 683
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389900888,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Ensemencement",
+                "x": 1383,
+                "y": 683
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389979130,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Ensemencement",
+                "x": 1394,
+                "y": 687
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389981075,
+            "sequence_id": 1,
+            "section_id": "3",
+            "activity_id": "-1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "experiment",
+                "x": 1394,
+                "y": 687
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389982390,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "-1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "results",
+                "x": 1394,
+                "y": 687
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389990965,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/act10/dd1.png",
+                "x": 1190,
+                "y": 280
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389992176,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/act10/dd1.png",
+                "x": 573,
+                "y": 434
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389993373,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/act10/dd1.png",
+                "x": 1343,
+                "y": 562
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477389996886,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/act10/dd1.png",
+                "x": 670,
+                "y": 575
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390000076,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/act10/dd2.png",
+                "x": 1186,
+                "y": 414
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390001544,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/act10/dd2.png",
+                "x": 750,
+                "y": 433
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390004565,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/act10/dd3.png",
+                "x": 1193,
+                "y": 533
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390005881,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/act10/dd3.png",
+                "x": 847,
+                "y": 560
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390007742,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/act10/dd4.png",
+                "x": 1376,
+                "y": 390
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390008402,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/act10/dd4.png",
+                "x": 994,
+                "y": 419
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390009261,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/act10/dd4.png",
+                "x": 1326,
+                "y": 248
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390010265,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/act10/dd4.png",
+                "x": 1002,
+                "y": 527
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390011307,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Comptages",
+                "x": 1372,
+                "y": 700
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390011406,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Comptages",
+                "x": 1372,
+                "y": 700
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390011411,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Comptages",
+                "x": 1372,
+                "y": 700
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390012184,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Comptages",
+                "x": 1372,
+                "y": 700
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390012292,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Comptages",
+                "x": 1372,
+                "y": 700
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390012304,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Comptages",
+                "x": 1372,
+                "y": 700
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390026783,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Comptages",
+                "x": 1357,
+                "y": 682
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390026820,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Comptages",
+                "x": 1357,
+                "y": 682
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390026842,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Comptages",
+                "x": 1357,
+                "y": 682
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390033976,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "1",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "MousePressed",
+                "what": "Curve_canvas",
+                "which": "Comptages et courbe de croissance dans des conditions optimales",
+                "x": 725,
+                "y": 410
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390036153,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "1",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "Curve_canvas",
+                "which": "Comptages et courbe de croissance dans des conditions optimales",
+                "x": 723,
+                "y": 472
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390036156,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "1",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Comptages et courbe de croissance dans des conditions optimales",
+                "x": 723,
+                "y": 472
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390038081,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "1",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "MousePressed",
+                "what": "Curve_canvas",
+                "which": "Comptages et courbe de croissance dans des conditions optimales",
+                "x": 822,
+                "y": 305
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390039897,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "1",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "Curve_canvas",
+                "which": "Comptages et courbe de croissance dans des conditions optimales",
+                "x": 820,
+                "y": 435
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390039899,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "1",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Comptages et courbe de croissance dans des conditions optimales",
+                "x": 820,
+                "y": 435
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390041569,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "1",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "MousePressed",
+                "what": "Curve_canvas",
+                "which": "Comptages et courbe de croissance dans des conditions optimales",
+                "x": 910,
+                "y": 243
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390044685,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "1",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "Curve_canvas",
+                "which": "Comptages et courbe de croissance dans des conditions optimales",
+                "x": 904,
+                "y": 372
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390044687,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "1",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Comptages et courbe de croissance dans des conditions optimales",
+                "x": 904,
+                "y": 372
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390046403,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "1",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "MousePressed",
+                "what": "Curve_canvas",
+                "which": "Comptages et courbe de croissance dans des conditions optimales",
+                "x": 1001,
+                "y": 243
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390048466,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "1",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "Curve_canvas",
+                "which": "Comptages et courbe de croissance dans des conditions optimales",
+                "x": 999,
+                "y": 373
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390048468,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "1",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Comptages et courbe de croissance dans des conditions optimales",
+                "x": 999,
+                "y": 373
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390063865,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "1",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Comptages et courbe de croissance dans des conditions optimales",
+                "x": 1388,
+                "y": 681
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390063944,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "1",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Comptages et courbe de croissance dans des conditions optimales",
+                "x": 1388,
+                "y": 681
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390063959,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "1",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Comptages et courbe de croissance dans des conditions optimales",
+                "x": 1388,
+                "y": 681
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390080822,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "1",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Comptages et courbe de croissance dans des conditions optimales",
+                "x": 1380,
+                "y": 695
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390080888,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "1",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Comptages et courbe de croissance dans des conditions optimales",
+                "x": 1380,
+                "y": 695
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390080919,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Comptages et courbe de croissance dans des conditions optimales",
+                "x": 1380,
+                "y": 695
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390097376,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "58%",
+                "x": 1296,
+                "y": 315
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390099999,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "58%",
+                "x": 1043,
+                "y": 347
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390102536,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "20%",
+                "x": 1374,
+                "y": 324
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390103689,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "20%",
+                "x": 1038,
+                "y": 600
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390107213,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "22%",
+                "x": 1200,
+                "y": 403
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390108770,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "22%",
+                "x": 594,
+                "y": 465
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390110121,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Proportions des phases dans le cycle cellulaire",
+                "x": 1382,
+                "y": 687
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390110199,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Proportions des phases dans le cycle cellulaire",
+                "x": 1382,
+                "y": 687
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390110204,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Proportions des phases dans le cycle cellulaire",
+                "x": 1382,
+                "y": 687
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390110978,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Proportions des phases dans le cycle cellulaire",
+                "x": 1382,
+                "y": 687
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390111217,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Proportions des phases dans le cycle cellulaire",
+                "x": 1382,
+                "y": 687
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390111233,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Proportions des phases dans le cycle cellulaire",
+                "x": 1382,
+                "y": 687
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390151797,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Proportions des phases dans le cycle cellulaire",
+                "x": 1371,
+                "y": 685
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390151936,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Proportions des phases dans le cycle cellulaire",
+                "x": 1371,
+                "y": 685
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390151975,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "2",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Proportions des phases dans le cycle cellulaire",
+                "x": 1371,
+                "y": 685
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390209310,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "3",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "0h30",
+                "x": 615,
+                "y": 527
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390210005,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "3",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "0h30",
+                "x": 615,
+                "y": 527
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390210010,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "3",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "DD_sticker",
+                "which": "0h30",
+                "x": 615,
+                "y": 527
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390211712,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "3",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "4h45",
+                "x": 1135,
+                "y": 307
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390214279,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "3",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "4h45",
+                "x": 603,
+                "y": 555
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390216149,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "3",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "4h45",
+                "x": 1143,
+                "y": 310
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390218079,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "3",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "4h45",
+                "x": 580,
+                "y": 309
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390221678,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "3",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "btn_bar",
+                "which": "Proportions et durée des phases dans le cycle cellulaire",
+                "x": 1398,
+                "y": 693
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390221767,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "3",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "btn_bar",
+                "which": "Proportions et durée des phases dans le cycle cellulaire",
+                "x": 1398,
+                "y": 693
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390221783,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "3",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "btn_bar",
+                "which": "Proportions et durée des phases dans le cycle cellulaire",
+                "x": 1398,
+                "y": 693
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390243363,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "3",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "btn_bar",
+                "which": "Proportions et durée des phases dans le cycle cellulaire",
+                "x": 1376,
+                "y": 695
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390243498,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "3",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "btn_bar",
+                "which": "Proportions et durée des phases dans le cycle cellulaire",
+                "x": 1376,
+                "y": 695
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390243510,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "3",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "btn_bar",
+                "which": "Proportions et durée des phases dans le cycle cellulaire",
+                "x": 1376,
+                "y": 695
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390245035,
+            "sequence_id": 1,
+            "section_id": "5",
+            "activity_id": "-1",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "synthesis",
+                "x": 1376,
+                "y": 695
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390248854,
+            "sequence_id": 1,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "select_keyword",
+                "which": "0",
+                "x": 889,
+                "y": 140
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390251035,
+            "sequence_id": 1,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "main_pane",
+                "which": "Synthèse",
+                "x": 883,
+                "y": 175
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390255211,
+            "sequence_id": 1,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "select_keyword",
+                "which": "1",
+                "x": 878,
+                "y": 200
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390256726,
+            "sequence_id": 1,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "main_pane",
+                "which": "Synthèse",
+                "x": 856,
+                "y": 242
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390258719,
+            "sequence_id": 1,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "select_keyword",
+                "which": "2",
+                "x": 686,
+                "y": 224
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390266281,
+            "sequence_id": 1,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "select_keyword",
+                "which": "3",
+                "x": 672,
+                "y": 265
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390268396,
+            "sequence_id": 1,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "select_keyword",
+                "which": "3",
+                "x": 782,
+                "y": 260
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390274899,
+            "sequence_id": 1,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "main_pane",
+                "which": "Synthèse",
+                "x": 776,
+                "y": 296
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390277769,
+            "sequence_id": 1,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "select_keyword",
+                "which": "4",
+                "x": 1060,
+                "y": 290
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390280260,
+            "sequence_id": 1,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "main_pane",
+                "which": "Synthèse",
+                "x": 1050,
+                "y": 328
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390285458,
+            "sequence_id": 1,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "select_keyword",
+                "which": "5",
+                "x": 747,
+                "y": 342
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390297959,
+            "sequence_id": 1,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "main_pane",
+                "which": "Synthèse",
+                "x": 733,
+                "y": 410
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390304951,
+            "sequence_id": 1,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "select_keyword",
+                "which": "6",
+                "x": 690,
+                "y": 400
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390309489,
+            "sequence_id": 1,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "main_pane",
+                "which": "Synthèse",
+                "x": 668,
+                "y": 480
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390313860,
+            "sequence_id": 1,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "select_keyword",
+                "which": "7",
+                "x": 653,
+                "y": 441
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390316040,
+            "sequence_id": 1,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "main_pane",
+                "which": "Synthèse",
+                "x": 638,
+                "y": 507
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390325632,
+            "sequence_id": 1,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "select_keyword",
+                "which": "8",
+                "x": 888,
+                "y": 497
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390339797,
+            "sequence_id": 1,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "main_pane",
+                "which": "Synthèse",
+                "x": 875,
+                "y": 548
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390341971,
+            "sequence_id": 1,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "select_keyword",
+                "which": "9",
+                "x": 658,
+                "y": 529
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390350098,
+            "sequence_id": 1,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "main_pane",
+                "which": "Synthèse",
+                "x": 642,
+                "y": 582
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390352070,
+            "sequence_id": 1,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "select_keyword",
+                "which": "8",
+                "x": 883,
+                "y": 496
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390353495,
+            "sequence_id": 1,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "main_pane",
+                "which": "Synthèse",
+                "x": 873,
+                "y": 535
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390355662,
+            "sequence_id": 1,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Synthèse",
+                "x": 1357,
+                "y": 684
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390358103,
+            "sequence_id": 1,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "end_btn",
+                "which": "Synthèse",
+                "x": 1357,
+                "y": 684
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390380785,
+            "sequence_id": 1,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "main_pane_final",
+                "which": "Synthèse",
+                "x": 1375,
+                "y": 685
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390382045,
+            "sequence_id": 1,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "main_pane_final",
+                "which": "Synthèse",
+                "x": 1375,
+                "y": 685
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390382701,
+            "sequence_id": 1,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "main_pane_final",
+                "which": "Synthèse",
+                "x": 1375,
+                "y": 685
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390382880,
+            "sequence_id": 1,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "main_pane_final",
+                "which": "Synthèse",
+                "x": 1375,
+                "y": 685
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390385854,
+            "sequence_id": 1,
+            "section_id": 5,
+            "activity_id": 0,
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "EndSession",
+                "note": [
+                    " ",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "score": 353333.3333333333
+            }
+        },
+        {
+            "user_id": "21603501",
+            "session_id": "21603501_1477401331347",
+            "timestamp": 1477390385856,
+            "sequence_id": 1,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "end_btn",
+                "which": "Synthèse",
+                "x": 1376,
+                "y": 692
+            }
+        }
+    ]
+}

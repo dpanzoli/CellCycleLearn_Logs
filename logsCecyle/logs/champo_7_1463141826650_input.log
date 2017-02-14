@@ -1,0 +1,2599 @@
+{
+    "inputs": [
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463141920240,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "0"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "1"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 4,
+                        "stickers": [
+                            "4"
+                        ]
+                    },
+                    {
+                        "slot": 5,
+                        "stickers": [
+                            "9"
+                        ]
+                    },
+                    {
+                        "slot": 6,
+                        "stickers": [
+                            "12"
+                        ]
+                    },
+                    {
+                        "slot": 7,
+                        "stickers": [
+                            "10"
+                        ]
+                    },
+                    {
+                        "slot": 8,
+                        "stickers": [
+                            "11"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463142151195,
+            "sequence_id": 1,
+            "section_id": 1,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "1"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "1"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463142328040,
+            "sequence_id": 1,
+            "section_id": 1,
+            "activity_id": 1,
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    933.6734693877551,
+                    994.8979591836735,
+                    2035.7142857142858,
+                    2051.020408163265,
+                    3994.8979591836733,
+                    4010.204081632653
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463142481194,
+            "sequence_id": 1,
+            "section_id": 2,
+            "activity_id": 2,
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    13,
+                    8,
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463142528855,
+            "sequence_id": 1,
+            "section_id": 2,
+            "activity_id": 2,
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    13,
+                    8,
+                    11,
+                    8
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463142557076,
+            "sequence_id": 1,
+            "section_id": 2,
+            "activity_id": 2,
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    13,
+                    8,
+                    11,
+                    10
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463143141856,
+            "sequence_id": 1,
+            "section_id": 2,
+            "activity_id": 3,
+            "activity_kind": "input",
+            "data": {
+                "kind": "Input",
+                "user_input": "1150000"
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463143697810,
+            "sequence_id": 1,
+            "section_id": 2,
+            "activity_id": 5,
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    1568182,
+                    4.09,
+                    0,
+                    45
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463143815041,
+            "sequence_id": 1,
+            "section_id": 2,
+            "activity_id": 5,
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    0,
+                    3,
+                    0,
+                    33
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144137973,
+            "sequence_id": 1,
+            "section_id": 2,
+            "activity_id": 5,
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    199682,
+                    3,
+                    0.1,
+                    33.01
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144371027,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "0"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "0"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "1"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 4,
+                        "stickers": [
+                            "5"
+                        ]
+                    },
+                    {
+                        "slot": 5,
+                        "stickers": [
+                            "3"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144402399,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    933.6734693877551,
+                    994.8979591836735,
+                    2035.7142857142858,
+                    2051.020408163265,
+                    3994.8979591836733,
+                    4010.204081632653
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144416130,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    933.6734693877551,
+                    994.8979591836735,
+                    2035.7142857142858,
+                    1989.795918367347,
+                    3994.8979591836733,
+                    4010.204081632653
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144417353,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    933.6734693877551,
+                    994.8979591836735,
+                    2035.7142857142858,
+                    2020.408163265306,
+                    3994.8979591836733,
+                    4010.204081632653
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144447693,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    933.6734693877551,
+                    994.8979591836735,
+                    1530.612244897959,
+                    2020.408163265306,
+                    3994.8979591836733,
+                    4010.204081632653
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144449599,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    933.6734693877551,
+                    994.8979591836735,
+                    1913.265306122449,
+                    2020.408163265306,
+                    3994.8979591836733,
+                    4010.204081632653
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144450973,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    933.6734693877551,
+                    994.8979591836735,
+                    1913.265306122449,
+                    2617.3469387755104,
+                    3994.8979591836733,
+                    4010.204081632653
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144452151,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    933.6734693877551,
+                    994.8979591836735,
+                    1913.265306122449,
+                    2816.326530612245,
+                    3994.8979591836733,
+                    4010.204081632653
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144453326,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    933.6734693877551,
+                    994.8979591836735,
+                    1913.265306122449,
+                    2862.2448979591836,
+                    3994.8979591836733,
+                    4010.204081632653
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144455528,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    933.6734693877551,
+                    994.8979591836735,
+                    1913.265306122449,
+                    2969.387755102041,
+                    3994.8979591836733,
+                    4010.204081632653
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144457104,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    933.6734693877551,
+                    994.8979591836735,
+                    1913.265306122449,
+                    2969.387755102041,
+                    4147.959183673469,
+                    4010.204081632653
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144459688,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    933.6734693877551,
+                    994.8979591836735,
+                    1913.265306122449,
+                    2969.387755102041,
+                    4147.959183673469,
+                    4377.551020408163
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144460640,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    933.6734693877551,
+                    994.8979591836735,
+                    1913.265306122449,
+                    2969.387755102041,
+                    4147.959183673469,
+                    4500
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144461343,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    933.6734693877551,
+                    994.8979591836735,
+                    1913.265306122449,
+                    2969.387755102041,
+                    4147.959183673469,
+                    4683.673469387755
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144462302,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    933.6734693877551,
+                    994.8979591836735,
+                    1913.265306122449,
+                    2969.387755102041,
+                    4147.959183673469,
+                    4790.816326530612
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144463214,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    933.6734693877551,
+                    994.8979591836735,
+                    1913.265306122449,
+                    2969.387755102041,
+                    4147.959183673469,
+                    4913.265306122449
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144463829,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    933.6734693877551,
+                    994.8979591836735,
+                    1913.265306122449,
+                    2969.387755102041,
+                    4147.959183673469,
+                    4989.7959183673465
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144464944,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    933.6734693877551,
+                    994.8979591836735,
+                    1913.265306122449,
+                    2969.387755102041,
+                    4147.959183673469,
+                    5035.714285714285
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144465864,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    933.6734693877551,
+                    994.8979591836735,
+                    1913.265306122449,
+                    2969.387755102041,
+                    4147.959183673469,
+                    5081.632653061224
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144466423,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    933.6734693877551,
+                    994.8979591836735,
+                    1913.265306122449,
+                    2969.387755102041,
+                    4147.959183673469,
+                    5035.714285714285
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144468171,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    933.6734693877551,
+                    994.8979591836735,
+                    1913.265306122449,
+                    2969.387755102041,
+                    4147.959183673469,
+                    5035.714285714285
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144468976,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    933.6734693877551,
+                    994.8979591836735,
+                    1913.265306122449,
+                    2969.387755102041,
+                    4086.734693877551,
+                    5035.714285714285
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144469727,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    933.6734693877551,
+                    994.8979591836735,
+                    1913.265306122449,
+                    2969.387755102041,
+                    4025.5102040816328,
+                    5035.714285714285
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144473048,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    979.5918367346939,
+                    994.8979591836735,
+                    1913.265306122449,
+                    2969.387755102041,
+                    4025.5102040816328,
+                    5035.714285714285
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144474543,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    979.5918367346939,
+                    872.4489795918367,
+                    1913.265306122449,
+                    2969.387755102041,
+                    4025.5102040816328,
+                    5035.714285714285
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144475776,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    979.5918367346939,
+                    979.5918367346939,
+                    1913.265306122449,
+                    2969.387755102041,
+                    4025.5102040816328,
+                    5035.714285714285
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144477070,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    979.5918367346939,
+                    979.5918367346939,
+                    1989.795918367347,
+                    2969.387755102041,
+                    4025.5102040816328,
+                    5035.714285714285
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144478270,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    979.5918367346939,
+                    979.5918367346939,
+                    2035.7142857142858,
+                    2969.387755102041,
+                    4025.5102040816328,
+                    5035.714285714285
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144480329,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    979.5918367346939,
+                    979.5918367346939,
+                    2035.7142857142858,
+                    3137.7551020408164,
+                    4025.5102040816328,
+                    5035.714285714285
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144481901,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    979.5918367346939,
+                    979.5918367346939,
+                    2035.7142857142858,
+                    3137.7551020408164,
+                    4209.183673469388,
+                    5035.714285714285
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144483656,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    979.5918367346939,
+                    979.5918367346939,
+                    2035.7142857142858,
+                    3137.7551020408164,
+                    4209.183673469388,
+                    5311.224489795918
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144484984,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    979.5918367346939,
+                    979.5918367346939,
+                    2035.7142857142858,
+                    3137.7551020408164,
+                    4209.183673469388,
+                    5250
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144489375,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    979.5918367346939,
+                    979.5918367346939,
+                    2035.7142857142858,
+                    3137.7551020408164,
+                    4209.183673469388,
+                    5188.775510204082
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144491009,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    979.5918367346939,
+                    979.5918367346939,
+                    2035.7142857142858,
+                    3137.7551020408164,
+                    4331.632653061224,
+                    5188.775510204082
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144491889,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    979.5918367346939,
+                    979.5918367346939,
+                    2035.7142857142858,
+                    3137.7551020408164,
+                    4178.571428571428,
+                    5188.775510204082
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144492686,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    979.5918367346939,
+                    979.5918367346939,
+                    2035.7142857142858,
+                    3137.7551020408164,
+                    4362.244897959184,
+                    5188.775510204082
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144494071,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    979.5918367346939,
+                    979.5918367346939,
+                    2035.7142857142858,
+                    3137.7551020408164,
+                    4362.244897959184,
+                    5295.918367346939
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144494816,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    979.5918367346939,
+                    979.5918367346939,
+                    2035.7142857142858,
+                    3137.7551020408164,
+                    4362.244897959184,
+                    5448.9795918367345
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144495833,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    979.5918367346939,
+                    979.5918367346939,
+                    2035.7142857142858,
+                    3137.7551020408164,
+                    4362.244897959184,
+                    5387.755102040816
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144496550,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    979.5918367346939,
+                    979.5918367346939,
+                    2035.7142857142858,
+                    3137.7551020408164,
+                    4362.244897959184,
+                    5464.285714285714
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144497634,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    979.5918367346939,
+                    979.5918367346939,
+                    2035.7142857142858,
+                    3137.7551020408164,
+                    4545.918367346939,
+                    5464.285714285714
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144498801,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    979.5918367346939,
+                    979.5918367346939,
+                    2035.7142857142858,
+                    3137.7551020408164,
+                    4913.265306122449,
+                    5464.285714285714
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144500753,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    979.5918367346939,
+                    979.5918367346939,
+                    2035.7142857142858,
+                    3137.7551020408164,
+                    5448.9795918367345,
+                    5464.285714285714
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144501848,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    979.5918367346939,
+                    979.5918367346939,
+                    2035.7142857142858,
+                    3137.7551020408164,
+                    5219.3877551020405,
+                    5464.285714285714
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144502984,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    979.5918367346939,
+                    979.5918367346939,
+                    2035.7142857142858,
+                    3137.7551020408164,
+                    5127.551020408163,
+                    5464.285714285714
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144503940,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    979.5918367346939,
+                    979.5918367346939,
+                    2035.7142857142858,
+                    3137.7551020408164,
+                    5035.714285714285,
+                    5464.285714285714
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144505560,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    979.5918367346939,
+                    979.5918367346939,
+                    2035.7142857142858,
+                    3137.7551020408164,
+                    5035.714285714285,
+                    5127.551020408163
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144506352,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    979.5918367346939,
+                    979.5918367346939,
+                    2035.7142857142858,
+                    3137.7551020408164,
+                    5035.714285714285,
+                    5035.714285714285
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144507761,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    979.5918367346939,
+                    979.5918367346939,
+                    2035.7142857142858,
+                    3137.7551020408164,
+                    5035.714285714285,
+                    5020.408163265306
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144513462,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    979.5918367346939,
+                    979.5918367346939,
+                    2035.7142857142858,
+                    3137.7551020408164,
+                    5035.714285714285,
+                    4729.591836734694
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144514536,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    979.5918367346939,
+                    979.5918367346939,
+                    2035.7142857142858,
+                    3137.7551020408164,
+                    5035.714285714285,
+                    4882.65306122449
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144515097,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    979.5918367346939,
+                    979.5918367346939,
+                    2035.7142857142858,
+                    3137.7551020408164,
+                    5035.714285714285,
+                    5020.408163265306
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144516049,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    979.5918367346939,
+                    979.5918367346939,
+                    2035.7142857142858,
+                    3137.7551020408164,
+                    5035.714285714285,
+                    5066.326530612245
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144517017,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    979.5918367346939,
+                    979.5918367346939,
+                    2035.7142857142858,
+                    3137.7551020408164,
+                    5035.714285714285,
+                    5035.714285714285
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144518273,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    979.5918367346939,
+                    979.5918367346939,
+                    2035.7142857142858,
+                    3137.7551020408164,
+                    5295.918367346939,
+                    5035.714285714285
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144520038,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    979.5918367346939,
+                    979.5918367346939,
+                    2035.7142857142858,
+                    3137.7551020408164,
+                    4790.816326530612,
+                    5035.714285714285
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144521384,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    979.5918367346939,
+                    979.5918367346939,
+                    2035.7142857142858,
+                    3137.7551020408164,
+                    4653.061224489796,
+                    5035.714285714285
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144525633,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    979.5918367346939,
+                    979.5918367346939,
+                    2035.7142857142858,
+                    3137.7551020408164,
+                    5020.408163265306,
+                    5035.714285714285
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144528666,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    979.5918367346939,
+                    979.5918367346939,
+                    2035.7142857142858,
+                    3979.591836734694,
+                    5020.408163265306,
+                    5035.714285714285
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144602340,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "4"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "3"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144626690,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 2,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "4"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "2"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144632097,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 3,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "1"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "1"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144644189,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 3,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "1"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "1"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144644211,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 3,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "1"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "1"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144647227,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 3,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "1"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "1"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144647246,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 3,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "5"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "1"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "1"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144652654,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 3,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "5"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "1"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "1"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144652673,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 3,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "5"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "1"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "1"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144657387,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 3,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "5"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "1"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "1"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144657405,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 3,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "5"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "1"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "0"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144661761,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 3,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "5"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "1"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "0"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144661780,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 3,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "5"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "0"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144664477,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 3,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "5"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "0"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144664533,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 3,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "5"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "0"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144674495,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 3,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "5"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "0"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144674519,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 3,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "5"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "4"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "0"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144678277,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 3,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "5"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "4"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "0"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144678298,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 3,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "5"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "0"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144680096,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 3,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "5"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "0"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144680115,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 3,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "5"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "0"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144688076,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 3,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "5"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "0"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144688095,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 3,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "0"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144690662,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 3,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "0"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144690682,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 3,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "0"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144691918,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 3,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "0"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144691937,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 3,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "0"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144694639,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 3,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "0"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144694658,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 3,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    {
+                        "slot": 0,
+                        "stickers": [
+                            "4"
+                        ]
+                    },
+                    {
+                        "slot": 1,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 2,
+                        "stickers": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "slot": 3,
+                        "stickers": [
+                            "0"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144890355,
+            "sequence_id": 1,
+            "section_id": 5,
+            "activity_id": 0,
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    "latence",
+                    "exponentielle",
+                    "la courbe de croissance",
+                    "une phase stationnaire",
+                    "l'inhibition de contact",
+                    "synchronisée",
+                    "le profil de cytométrie de flux",
+                    "G1",
+                    "ordonnées",
+                    "G1, S, G2, M"
+                ]
+            }
+        },
+        {
+            "user_id": "champo_7",
+            "session_id": "champo_7_1463141826650",
+            "timestamp": 1463144895242,
+            "sequence_id": 1,
+            "section_id": 5,
+            "activity_id": 0,
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Input",
+                "user_input": [
+                    "latence",
+                    "exponentielle",
+                    "la courbe de croissance",
+                    "une phase stationnaire",
+                    "l'inhibition de contact",
+                    "asynchrone",
+                    "le profil de cytométrie de flux",
+                    "G1",
+                    "ordonnées",
+                    "G1, S, G2, M"
+                ]
+            }
+        }
+    ]
+}

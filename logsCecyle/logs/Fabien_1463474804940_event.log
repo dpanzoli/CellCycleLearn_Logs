@@ -1,0 +1,1332 @@
+{
+    "events": [
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474748686,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "calc_btn",
+                "which": "appbar",
+                "x": 1469,
+                "y": 85
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474749809,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "main_pane",
+                "which": "calculator",
+                "x": 213,
+                "y": 224
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474750365,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "main_pane",
+                "which": "calculator",
+                "x": 159,
+                "y": 292
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474751054,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "main_pane",
+                "which": "calculator",
+                "x": 261,
+                "y": 348
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474752857,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "main_pane",
+                "which": "calculator",
+                "x": 189,
+                "y": 146
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474754637,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 18,
+                "y": 16
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474756363,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "notepad_btn",
+                "which": "appbar",
+                "x": 1400,
+                "y": 51
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474757316,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "textarea",
+                "which": "notepad",
+                "x": 234,
+                "y": 293
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474758055,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "-1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "transition_pane",
+                "which": "requirement",
+                "x": 1009,
+                "y": 452
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474760272,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "notepad_btn",
+                "which": "appbar",
+                "x": 1413,
+                "y": 64
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474761516,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "toggle_btn",
+                "which": "timer",
+                "x": 1313,
+                "y": 60
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474763200,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "-1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "requirements",
+                "x": 1568,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474764083,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1568,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474764162,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1568,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474764166,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1568,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474764481,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1568,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474764570,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1568,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474764578,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1568,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474764677,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1568,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474764777,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1568,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474764784,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1568,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474764909,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1568,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474765006,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1568,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474765020,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1568,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474765135,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1568,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474765246,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1568,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474765262,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1568,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474766183,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "-1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "hypothesis",
+                "x": 1568,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474766300,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "statement_pane",
+                "which": "La durée des phases du cycle cellulaire",
+                "x": 1568,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474766421,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "statement_pane",
+                "which": "La durée des phases du cycle cellulaire",
+                "x": 1568,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474766423,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "statement_pane",
+                "which": "La durée des phases du cycle cellulaire",
+                "x": 1568,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474766974,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "La durée des phases du cycle cellulaire",
+                "x": 1568,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474767069,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "La durée des phases du cycle cellulaire",
+                "x": 1568,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474767074,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "La durée des phases du cycle cellulaire",
+                "x": 1568,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474767214,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "La durée des phases du cycle cellulaire",
+                "x": 1568,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474767304,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "La durée des phases du cycle cellulaire",
+                "x": 1568,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474767313,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "La durée des phases du cycle cellulaire",
+                "x": 1568,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474768166,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Courbe de croissance dans des conditions optimales",
+                "x": 1567,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474768459,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Courbe de croissance dans des conditions optimales",
+                "x": 1567,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474769545,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "-1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "protocol",
+                "x": 1567,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474769765,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "transition_pane",
+                "which": "Planification du protocole expérimental",
+                "x": 1567,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474770470,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Planification du protocole expérimental",
+                "x": 1567,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474771380,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "1",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Nombres de boîtes de Pétri",
+                "x": 1567,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474772376,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Comptage",
+                "x": 1567,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474772797,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Comptage",
+                "x": 1567,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474773030,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Comptage",
+                "x": 1567,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474773239,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Comptage",
+                "x": 1567,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474773419,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "input",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Comptage",
+                "x": 1567,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474774350,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "3",
+            "activity_kind": "input",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Densité Cellulaire",
+                "x": 1567,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474774610,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "3",
+            "activity_kind": "input",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Densité Cellulaire",
+                "x": 1567,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474774804,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "3",
+            "activity_kind": "input",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Densité Cellulaire",
+                "x": 1567,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474775030,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "3",
+            "activity_kind": "input",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Densité Cellulaire",
+                "x": 1567,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474776108,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "3",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Densité Cellulaire",
+                "x": 1570,
+                "y": 697
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474777037,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "4",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Nombre de cellules par boite et tailles des boites",
+                "x": 1570,
+                "y": 697
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474777993,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Ensemencement",
+                "x": 1569,
+                "y": 697
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474778330,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Ensemencement",
+                "x": 1569,
+                "y": 697
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474778568,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Ensemencement",
+                "x": 1569,
+                "y": 697
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474778760,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Ensemencement",
+                "x": 1569,
+                "y": 697
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474778964,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Ensemencement",
+                "x": 1569,
+                "y": 697
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474780008,
+            "sequence_id": 1,
+            "section_id": "3",
+            "activity_id": "-1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "experiment",
+                "x": 1569,
+                "y": 697
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474780202,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "-1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "transition_pane",
+                "which": "results",
+                "x": 1569,
+                "y": 697
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474780919,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "-1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "results",
+                "x": 1569,
+                "y": 697
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474781082,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/act10/dd1.png",
+                "x": 1569,
+                "y": 697
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474781165,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/act10/dd4.png",
+                "x": 1569,
+                "y": 697
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474781168,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "DD_sticker",
+                "which": "/ressources/act10/dd4.png",
+                "x": 1569,
+                "y": 697
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474781733,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Comptages",
+                "x": 1569,
+                "y": 697
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474781810,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Comptages",
+                "x": 1569,
+                "y": 697
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474781813,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Comptages",
+                "x": 1569,
+                "y": 697
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474782096,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Comptages",
+                "x": 1569,
+                "y": 697
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474782151,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Comptages",
+                "x": 1569,
+                "y": 697
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474782155,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Comptages",
+                "x": 1569,
+                "y": 697
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474782282,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Comptages",
+                "x": 1569,
+                "y": 697
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474782383,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Comptages",
+                "x": 1569,
+                "y": 697
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474782389,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Comptages",
+                "x": 1569,
+                "y": 697
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474782506,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Comptages",
+                "x": 1569,
+                "y": 697
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474782597,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Comptages",
+                "x": 1569,
+                "y": 697
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474782605,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Comptages",
+                "x": 1569,
+                "y": 697
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474783151,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Comptages",
+                "x": 1569,
+                "y": 697
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474783253,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Comptages",
+                "x": 1569,
+                "y": 697
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474783278,
+            "sequence_id": 1,
+            "section_id": "4",
+            "activity_id": "0",
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Comptages",
+                "x": 1569,
+                "y": 697
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474784049,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "MousePressed",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1664,
+                "y": 656
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474784138,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1664,
+                "y": 656
+            }
+        },
+        {
+            "user_id": "Fabien",
+            "session_id": "Fabien_1463474804940",
+            "timestamp": 1463474784141,
+            "sequence_id": 1,
+            "section_id": 4,
+            "activity_id": 1,
+            "activity_kind": "curvestar",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1664,
+                "y": 656
+            }
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "events": [
+        {
+            "user_id": "21100494",
+            "session_id": "21100494_1477308606679",
+            "timestamp": 1477295762409,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1040,
+                "y": 357
+            }
+        },
+        {
+            "user_id": "21100494",
+            "session_id": "21100494_1477308606679",
+            "timestamp": 1477295762593,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1040,
+                "y": 357
+            }
+        },
+        {
+            "user_id": "21100494",
+            "session_id": "21100494_1477308606679",
+            "timestamp": 1477295766082,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "logout_btn",
+                "which": "appbar",
+                "x": 1566,
+                "y": 49
+            }
+        }
+    ]
+}

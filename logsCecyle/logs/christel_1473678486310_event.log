@@ -1,0 +1,116 @@
+{
+    "events": [
+        {
+            "user_id": "christel",
+            "session_id": "christel_1473678486310",
+            "timestamp": 1473665620710,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "-1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "hypothesis",
+                "x": 1235,
+                "y": 692
+            }
+        },
+        {
+            "user_id": "christel",
+            "session_id": "christel_1473678486310",
+            "timestamp": 1473665626483,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Hypothèses à vérifier",
+                "x": 1235,
+                "y": 692
+            }
+        },
+        {
+            "user_id": "christel",
+            "session_id": "christel_1473678486310",
+            "timestamp": 1473665626650,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Hypothèses à vérifier",
+                "x": 1235,
+                "y": 692
+            }
+        },
+        {
+            "user_id": "christel",
+            "session_id": "christel_1473678486310",
+            "timestamp": 1473665626662,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Hypothèses à vérifier",
+                "x": 1235,
+                "y": 692
+            }
+        },
+        {
+            "user_id": "christel",
+            "session_id": "christel_1473678486310",
+            "timestamp": 1473665630487,
+            "sequence_id": 3,
+            "section_id": "1",
+            "activity_id": "-1",
+            "activity_kind": "planning",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "protocol",
+                "x": 1235,
+                "y": 692
+            }
+        },
+        {
+            "user_id": "christel",
+            "session_id": "christel_1473678486310",
+            "timestamp": 1473665632954,
+            "sequence_id": 3,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "btn_bar",
+                "which": "Planification du protocole expérimental",
+                "x": 1235,
+                "y": 692
+            }
+        },
+        {
+            "user_id": "christel",
+            "session_id": "christel_1473678486310",
+            "timestamp": 1473665641505,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "-1",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "undefined",
+                "x": 1141,
+                "y": 689
+            }
+        }
+    ]
+}

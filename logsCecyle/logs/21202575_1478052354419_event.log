@@ -1,0 +1,256 @@
+{
+    "events": [
+        {
+            "user_id": "21202575",
+            "session_id": "21202575_1478052354419",
+            "timestamp": 1478039507912,
+            "sequence_id": 2,
+            "section_id": 2,
+            "activity_id": 1,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "x": 0,
+                "y": -77
+            }
+        },
+        {
+            "user_id": "21202575",
+            "session_id": "21202575_1478052354419",
+            "timestamp": 1478039508294,
+            "sequence_id": 2,
+            "section_id": 2,
+            "activity_id": 1,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "x": 0,
+                "y": -77
+            }
+        },
+        {
+            "user_id": "21202575",
+            "session_id": "21202575_1478052354419",
+            "timestamp": 1478039515123,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "statement_pane",
+                "which": "Nombres de boîtes de Pétri",
+                "x": 712,
+                "y": 489
+            }
+        },
+        {
+            "user_id": "21202575",
+            "session_id": "21202575_1478052354419",
+            "timestamp": 1478039515215,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "statement_pane",
+                "which": "Nombres de boîtes de Pétri",
+                "x": 712,
+                "y": 489
+            }
+        },
+        {
+            "user_id": "21202575",
+            "session_id": "21202575_1478052354419",
+            "timestamp": 1478039515233,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "statement_pane",
+                "which": "Nombres de boîtes de Pétri",
+                "x": 712,
+                "y": 489
+            }
+        },
+        {
+            "user_id": "21202575",
+            "session_id": "21202575_1478052354419",
+            "timestamp": 1478039520680,
+            "sequence_id": 2,
+            "section_id": 2,
+            "activity_id": 0,
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Click",
+                "what": "interface_pane",
+                "which": "iconbar_wrapper",
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "user_id": "21202575",
+            "session_id": "21202575_1478052354419",
+            "timestamp": 1478039530204,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Planification du protocole expérimental",
+                "x": 959,
+                "y": 650
+            }
+        },
+        {
+            "user_id": "21202575",
+            "session_id": "21202575_1478052354419",
+            "timestamp": 1478039531343,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Planification du protocole expérimental",
+                "x": 959,
+                "y": 650
+            }
+        },
+        {
+            "user_id": "21202575",
+            "session_id": "21202575_1478052354419",
+            "timestamp": 1478039532360,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Planification du protocole expérimental",
+                "x": 959,
+                "y": 650
+            }
+        },
+        {
+            "user_id": "21202575",
+            "session_id": "21202575_1478052354419",
+            "timestamp": 1478039533927,
+            "sequence_id": 2,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "planif",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Planification du protocole expérimental",
+                "x": 959,
+                "y": 650
+            }
+        },
+        {
+            "user_id": "21202575",
+            "session_id": "21202575_1478052354419",
+            "timestamp": 1478039538569,
+            "sequence_id": 2,
+            "section_id": 2,
+            "activity_id": 1,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "user_id": "21202575",
+            "session_id": "21202575_1478052354419",
+            "timestamp": 1478039540068,
+            "sequence_id": 2,
+            "section_id": 2,
+            "activity_id": 1,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "user_id": "21202575",
+            "session_id": "21202575_1478052354419",
+            "timestamp": 1478039540616,
+            "sequence_id": 2,
+            "section_id": 2,
+            "activity_id": 2,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "user_id": "21202575",
+            "session_id": "21202575_1478052354419",
+            "timestamp": 1478039541402,
+            "sequence_id": 2,
+            "section_id": 2,
+            "activity_id": 3,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "user_id": "21202575",
+            "session_id": "21202575_1478052354419",
+            "timestamp": 1478039543311,
+            "sequence_id": 2,
+            "section_id": 2,
+            "activity_id": 4,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "user_id": "21202575",
+            "session_id": "21202575_1478052354419",
+            "timestamp": 1478039549993,
+            "sequence_id": 2,
+            "section_id": 2,
+            "activity_id": 5,
+            "activity_kind": "doublepipette",
+            "data": {
+                "kind": "Click",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 0,
+                "y": 0
+            }
+        }
+    ]
+}

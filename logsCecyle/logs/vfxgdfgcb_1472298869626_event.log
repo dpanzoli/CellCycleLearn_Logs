@@ -1,0 +1,36 @@
+{
+    "events": [
+        {
+            "user_id": "vfxgdfgcb",
+            "session_id": "vfxgdfgcb_1472298869626",
+            "timestamp": 1472285998730,
+            "sequence_id": 3,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 295,
+                "y": 539
+            }
+        },
+        {
+            "user_id": "vfxgdfgcb",
+            "session_id": "vfxgdfgcb_1472298869626",
+            "timestamp": 1472286000700,
+            "sequence_id": 3,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "toggle_btn",
+                "which": "timer",
+                "x": 1160,
+                "y": 57
+            }
+        }
+    ]
+}

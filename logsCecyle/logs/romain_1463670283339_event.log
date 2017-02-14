@@ -1,0 +1,740 @@
+{
+    "events": [
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670238777,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 258,
+                "y": 265
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670469231,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 458,
+                "y": 356
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670474048,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "-1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "requirements",
+                "x": 1553,
+                "y": 680
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670474600,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "statement_pane",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1552,
+                "y": 680
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670474702,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "statement_pane",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1552,
+                "y": 680
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670474704,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "statement_pane",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1552,
+                "y": 680
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670475303,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1543,
+                "y": 690
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670475389,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1543,
+                "y": 690
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670475394,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1543,
+                "y": 690
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670475782,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1543,
+                "y": 690
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670475869,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1543,
+                "y": 690
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670475873,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1543,
+                "y": 690
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670476144,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1543,
+                "y": 691
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670476223,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1543,
+                "y": 691
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670476227,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1543,
+                "y": 691
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670476450,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1543,
+                "y": 691
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670476541,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1543,
+                "y": 691
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670476545,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1543,
+                "y": 691
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670476746,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1543,
+                "y": 691
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670476853,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1543,
+                "y": 691
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670476862,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1543,
+                "y": 691
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670477424,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "statement_pane",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1543,
+                "y": 692
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670477527,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1543,
+                "y": 692
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670477751,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1543,
+                "y": 692
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670477848,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1543,
+                "y": 692
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670477853,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1543,
+                "y": 692
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670478127,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1543,
+                "y": 692
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670478230,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1543,
+                "y": 692
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670478234,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1543,
+                "y": 692
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670478502,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1543,
+                "y": 692
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670478597,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1543,
+                "y": 692
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670478601,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1543,
+                "y": 692
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670478835,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1543,
+                "y": 692
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670478909,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1543,
+                "y": 692
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670478913,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1543,
+                "y": 692
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670479460,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1543,
+                "y": 692
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670479557,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1543,
+                "y": 692
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670479562,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Contenu ADN dans les différentes phases",
+                "x": 1543,
+                "y": 692
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670480334,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "-1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "hypothesis",
+                "x": 1543,
+                "y": 692
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670493941,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Checkpoint influencé par la privation en facteurs de croissance",
+                "x": 1555,
+                "y": 683
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670494025,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Checkpoint influencé par la privation en facteurs de croissance",
+                "x": 1555,
+                "y": 683
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670494029,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Checkpoint influencé par la privation en facteurs de croissance",
+                "x": 1555,
+                "y": 683
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670495019,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Checkpoint influencé par la privation en facteurs de croissance",
+                "x": 1527,
+                "y": 700
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670495093,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Checkpoint influencé par la privation en facteurs de croissance",
+                "x": 1527,
+                "y": 700
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463670495100,
+            "sequence_id": 2,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Checkpoint influencé par la privation en facteurs de croissance",
+                "x": 1527,
+                "y": 700
+            }
+        },
+        {
+            "user_id": "romain",
+            "session_id": "romain_1463670283339",
+            "timestamp": 1463673590055,
+            "sequence_id": 2,
+            "section_id": 1,
+            "activity_id": 1,
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 158,
+                "y": 209
+            }
+        }
+    ]
+}

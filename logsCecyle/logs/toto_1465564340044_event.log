@@ -1,0 +1,2244 @@
+{
+    "events": [
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564271041,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "-1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "transition_pane",
+                "which": "requirement",
+                "x": 907,
+                "y": 217
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564290147,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "-1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "transition_pane",
+                "which": "requirement",
+                "x": 714,
+                "y": 269
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564302024,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "-1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "transition_pane",
+                "which": "requirement",
+                "x": 1392,
+                "y": 378
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564302295,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "-1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "transition_pane",
+                "which": "requirement",
+                "x": 1392,
+                "y": 378
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564305311,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "-1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "requirements",
+                "x": 1383,
+                "y": 691
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564382551,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 330,
+                "y": 108
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564382660,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 330,
+                "y": 108
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564382679,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 330,
+                "y": 108
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564385157,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "-1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "requirements",
+                "x": 1371,
+                "y": 688
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564387968,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1383,
+                "y": 684
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564388046,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1383,
+                "y": 684
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564388063,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1383,
+                "y": 684
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564388522,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1383,
+                "y": 684
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564388631,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1383,
+                "y": 684
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564388646,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1383,
+                "y": 684
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564389122,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "correct_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1383,
+                "y": 684
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564389215,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "correct_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1383,
+                "y": 684
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564389232,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1383,
+                "y": 684
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564389787,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1383,
+                "y": 684
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564389903,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1383,
+                "y": 684
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564389925,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1383,
+                "y": 684
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564392933,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1399,
+                "y": 685
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564393026,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1399,
+                "y": 685
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564393044,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1399,
+                "y": 685
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564398718,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "-1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "hypothesis",
+                "x": 1399,
+                "y": 685
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564399807,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "La durée des phases du cycle cellulaire",
+                "x": 1399,
+                "y": 685
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564399934,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "La durée des phases du cycle cellulaire",
+                "x": 1399,
+                "y": 685
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564399954,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "La durée des phases du cycle cellulaire",
+                "x": 1399,
+                "y": 685
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564403310,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "La durée des phases du cycle cellulaire",
+                "x": 1376,
+                "y": 687
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564403489,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "La durée des phases du cycle cellulaire",
+                "x": 1376,
+                "y": 687
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564403547,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "La durée des phases du cycle cellulaire",
+                "x": 1376,
+                "y": 687
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564411728,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Courbe de croissance dans des conditions optimales",
+                "x": 554,
+                "y": 496
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564413979,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Courbe de croissance dans des conditions optimales",
+                "x": 662,
+                "y": 212
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564415579,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Courbe de croissance dans des conditions optimales",
+                "x": 739,
+                "y": 504
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564417381,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Courbe de croissance dans des conditions optimales",
+                "x": 814,
+                "y": 302
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564418833,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Courbe de croissance dans des conditions optimales",
+                "x": 917,
+                "y": 439
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564420412,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Courbe de croissance dans des conditions optimales",
+                "x": 993,
+                "y": 368
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564421645,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Courbe de croissance dans des conditions optimales",
+                "x": 910,
+                "y": 421
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564422952,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Courbe de croissance dans des conditions optimales",
+                "x": 1004,
+                "y": 374
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564425120,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "Curve_canvas",
+                "which": "Courbe de croissance dans des conditions optimales",
+                "x": 551,
+                "y": 563
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564448179,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "menu_item",
+                "which": "Les phases du cycle cellulaire",
+                "x": 353,
+                "y": 167
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564452541,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1409,
+                "y": 665
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564452617,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1409,
+                "y": 665
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564452624,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1409,
+                "y": 665
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564453003,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "btn_bar",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1363,
+                "y": 719
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564453074,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "btn_bar",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1363,
+                "y": 719
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564453078,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "btn_bar",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1363,
+                "y": 719
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564453559,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1365,
+                "y": 704
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564453669,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1365,
+                "y": 704
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564453687,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1365,
+                "y": 704
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564454739,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "-1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "hypothesis",
+                "x": 1376,
+                "y": 689
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564455624,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "La durée des phases du cycle cellulaire",
+                "x": 1376,
+                "y": 689
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564455797,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "La durée des phases du cycle cellulaire",
+                "x": 1376,
+                "y": 689
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564455818,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "La durée des phases du cycle cellulaire",
+                "x": 1376,
+                "y": 689
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564456889,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "curvetest",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Courbe de croissance dans des conditions optimales",
+                "x": 1376,
+                "y": 689
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564457475,
+            "sequence_id": 1,
+            "section_id": "1",
+            "activity_id": "1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Courbe de croissance dans des conditions optimales",
+                "x": 1376,
+                "y": 689
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564459161,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "-1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "protocol",
+                "x": 1376,
+                "y": 689
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564459831,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1376,
+                "y": 689
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564460805,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Planification du protocole expérimental",
+                "x": 1376,
+                "y": 689
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564472383,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "1",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Nombres de boîtes de Pétri",
+                "x": 1376,
+                "y": 689
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564474741,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Comptage",
+                "x": 1376,
+                "y": 689
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564475317,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Comptage",
+                "x": 1376,
+                "y": 689
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564475835,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Comptage",
+                "x": 1376,
+                "y": 689
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564476346,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "counttest",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Comptage",
+                "x": 1376,
+                "y": 689
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564477945,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "2",
+            "activity_kind": "input",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Comptage",
+                "x": 1376,
+                "y": 689
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564479158,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "3",
+            "activity_kind": "input",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Densité Cellulaire",
+                "x": 1376,
+                "y": 689
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564479773,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "3",
+            "activity_kind": "input",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Densité Cellulaire",
+                "x": 1376,
+                "y": 689
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564480369,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "3",
+            "activity_kind": "input",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Densité Cellulaire",
+                "x": 1376,
+                "y": 689
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564481110,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "3",
+            "activity_kind": "input",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Densité Cellulaire",
+                "x": 1376,
+                "y": 689
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564482281,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "3",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Densité Cellulaire",
+                "x": 1376,
+                "y": 689
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564483600,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "4",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Nombre de cellules par boite et tailles des boites",
+                "x": 1376,
+                "y": 689
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564487202,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "select_serum",
+                "which": "Ensemencement",
+                "x": 1194,
+                "y": 334
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564487206,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "select_serum",
+                "which": "Ensemencement",
+                "x": 1194,
+                "y": 334
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564487998,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "pipette_1",
+                "which": "Ensemencement",
+                "x": 1303,
+                "y": 313
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564488002,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "pipette_1",
+                "which": "Ensemencement",
+                "x": 1303,
+                "y": 313
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564488718,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1266,
+                "y": 478
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564489253,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1266,
+                "y": 478
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564489458,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1266,
+                "y": 478
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564489620,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1266,
+                "y": 478
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564489781,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1266,
+                "y": 478
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564489965,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1266,
+                "y": 478
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564490097,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1266,
+                "y": 478
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564490221,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1266,
+                "y": 478
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564490386,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1266,
+                "y": 478
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564490557,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1266,
+                "y": 478
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564490721,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1266,
+                "y": 478
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564491234,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1266,
+                "y": 478
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564491402,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1266,
+                "y": 478
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564491529,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1266,
+                "y": 478
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564491948,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1266,
+                "y": 478
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564493219,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "statement_pane",
+                "which": "Ensemencement",
+                "x": 1358,
+                "y": 304
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564493579,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "pipette_2",
+                "which": "Ensemencement",
+                "x": 1349,
+                "y": 304
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564493584,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "pipette_2",
+                "which": "Ensemencement",
+                "x": 1349,
+                "y": 304
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564495048,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1254,
+                "y": 478
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564495492,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1254,
+                "y": 478
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564495655,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1254,
+                "y": 478
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564495811,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1254,
+                "y": 478
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564495971,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1254,
+                "y": 478
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564496163,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1254,
+                "y": 478
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564496366,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1254,
+                "y": 478
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564496963,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "select_serum",
+                "which": "Ensemencement",
+                "x": 1162,
+                "y": 371
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564496967,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "select_serum",
+                "which": "Ensemencement",
+                "x": 1162,
+                "y": 371
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564497323,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "select_milieu",
+                "which": "Ensemencement",
+                "x": 1156,
+                "y": 295
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564497329,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "select_milieu",
+                "which": "Ensemencement",
+                "x": 1156,
+                "y": 295
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564498047,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1224,
+                "y": 472
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564498202,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1224,
+                "y": 472
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564498359,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1224,
+                "y": 472
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564498886,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "statement_pane",
+                "which": "Ensemencement",
+                "x": 1194,
+                "y": 500
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564499033,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "statement_pane",
+                "which": "Ensemencement",
+                "x": 1194,
+                "y": 500
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564499263,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1197,
+                "y": 490
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564499444,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1197,
+                "y": 490
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564499613,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1197,
+                "y": 490
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564499775,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1197,
+                "y": 490
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564499949,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1197,
+                "y": 490
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564500116,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1197,
+                "y": 490
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564500295,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1197,
+                "y": 490
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564500460,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1197,
+                "y": 490
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564500664,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1197,
+                "y": 490
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564501254,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "select_cells",
+                "which": "Ensemencement",
+                "x": 1146,
+                "y": 419
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564501261,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "select_cells",
+                "which": "Ensemencement",
+                "x": 1146,
+                "y": 419
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564501951,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1179,
+                "y": 481
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564502104,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1179,
+                "y": 481
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564502330,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1179,
+                "y": 481
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564502733,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1179,
+                "y": 481
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564502882,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1179,
+                "y": 481
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564503037,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1179,
+                "y": 481
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564503197,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1179,
+                "y": 481
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564503345,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1179,
+                "y": 481
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564503470,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1179,
+                "y": 481
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564503638,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1179,
+                "y": 481
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564503765,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1179,
+                "y": 481
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564503898,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1179,
+                "y": 481
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564504025,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "add_constituant",
+                "which": "Ensemencement",
+                "x": 1179,
+                "y": 481
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564508342,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Ensemencement",
+                "x": 1387,
+                "y": 695
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564509304,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Ensemencement",
+                "x": 1387,
+                "y": 695
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564510890,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "correct_btn",
+                "which": "Ensemencement",
+                "x": 1387,
+                "y": 695
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564511647,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "pipette",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Ensemencement",
+                "x": 1387,
+                "y": 695
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564512684,
+            "sequence_id": 1,
+            "section_id": "2",
+            "activity_id": "5",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Ensemencement",
+                "x": 1387,
+                "y": 695
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564514574,
+            "sequence_id": 1,
+            "section_id": "3",
+            "activity_id": "-1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1391,
+                "y": 714
+            }
+        },
+        {
+            "user_id": "toto",
+            "session_id": "toto_1465564340044",
+            "timestamp": 1465564515112,
+            "sequence_id": 1,
+            "section_id": "3",
+            "activity_id": "-1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "experiment",
+                "x": 1390,
+                "y": 689
+            }
+        }
+    ]
+}

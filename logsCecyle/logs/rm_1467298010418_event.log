@@ -1,0 +1,68 @@
+{
+    "events": [
+        {
+            "user_id": "rm",
+            "session_id": "rm_1467298010418",
+            "timestamp": 1467297934155,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 187,
+                "y": 668
+            }
+        },
+        {
+            "user_id": "rm",
+            "session_id": "rm_1467298010418",
+            "timestamp": 1467297934475,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 186,
+                "y": 672
+            }
+        },
+        {
+            "user_id": "rm",
+            "session_id": "rm_1467298010418",
+            "timestamp": 1467297960577,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 222,
+                "y": 300
+            }
+        },
+        {
+            "user_id": "rm",
+            "session_id": "rm_1467298010418",
+            "timestamp": 1467297967257,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "notepad_btn",
+                "which": "appbar",
+                "x": 1081,
+                "y": 59
+            }
+        }
+    ]
+}

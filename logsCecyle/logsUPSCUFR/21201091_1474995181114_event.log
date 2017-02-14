@@ -1,0 +1,164 @@
+{
+    "events": [
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995181114",
+            "timestamp": 1474982300569,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 347,
+                "y": 683
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995181114",
+            "timestamp": 1474982300752,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 347,
+                "y": 683
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995181114",
+            "timestamp": 1474982301247,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 347,
+                "y": 683
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995181114",
+            "timestamp": 1474982302095,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 203,
+                "y": 677
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995181114",
+            "timestamp": 1474982337923,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "-1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "requirements",
+                "x": 1418,
+                "y": 683
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995181114",
+            "timestamp": 1474982343228,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "G3",
+                "x": 1108,
+                "y": 251
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995181114",
+            "timestamp": 1474982343910,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "main_pane",
+                "which": "Les phases du cycle cellulaire",
+                "x": 1084,
+                "y": 277
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995181114",
+            "timestamp": 1474982346431,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "toggle_btn",
+                "which": "timer",
+                "x": 1167,
+                "y": 58
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995181114",
+            "timestamp": 1474982346502,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "toggle_btn",
+                "which": "timer",
+                "x": 1167,
+                "y": 58
+            }
+        },
+        {
+            "user_id": "21201091",
+            "session_id": "21201091_1474995181114",
+            "timestamp": 1474982346508,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "toggle_btn",
+                "which": "timer",
+                "x": 1167,
+                "y": 58
+            }
+        }
+    ]
+}

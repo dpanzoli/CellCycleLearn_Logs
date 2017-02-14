@@ -1,0 +1,164 @@
+{
+    "events": [
+        {
+            "user_id": "champo_01",
+            "session_id": "champo_01_1463135295461",
+            "timestamp": 1463135247596,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "calc_btn",
+                "which": "appbar",
+                "x": 1149,
+                "y": 55
+            }
+        },
+        {
+            "user_id": "champo_01",
+            "session_id": "champo_01_1463135295461",
+            "timestamp": 1463135248508,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "calc_btn",
+                "which": "appbar",
+                "x": 1149,
+                "y": 55
+            }
+        },
+        {
+            "user_id": "champo_01",
+            "session_id": "champo_01_1463135295461",
+            "timestamp": 1463135249472,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "notepad_btn",
+                "which": "appbar",
+                "x": 1076,
+                "y": 59
+            }
+        },
+        {
+            "user_id": "champo_01",
+            "session_id": "champo_01_1463135295461",
+            "timestamp": 1463135256640,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "notepad_btn",
+                "which": "appbar",
+                "x": 1076,
+                "y": 59
+            }
+        },
+        {
+            "user_id": "champo_01",
+            "session_id": "champo_01_1463135295461",
+            "timestamp": 1463135263211,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 157,
+                "y": 180
+            }
+        },
+        {
+            "user_id": "champo_01",
+            "session_id": "champo_01_1463135295461",
+            "timestamp": 1463135264535,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "-1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "requirements",
+                "x": 1228,
+                "y": 700
+            }
+        },
+        {
+            "user_id": "champo_01",
+            "session_id": "champo_01_1463135295461",
+            "timestamp": 1463135266202,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/act0/dd4.png",
+                "x": 1115,
+                "y": 453
+            }
+        },
+        {
+            "user_id": "champo_01",
+            "session_id": "champo_01_1463135295461",
+            "timestamp": 1463135267012,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/act0/dd4.png",
+                "x": 446,
+                "y": 183
+            }
+        },
+        {
+            "user_id": "champo_01",
+            "session_id": "champo_01_1463135295461",
+            "timestamp": 1463135599745,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "logout_btn",
+                "which": "appbar",
+                "x": 1242,
+                "y": 59
+            }
+        },
+        {
+            "user_id": "champo_01",
+            "session_id": "champo_01_1463135295461",
+            "timestamp": 1463135599819,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": 0,
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "logout_btn",
+                "which": "appbar",
+                "x": 1242,
+                "y": 59
+            }
+        }
+    ]
+}

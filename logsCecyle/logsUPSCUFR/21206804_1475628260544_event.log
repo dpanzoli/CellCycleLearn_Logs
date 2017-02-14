@@ -1,0 +1,100 @@
+{
+    "events": [
+        {
+            "user_id": "21206804",
+            "session_id": "21206804_1475628260544",
+            "timestamp": 1475615443051,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "-1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "transition_pane",
+                "which": "requirement",
+                "x": 497,
+                "y": 126
+            }
+        },
+        {
+            "user_id": "21206804",
+            "session_id": "21206804_1475628260544",
+            "timestamp": 1475615446373,
+            "sequence_id": 1,
+            "section_id": "0",
+            "activity_id": "-1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "transition_pane",
+                "which": "requirement",
+                "x": 852,
+                "y": 246
+            }
+        },
+        {
+            "user_id": "21206804",
+            "session_id": "21206804_1475628260544",
+            "timestamp": 1475615453045,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1365,
+                "y": 51
+            }
+        },
+        {
+            "user_id": "21206804",
+            "session_id": "21206804_1475628260544",
+            "timestamp": 1475615453088,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1365,
+                "y": 51
+            }
+        },
+        {
+            "user_id": "21206804",
+            "session_id": "21206804_1475628260544",
+            "timestamp": 1475615456575,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "calc_btn",
+                "which": "appbar",
+                "x": 1215,
+                "y": 52
+            }
+        },
+        {
+            "user_id": "21206804",
+            "session_id": "21206804_1475628260544",
+            "timestamp": 1475615459561,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 23,
+                "y": 11
+            }
+        }
+    ]
+}

@@ -1,0 +1,308 @@
+{
+    "events": [
+        {
+            "user_id": "vgfkdhjsdgh",
+            "session_id": "vgfkdhjsdgh_1468145623649",
+            "timestamp": 1468145518308,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "-1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "hypothesis",
+                "x": 1378,
+                "y": 699
+            }
+        },
+        {
+            "user_id": "vgfkdhjsdgh",
+            "session_id": "vgfkdhjsdgh_1468145623649",
+            "timestamp": 1468145518947,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "next_btn",
+                "which": "Hypothèses à vérifier",
+                "x": 1378,
+                "y": 690
+            }
+        },
+        {
+            "user_id": "vgfkdhjsdgh",
+            "session_id": "vgfkdhjsdgh_1468145623649",
+            "timestamp": 1468145519039,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "next_btn",
+                "which": "Hypothèses à vérifier",
+                "x": 1378,
+                "y": 690
+            }
+        },
+        {
+            "user_id": "vgfkdhjsdgh",
+            "session_id": "vgfkdhjsdgh_1468145623649",
+            "timestamp": 1468145519070,
+            "sequence_id": 3,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "Hypothèses à vérifier",
+                "x": 1378,
+                "y": 690
+            }
+        },
+        {
+            "user_id": "vgfkdhjsdgh",
+            "session_id": "vgfkdhjsdgh_1468145623649",
+            "timestamp": 1468145519403,
+            "sequence_id": 3,
+            "section_id": "1",
+            "activity_id": "-1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "transition_pane",
+                "which": "protocol",
+                "x": 1378,
+                "y": 694
+            }
+        },
+        {
+            "user_id": "vgfkdhjsdgh",
+            "session_id": "vgfkdhjsdgh_1468145623649",
+            "timestamp": 1468145520084,
+            "sequence_id": 3,
+            "section_id": "1",
+            "activity_id": "-1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1331,
+                "y": 697
+            }
+        },
+        {
+            "user_id": "vgfkdhjsdgh",
+            "session_id": "vgfkdhjsdgh_1468145623649",
+            "timestamp": 1468145520476,
+            "sequence_id": 3,
+            "section_id": "1",
+            "activity_id": "-1",
+            "activity_kind": "planning",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "protocol",
+                "x": 1394,
+                "y": 700
+            }
+        },
+        {
+            "user_id": "vgfkdhjsdgh",
+            "session_id": "vgfkdhjsdgh_1468145623649",
+            "timestamp": 1468145522952,
+            "sequence_id": 3,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "planning",
+            "data": {
+                "kind": "Click",
+                "what": "main_pane",
+                "which": "Planification du protocole expérimental",
+                "x": 704,
+                "y": 166
+            }
+        },
+        {
+            "user_id": "vgfkdhjsdgh",
+            "session_id": "vgfkdhjsdgh_1468145623649",
+            "timestamp": 1468145523249,
+            "sequence_id": 3,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "planning",
+            "data": {
+                "kind": "Click",
+                "what": "main_pane",
+                "which": "Planification du protocole expérimental",
+                "x": 906,
+                "y": 340
+            }
+        },
+        {
+            "user_id": "vgfkdhjsdgh",
+            "session_id": "vgfkdhjsdgh_1468145623649",
+            "timestamp": 1468145523905,
+            "sequence_id": 3,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "planning",
+            "data": {
+                "kind": "Click",
+                "what": "check_temoin",
+                "which": "Planification du protocole expérimental",
+                "x": 1105,
+                "y": 407
+            }
+        },
+        {
+            "user_id": "vgfkdhjsdgh",
+            "session_id": "vgfkdhjsdgh_1468145623649",
+            "timestamp": 1468145525907,
+            "sequence_id": 3,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "planning",
+            "data": {
+                "kind": "Click",
+                "what": "check_temoin",
+                "which": "Planification du protocole expérimental",
+                "x": 1099,
+                "y": 410
+            }
+        },
+        {
+            "user_id": "vgfkdhjsdgh",
+            "session_id": "vgfkdhjsdgh_1468145623649",
+            "timestamp": 1468145526322,
+            "sequence_id": 3,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "planning",
+            "data": {
+                "kind": "Click",
+                "what": "check_temoin",
+                "which": "Planification du protocole expérimental",
+                "x": 1099,
+                "y": 410
+            }
+        },
+        {
+            "user_id": "vgfkdhjsdgh",
+            "session_id": "vgfkdhjsdgh_1468145623649",
+            "timestamp": 1468145529827,
+            "sequence_id": 3,
+            "section_id": "1",
+            "activity_id": "0",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "btn_bar",
+                "which": "Planification du protocole expérimental",
+                "x": 1285,
+                "y": 697
+            }
+        },
+        {
+            "user_id": "vgfkdhjsdgh",
+            "session_id": "vgfkdhjsdgh_1468145623649",
+            "timestamp": 1468145535562,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "-1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "transition_pane",
+                "which": "results",
+                "x": 756,
+                "y": 389
+            }
+        },
+        {
+            "user_id": "vgfkdhjsdgh",
+            "session_id": "vgfkdhjsdgh_1468145623649",
+            "timestamp": 1468145536150,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "-1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "transition_pane",
+                "which": "results",
+                "x": 795,
+                "y": 273
+            }
+        },
+        {
+            "user_id": "vgfkdhjsdgh",
+            "session_id": "vgfkdhjsdgh_1468145623649",
+            "timestamp": 1468145541118,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "-1",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "undefined",
+                "x": 1395,
+                "y": 686
+            }
+        },
+        {
+            "user_id": "vgfkdhjsdgh",
+            "session_id": "vgfkdhjsdgh_1468145623649",
+            "timestamp": 1468145543668,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1267,
+                "y": 552
+            }
+        },
+        {
+            "user_id": "vgfkdhjsdgh",
+            "session_id": "vgfkdhjsdgh_1468145623649",
+            "timestamp": 1468145544419,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1284,
+                "y": 204
+            }
+        },
+        {
+            "user_id": "vgfkdhjsdgh",
+            "session_id": "vgfkdhjsdgh_1468145623649",
+            "timestamp": 1468145545165,
+            "sequence_id": 3,
+            "section_id": "2",
+            "activity_id": "0",
+            "activity_kind": "type",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 1240,
+                "y": 315
+            }
+        }
+    ]
+}

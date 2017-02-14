@@ -1,0 +1,52 @@
+{
+    "events": [
+        {
+            "user_id": "Cecyle",
+            "session_id": "Cecyle_1480970409200",
+            "timestamp": 1480957612826,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "outer_pane",
+                "which": "body",
+                "x": 668,
+                "y": 239
+            }
+        },
+        {
+            "user_id": "Cecyle",
+            "session_id": "Cecyle_1480970409200",
+            "timestamp": 1480957617962,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "interface_pane",
+                "which": "iconbar_wrapper",
+                "x": 462,
+                "y": 63
+            }
+        },
+        {
+            "user_id": "Cecyle",
+            "session_id": "Cecyle_1480970409200",
+            "timestamp": 1480957621071,
+            "sequence_id": 1,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "logout_btn",
+                "which": "appbar",
+                "x": 1293,
+                "y": 64
+            }
+        }
+    ]
+}

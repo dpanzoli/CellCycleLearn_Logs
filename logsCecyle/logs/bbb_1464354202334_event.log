@@ -1,0 +1,516 @@
+{
+    "events": [
+        {
+            "user_id": "bbb",
+            "session_id": "bbb_1464354202334",
+            "timestamp": 1464354130421,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "notepad_btn",
+                "which": "appbar",
+                "x": 1410,
+                "y": 44
+            }
+        },
+        {
+            "user_id": "bbb",
+            "session_id": "bbb_1464354202334",
+            "timestamp": 1464354130982,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "notepad_btn",
+                "which": "appbar",
+                "x": 1412,
+                "y": 44
+            }
+        },
+        {
+            "user_id": "bbb",
+            "session_id": "bbb_1464354202334",
+            "timestamp": 1464354132260,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 427,
+                "y": 387
+            }
+        },
+        {
+            "user_id": "bbb",
+            "session_id": "bbb_1464354202334",
+            "timestamp": 1464354132956,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 366,
+                "y": 372
+            }
+        },
+        {
+            "user_id": "bbb",
+            "session_id": "bbb_1464354202334",
+            "timestamp": 1464354133478,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "-1",
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "transition_pane",
+                "which": "requirement",
+                "x": 872,
+                "y": 331
+            }
+        },
+        {
+            "user_id": "bbb",
+            "session_id": "bbb_1464354202334",
+            "timestamp": 1464356537940,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 366,
+                "y": 396
+            }
+        },
+        {
+            "user_id": "bbb",
+            "session_id": "bbb_1464354202334",
+            "timestamp": 1464356538468,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 364,
+                "y": 395
+            }
+        },
+        {
+            "user_id": "bbb",
+            "session_id": "bbb_1464354202334",
+            "timestamp": 1464356538708,
+            "sequence_id": 2,
+            "section_id": 0,
+            "activity_id": -1,
+            "activity_kind": "transition",
+            "data": {
+                "kind": "Click",
+                "what": "navigation_pane",
+                "which": "menubar",
+                "x": 375,
+                "y": 371
+            }
+        },
+        {
+            "user_id": "bbb",
+            "session_id": "bbb_1464354202334",
+            "timestamp": 1464356539514,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "-1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "next_btn",
+                "which": "requirements",
+                "x": 1565,
+                "y": 687
+            }
+        },
+        {
+            "user_id": "bbb",
+            "session_id": "bbb_1464354202334",
+            "timestamp": 1464356541180,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_slot",
+                "which": "0",
+                "x": 908,
+                "y": 165
+            }
+        },
+        {
+            "user_id": "bbb",
+            "session_id": "bbb_1464354202334",
+            "timestamp": 1464356541372,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "statement_pane",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1316,
+                "y": 289
+            }
+        },
+        {
+            "user_id": "bbb",
+            "session_id": "bbb_1464354202334",
+            "timestamp": 1464356541373,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "statement_pane",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1316,
+                "y": 289
+            }
+        },
+        {
+            "user_id": "bbb",
+            "session_id": "bbb_1464354202334",
+            "timestamp": 1464356541693,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "G1/S",
+                "x": 1344,
+                "y": 257
+            }
+        },
+        {
+            "user_id": "bbb",
+            "session_id": "bbb_1464354202334",
+            "timestamp": 1464356542104,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "DD_sticker",
+                "which": "G1/S",
+                "x": 886,
+                "y": 226
+            }
+        },
+        {
+            "user_id": "bbb",
+            "session_id": "bbb_1464354202334",
+            "timestamp": 1464356542098,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "G1/S",
+                "x": 886,
+                "y": 226
+            }
+        },
+        {
+            "user_id": "bbb",
+            "session_id": "bbb_1464354202334",
+            "timestamp": 1464356542940,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "G1/S",
+                "x": 1372,
+                "y": 264
+            }
+        },
+        {
+            "user_id": "bbb",
+            "session_id": "bbb_1464354202334",
+            "timestamp": 1464356543053,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "G1/S",
+                "x": 1101,
+                "y": 253
+            }
+        },
+        {
+            "user_id": "bbb",
+            "session_id": "bbb_1464354202334",
+            "timestamp": 1464356543056,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "DD_sticker",
+                "which": "G1/S",
+                "x": 1101,
+                "y": 253
+            }
+        },
+        {
+            "user_id": "bbb",
+            "session_id": "bbb_1464354202334",
+            "timestamp": 1464356543516,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "L",
+                "x": 1469,
+                "y": 323
+            }
+        },
+        {
+            "user_id": "bbb",
+            "session_id": "bbb_1464354202334",
+            "timestamp": 1464356543660,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "L",
+                "x": 1120,
+                "y": 296
+            }
+        },
+        {
+            "user_id": "bbb",
+            "session_id": "bbb_1464354202334",
+            "timestamp": 1464356543664,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "DD_sticker",
+                "which": "L",
+                "x": 1120,
+                "y": 296
+            }
+        },
+        {
+            "user_id": "bbb",
+            "session_id": "bbb_1464354202334",
+            "timestamp": 1464356544196,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "L",
+                "x": 1425,
+                "y": 337
+            }
+        },
+        {
+            "user_id": "bbb",
+            "session_id": "bbb_1464354202334",
+            "timestamp": 1464356544350,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "main_pane",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1109,
+                "y": 264
+            }
+        },
+        {
+            "user_id": "bbb",
+            "session_id": "bbb_1464354202334",
+            "timestamp": 1464356544345,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "main_pane",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1109,
+                "y": 264
+            }
+        },
+        {
+            "user_id": "bbb",
+            "session_id": "bbb_1464354202334",
+            "timestamp": 1464356544860,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "statement_pane",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1386,
+                "y": 268
+            }
+        },
+        {
+            "user_id": "bbb",
+            "session_id": "bbb_1464354202334",
+            "timestamp": 1464356545405,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "G1/S",
+                "x": 1342,
+                "y": 271
+            }
+        },
+        {
+            "user_id": "bbb",
+            "session_id": "bbb_1464354202334",
+            "timestamp": 1464356545593,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "G1/S",
+                "x": 1067,
+                "y": 264
+            }
+        },
+        {
+            "user_id": "bbb",
+            "session_id": "bbb_1464354202334",
+            "timestamp": 1464356545597,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "DD_sticker",
+                "which": "G1/S",
+                "x": 1067,
+                "y": 264
+            }
+        },
+        {
+            "user_id": "bbb",
+            "session_id": "bbb_1464354202334",
+            "timestamp": 1464356546116,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "statement_pane",
+                "which": "Les checkpoints du cycle cellulaire",
+                "x": 1486,
+                "y": 302
+            }
+        },
+        {
+            "user_id": "bbb",
+            "session_id": "bbb_1464354202334",
+            "timestamp": 1464356546901,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "S/G2",
+                "x": 1425,
+                "y": 258
+            }
+        },
+        {
+            "user_id": "bbb",
+            "session_id": "bbb_1464354202334",
+            "timestamp": 1464356547576,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "S/G2",
+                "x": 825,
+                "y": 166
+            }
+        },
+        {
+            "user_id": "bbb",
+            "session_id": "bbb_1464354202334",
+            "timestamp": 1464356547578,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "0",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "Click",
+                "what": "DD_sticker",
+                "which": "S/G2",
+                "x": 825,
+                "y": 166
+            }
+        }
+    ]
+}
