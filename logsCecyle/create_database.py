@@ -68,7 +68,7 @@ for f in listdir("./logsUPSCUFR/"):
             with open(join("./logsUPSCUFR/",tab[0]+"_"+tab[1]+"_input.log")) as data_file:    
                 data = json.load(data_file)
 
-            #On récupère la durée pour l'events
+            #On récupère la durée pour l'input
             heure1 = datetime.datetime.fromtimestamp(data['inputs'][0]['timestamp']//1000)
             heure2 = datetime.datetime.fromtimestamp(data['inputs'][len(data['inputs'])-1]['timestamp']//1000)
             dureeInput=(heure2-heure1).seconds
