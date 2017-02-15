@@ -1,0 +1,554 @@
+{
+	"id" : "sequence1",
+	"index":1,
+	"libelle" : "Étude de la prolifération des cellules U2OS",
+	"objectifs": "Comprendre les principes d'une prolifération basale",
+	"time":"45min",
+	"sections" : [
+		{
+			"id"		:	"Prérequis",
+			"id_icon"	: "/assets/main/id_prerequisite.png",
+			"mainpane"	:  "/tmp/transitionRequirements.png",
+			"enonce"	: "Avant de commencer nous allons tester vos connaissances sur des notions indispensables pour jouer ce scenario." ,
+			"button"      : ["Ok"],
+			"activites"   :
+			[
+				{
+					"id"	: "dd1",
+					"type"    : "dragdroptest" ,
+					"libelle" : "Les phases du cycle cellulaire",
+					"objectifs" : ["Ordonner les phases du cycle cellulaire","Identifier le contenu ADN des cellules dans chaque phase"],
+					"prerequis":["Connaître le nom des phases du cycle cellulaire","Connaître' l'évolution du matériel génétique lors du cycle cellulaire"],
+					"validation" : "now",
+					"score" : 100,
+					"time"    : 5,
+					"enonce"  : "Glisser-déposer les éléments ci-dessous pour compléter le schéma du cycle cellulaire :",
+					"memo"    : { "type" : "image" , "source" : "/ressources/act0/memoSheetScenario1Activity0.png" },
+					"meta"  : {
+						"consigne": "Glisser déposer les éléments sur le schéma. Glisser un élément sur la poubelle permet de supprimer cet élément. Cliquer sur la poubelle permet de réinitialiser le jeu",
+						"background":"/ressources/act0/backgroundScenario1Activity0.png",
+						"dropzone": [
+							[
+								{ "x": 390, "y": 190, "shape": "circle", "target":"G1" },
+								{ "x": 330, "y": 387, "shape": "circle", "target":"S" },
+								{ "x": 120, "y": 332, "shape": "circle", "target":"G2" },
+								{ "x": 172, "y": 126, "shape": "circle", "target":"M" },
+								{ "x": 498, "y": 110, "shape": "circle", "target":"G0" }
+							],
+							[
+								{ "x": 480, "y": 220, "shape": "img", "target":"img1" },
+								{ "x": 384, "y": 440, "shape": "img", "target":"img4" },
+								{ "x": 10, "y": 373, "shape": "img", "target":"img2" },
+								{ "x": 110, "y":10, "shape": "img", "target":"img3" }
+							]
+						],
+						"etiquette": [
+							[
+								{ "id":"G1", "type": "text", "shape": "circle", "label": "G1" },
+								{ "id":"S", "type": "text", "shape": "circle", "label": "S" },
+								{ "id":"G2", "type": "text", "shape": "circle", "label": "G2" },
+								{ "id":"M", "type": "text", "shape": "circle", "label": "M" },
+								{ "id":"G0", "type": "text", "shape": "circle", "label": "G0" },
+								{ "id":"G3", "type": "text", "shape": "circle", "label": "G3" },
+								{ "id":"P", "type": "text", "shape": "circle", "label": "P" },
+								{ "id":"R", "type": "text", "shape": "circle", "label": "R" },
+								{ "id":"L", "type": "text", "shape": "circle", "label": "L" }
+							],
+							[
+								{ "id":"img1", "type": "image", "src": "/ressources/act0/dd1.png" },
+								{ "id":"img2", "type": "image", "src": "/ressources/act0/dd2.png" },
+								{ "id":"img3", "type": "image", "src": "/ressources/act0/dd3.png" },
+								{ "id":"img4", "type": "image", "src": "/ressources/act0/dd4.png" }
+							]
+						],
+						"answer": [
+							{ "slot": 0, "stickers": [0] },
+							{ "slot": 1, "stickers": [1] },
+							{ "slot": 2, "stickers": [2] },
+							{ "slot": 3, "stickers": [3] },
+							{ "slot": 4, "stickers": [4] },
+							{ "slot": 5, "stickers": [9] },
+							{ "slot": 6, "stickers": [12] },
+							{ "slot": 7, "stickers": [10] },
+							{ "slot": 8, "stickers": [11] }
+						]
+					}
+				}
+			]
+		},
+		{
+			"id"	: "Hypothèses",
+			"id_icon":	"/assets/main/id_hypothesis.png",
+			"mainpane"	:  "/tmp/transitionHypothesis.png",
+			"enonce" : "Dans ce scénario nous étudier la prolifération des cellules U2OS. Pour cela nous allons formuler des hypothèses sur les réponses cellulaires préssenties à la lumière de vos connaissances. Nous allons ensuite mettre en place le protocole expérimental permettant de vérifier si vos hypothèses sont correctes.",
+			"button" : ["Démarrer"],
+			"activites" : [
+				{
+					"type" : "dragdroptest",
+					"libelle" : "La durée des phases du cycle cellulaire",
+					"objectifs" : ["Connaître la durée des phases du cycle cellulaire"],
+					"prerequis":[],
+					"validation" : "H1",
+					"time" : 5,
+					"enonce" : "Considérant une population de cellules qui a une durée de cycle moyenne de 24h, compléter le schéma du cycle cellulaire avec la durée de chaque phase :",
+					"meta"  : {
+						"consigne": "Glisser déposer les éléments sur le schéma. Glisser un élément sur la poubelle permet de supprimer cet élément. Cliquer sur la poubelle permet de réinitialiser le jeu",
+						"background":"/ressources/act1/backgroundScenario1Activity1.png",
+						"dropzone": [
+							[
+								{ "x": 500, "y": 230, "shape": "square", "target":"s5" },
+								{ "x": 390, "y": 445, "shape": "square", "target":"s3" },
+								{ "x": 68, "y": 345, "shape": "square", "target":"s3" },
+								{ "x": 200, "y": 32, "shape": "square", "target":"s1" }
+							]
+						],
+						"etiquette": [
+							[
+								{ "id":"s1", "type": "text", "shape": "square", "label": "0h30" },
+								{ "id":"s2", "type": "text", "shape": "square", "label": "1h00" },
+								{ "id":"s3", "type": "text", "shape": "square", "label": "4h45" },
+								{ "id":"s4", "type": "text", "shape": "square", "label": "9h" },
+								{ "id":"s5", "type": "text", "shape": "square", "label": "14h" },
+								{ "id":"s6", "type": "text", "shape": "square", "label": "20h" }
+							]
+						]
+					},
+					"memo" : 
+					{
+						"type" : "answer" ,
+						"libelle" : "Voici la durée des phases que vous avez proposée pour une population de cellules ayant une durée de cycle moyenne de 24h. Nous allons mettre en place une expérience permettant de retrouver ces résultats et donc de vérifier si les valeurs que vous avez données sont correctes."
+					}
+				},
+				{
+					"type" : "curvetest",
+					"libelle" : "Courbe de croissance dans des conditions optimales",
+					"objectifs" : ["Décrire le profil de la courbe de croissance dans des conditions optimales de culture"],
+					"prerequis":[],
+					"validation" : "H2",
+					"time" : 0,
+					"enonce" : "Dessiner la courbe de croissance obtenue suite à la culture de cellules U2OS dans des conditions optimales de culture en milieu complet (milieu avec facteurs de croissance) pendant 60h sachant que <b> le nombre initial de cellules est de 1000 </b>.",
+					"meta" : {
+						"consigne": "Cliquer et faire glisser les points de la courbe pour les déplacer et faire varier la forme de la courbe.",
+						"background": "/ressources/act2/curve_draw.png",
+						"min" : { "y": 454, "val":0 },
+						"max" : { "y": 62, "val":6000 },
+						"points":[{"x":57,"y":322,"r":7},{"x":160,"y":322,"r":7},{"x":263,"y":322,"r":7},
+							{"x":366,"y":322,"r":7},{"x":469,"y":322,"r":7},{"x":572,"y":322,"r":7}
+						]
+					},
+					"memo" : { "type": "answer", "libelle" : "Voici la courbe de croissance que vous avez proposée pour une culture de cellules U2OS dans des conditions optimales de culture en milieu complet pendant 60h. Nous allons mettre en place une expérience permettant de retrouver ce résultat et donc de vérifier si la courbe que vous avez proposée est correcte."}
+				}
+			]
+		},
+		{
+			"id":"Protocole",
+			"id_icon": "/assets/main/id_protocole.png",
+			"mainpane"	:  "/tmp/transitionProtocol.png",
+			"enonce" : "Nous venons de formuler des hypothèses, nous allons mettre en place le protocole expérimental permettant d'évaluer le nombre de cellules au cours du temps et leur répartition dans les différentes phases du cycle cellulaire. Suite à cette expérience nous recueillerons des profils de cytométrie (FACS) et des vues au microscope.",
+			"button" : "Suivant",
+			"activites" : [
+				{
+					"type" : "noactivity",
+					"libelle" : "Planification du protocole expérimental",
+					"time" : 0,
+					"enonce" : "",
+					"meta" : {},
+					"memo" : { "type" : "image" , "source":"/ressources/act3/memoSheetScenario1Activity3.png"}
+				},
+				{
+					"type" : "noactivity",
+					"libelle" : "Nombres de boîtes de Pétri",
+					"time" : 0,
+					"enonce" : "",
+					"meta" : {},
+					"memo" : { "type":"image", "source":"/ressources/act4/memoSheetScenario1Activity4.png"}
+				},
+				{
+					"id":"co1",
+					"type" : "counttest",
+					"validation":"now",
+					"score" : 100,
+					"subtype":"count",
+					"libelle" : "Comptage",
+					"time" : 0,
+					"enonce" : "A partir d’une culture existante, une suspension cellulaire est préparée. Pour savoir quel volume de cette suspension sera nécessaire pour ensemencer les boîtes de Petri, il est nécessaire de déterminer la densité (nombre de cellules par millilitres) de cette suspension. Pour cela, un petit volume de la suspension est déposé sur une cellule de Malassez. Effectuez des comptages dans différentes zones de la cellule de Malassez ci-contre. A vous de déterminer le nombre de zones nécessaires pour obtenir par la suite un nombre moyen de cellules qui soit le plus représentatif du nombre réel de cellules sur la lame.",
+					"input_label":"Nombres de cellules comptées :",
+					"meta" : {
+						"consigne": "",
+						"background":"/ressources/act6/backgroundScenario1Activity6.png",
+						"background2":"/ressources/act6/backgroundScenario1Activity6b.png",
+						"answer": [
+								[13,10,11,12],
+								[8,11,9],
+								[12,13],
+								[13,10,11,12]
+							],
+						"boxNumber": 7,
+						"concentration":1150000
+					},
+					"memo" : {"type":"image","source":"/ressources/act6/memoSheetScenario1Activity6.png"}
+				},
+				{
+					"id":"co2",
+					"type" : "counttest",
+					"validation":"now",
+					"score" : 100,
+					"subtype":"input",
+					"libelle" : "Densité Cellulaire",
+					"time" : 0,
+					"enonce" : "Une cellule de Malassez est une grille composée d’un quadrillage de 10 lignes par 10 colonnes. Chaque carreau correspond à un volume de 0,01µl, chaque ligne (10 carreaux) correspond à un volume de 0,1µl et la cellule complète à un volume de 1µl. Pour calculer la densité cellulaire d’une suspension, le nombre de cellules dans différents carreaux ou différentes lignes est compté, puis la moyenne des comptages réalisés donne un nombre moyen de cellules dans 0,1µl (lignes) ou 0,01µl (carreaux) duquel peut être déduit le nombre de cellules moyen par ml. <b> Attention utilisez les nombres théoriques ci-contre. </b>",
+					"input_label":"Densité de suspension cellulaire en cellules/mL :",
+					"meta" : {
+						"consigne": "Entrer le nombre dans la zone prévue à cet effet.",
+						"background":"/ressources/act7/backgroundScenario1Activity7.png",
+						"answer":1150000
+					},
+					"memo" : {"type":"image","source":"/ressources/act7/memoSheetScenario1Activity7.png"}
+				},
+				{
+					"type" : "noactivity",
+					"libelle" : "Nombre de cellules par boite et tailles des boites",
+					"time" : 0,
+					"enonce" : "",
+					"meta" : {},
+					"memo" : {"type":"image","source":"/ressources/act8/memoSheetScenario1Activity8.png"}
+				},
+				{
+					"type" : "pipette",
+					"libelle" : "Ensemencement",
+					"validation":"now",
+					"score" : 100,
+					"time" : 0,
+					"enonce" : "Sachant que je veux préparer 11 boîtes de culture contenant chacune environ 200 000 cellules, 3mL de milieu complet (10% de sérum) et que la concentration de la pipette cellules est de 1 150 000/mL, réaliser la dilution avec les constituants proposés :",
+					"meta" : {
+						"consigne": "Sélectionner un constituant et une pipette puis cliquer sur 'Ajouter' pour ajouter cette quantité au mélange. Cliquer sur 'Corriger' lorsque le mélange est prêt à être versé dans les boîtes de Pétri.",
+						"answer":[199682,3,0.1,33],
+						"answer2":[29.54,1.55,1.91],
+						"max":45,
+						"becher":"/ressources/act9/becher_50ml.png",
+						"concentration":1150000,
+						"boxNumber": 11,
+						"pipette": [
+							{"content":0.01, "asset":"/assets/pipette0_01ml.png"},
+							{"content":0.1, "asset":"/assets/pipette0_1ml.png"},
+							{"content":1, "asset":"/assets/pipette1ml.png"},
+							{"content":10, "asset":"/assets/pipette10ml.png"}
+						]
+					},
+					"memo" : {"type":"image","source":"/ressources/act9/memoSheetScenario1Activity9.png"}
+				}
+			]
+		},
+		{
+			"id":"Expérience",
+			"id_icon": "/assets/main/id_protocole.png",
+			"mainpane"	:  "/tmp/transitionExperimentation.png",
+			"enonce" : "",
+			"button" : "Suivant",
+			"activites" : []
+		},
+		{
+			"id":"Résultats",
+			"id_icon": "/assets/main/id_protocole.png",
+			"mainpane"	:  "/tmp/transitionResults.png",
+			"enonce" : "Nous allons maintenant visualiser les résultats obtenus grâce au simulateur et confronter les hypothèses de départ avec ces résultats.",
+			"button" : "Suivant",
+			"activites" : 
+			[
+				{
+					"type" : "dragdroptest",
+					"libelle" : "Comptages",
+					"time" : 5,
+					"enonce" : "Déterminer à quel moment le comptage des cellules a été fait :",
+					"memo" : {"type":"image","source":"/ressources/act10/memoSheetScenario1Activity10.png"},
+					"objectifs" : ["Ordonner dans le temps des vues au microscope avec des concentrations de cellules différentes"],
+					"prerequis":[],
+					"validation" : "now",
+					"score" : 100,
+					"meta"  : {
+						"consigne": "Glisser déposer les éléments sur le schéma. Glisser un élément sur la poubelle permet de supprimer cet élément. Cliquer sur la poubelle permet de réinitialiser le jeu",
+						"background":"/ressources/act10/backgroundScenario1Activity10.png",
+						"dropzone": [
+							[
+								{ "x": 10, "y": 262, "shape": "rectangle", "target":"img1" },
+								{ "x": 100, "y": 382, "shape": "rectangle", "target":"img2" },
+								{ "x": 190, "y": 262, "shape": "rectangle", "target":"img3" },
+								{ "x": 280, "y": 382, "shape": "rectangle", "target":"img4" },
+								{ "x": 370, "y": 262, "shape": "rectangle", "target":"img5" },
+								{ "x": 460, "y": 382, "shape": "rectangle", "target":"img6" }
+							]
+						],
+						"etiquette": [
+							[
+								{ "id":"img1", "type": "image", "src": "/ressources/act10/dd1.png" },
+								{ "id":"img3", "type": "image", "src": "/ressources/act10/dd2.png" },
+								{ "id":"img4", "type": "image", "src": "/ressources/act10/dd3.png" },
+								{ "id":"img5", "type": "image", "src": "/ressources/act10/dd4.png" },
+								{ "id":"img6", "type": "image", "src": "/ressources/act10/dd1.png" },
+								{ "id":"img6", "type": "image", "src": "/ressources/act10/dd4.png" }
+							]
+						],
+						"answer_multi": [
+							[
+								{ "slot": 0, "stickers":[0] },
+								{ "slot": 1, "stickers":[0] },
+								{ "slot": 2, "stickers":[1] },
+								{ "slot": 3, "stickers":[2] },
+								{ "slot": 4, "stickers":[3] },
+								{ "slot": 5, "stickers":[3] }
+							],
+							[
+								{ "slot": 0, "stickers":[0] },
+								{ "slot": 1, "stickers":[0] },
+								{ "slot": 2, "stickers":[1] },
+								{ "slot": 3, "stickers":[2] },
+								{ "slot": 4, "stickers":[5] },
+								{ "slot": 5, "stickers":[5] }
+							],
+							[
+								{ "slot": 0, "stickers":[0] },
+								{ "slot": 1, "stickers":[0] },
+								{ "slot": 2, "stickers":[1] },
+								{ "slot": 3, "stickers":[2] },
+								{ "slot": 4, "stickers":[3] },
+								{ "slot": 5, "stickers":[5] }
+							],
+							[
+								{ "slot": 0, "stickers":[0] },
+								{ "slot": 1, "stickers":[0] },
+								{ "slot": 2, "stickers":[1] },
+								{ "slot": 3, "stickers":[2] },
+								{ "slot": 4, "stickers":[5] },
+								{ "slot": 5, "stickers":[3] }
+							],
+							[
+								{ "slot": 0, "stickers":[4] },
+								{ "slot": 1, "stickers":[4] },
+								{ "slot": 2, "stickers":[1] },
+								{ "slot": 3, "stickers":[2] },
+								{ "slot": 4, "stickers":[3] },
+								{ "slot": 5, "stickers":[3] }
+							],
+							[
+								{ "slot": 0, "stickers":[4] },
+								{ "slot": 1, "stickers":[4] },
+								{ "slot": 2, "stickers":[1] },
+								{ "slot": 3, "stickers":[2] },
+								{ "slot": 4, "stickers":[5] },
+								{ "slot": 5, "stickers":[5] }
+							],
+							[
+								{ "slot": 0, "stickers":[4] },
+								{ "slot": 1, "stickers":[4] },
+								{ "slot": 2, "stickers":[1] },
+								{ "slot": 3, "stickers":[2] },
+								{ "slot": 4, "stickers":[3] },
+								{ "slot": 5, "stickers":[5] }
+							],
+							[
+								{ "slot": 0, "stickers":[4] },
+								{ "slot": 1, "stickers":[4] },
+								{ "slot": 2, "stickers":[1] },
+								{ "slot": 3, "stickers":[2] },
+								{ "slot": 4, "stickers":[5] },
+								{ "slot": 5, "stickers":[3] }
+							],
+							[
+								{ "slot": 0, "stickers":[0] },
+								{ "slot": 1, "stickers":[4] },
+								{ "slot": 2, "stickers":[1] },
+								{ "slot": 3, "stickers":[2] },
+								{ "slot": 4, "stickers":[3] },
+								{ "slot": 5, "stickers":[3] }
+							],
+							[
+								{ "slot": 0, "stickers":[0] },
+								{ "slot": 1, "stickers":[4] },
+								{ "slot": 2, "stickers":[1] },
+								{ "slot": 3, "stickers":[2] },
+								{ "slot": 4, "stickers":[5] },
+								{ "slot": 5, "stickers":[5] }
+							],
+							[
+								{ "slot": 0, "stickers":[0] },
+								{ "slot": 1, "stickers":[4] },
+								{ "slot": 2, "stickers":[1] },
+								{ "slot": 3, "stickers":[2] },
+								{ "slot": 4, "stickers":[3] },
+								{ "slot": 5, "stickers":[5] }
+							],
+							[
+								{ "slot": 0, "stickers":[0] },
+								{ "slot": 1, "stickers":[4] },
+								{ "slot": 2, "stickers":[1] },
+								{ "slot": 3, "stickers":[2] },
+								{ "slot": 4, "stickers":[5] },
+								{ "slot": 5, "stickers":[3] }
+							],
+							[
+								{ "slot": 0, "stickers":[4] },
+								{ "slot": 1, "stickers":[0] },
+								{ "slot": 2, "stickers":[1] },
+								{ "slot": 3, "stickers":[2] },
+								{ "slot": 4, "stickers":[3] },
+								{ "slot": 5, "stickers":[3] }
+							],
+							[
+								{ "slot": 0, "stickers":[4] },
+								{ "slot": 1, "stickers":[0] },
+								{ "slot": 2, "stickers":[1] },
+								{ "slot": 3, "stickers":[2] },
+								{ "slot": 4, "stickers":[5] },
+								{ "slot": 5, "stickers":[5] }
+							],
+							[
+								{ "slot": 0, "stickers":[4] },
+								{ "slot": 1, "stickers":[0] },
+								{ "slot": 2, "stickers":[1] },
+								{ "slot": 3, "stickers":[2] },
+								{ "slot": 4, "stickers":[3] },
+								{ "slot": 5, "stickers":[5] }
+							],
+							[
+								{ "slot": 0, "stickers":[4] },
+								{ "slot": 1, "stickers":[0] },
+								{ "slot": 2, "stickers":[1] },
+								{ "slot": 3, "stickers":[2] },
+								{ "slot": 4, "stickers":[5] },
+								{ "slot": 5, "stickers":[3] }
+							]
+						]
+					}
+				},
+				{
+					"type" : "curvestar",
+					"libelle" : "Comptages et courbe de croissance dans des conditions optimales",
+					"time" : 0,
+					"enonce" : "Vous avez maintenant la possibilité de corriger le profil de courbe de croissance que vous avez donné précédemment. Pour rappel vous devez dessiner la courbe de croissance obtenue suite à la culture de cellules U2OS dans des conditions optimales de croissance.",
+					"validation":"now",
+					"score" : 100,
+					"feeder" : "H2",
+					"meta" : {
+						"consigne": "Cliquer et faire glisser les points de la courbe pour les déplacer et faire varier la forme de la courbe.",
+						"background": "/ressources/act11/curve_draw_star.png",
+						"min" : { "y": 454, "val":0 },
+						"max" : { "y": 62, "val":6000 },
+						"points":[{"x":57,"y":322,"r":7},{"x":160,"y":322,"r":7},{"x":263,"y":322,"r":7},
+							{"x":366,"y":322,"r":7},{"x":469,"y":322,"r":7},{"x":572,"y":322,"r":7}
+						],
+						"answer": [1000,1000,1500,2000,3000,3000],
+						"threshold": 95
+					},
+					"memo" : {"type":"image","source":"/ressources/act11/memoSheetScenario1Activity11.png"}
+				},
+				{
+					"type" : "dragdroptest",
+					"libelle" : "Proportions des phases dans le cycle cellulaire",
+					"time" : 0,
+					"enonce" : "Voici ci-joint le FACS en phase exponentielle de croissance obtenu lors de la mise en culture des cellules dans des conditions optimales de croissance. Associer à chaque phase sa proportion dans le cycle cellulaire.",
+					"memo" : {"type":"image","source":"/ressources/act12/memoSheetScenario1Activity12.png"},
+					"objectifs" : ["Associer un FACS à des résultats théoriques (proportion des phases)"],
+					"prerequis":["Connaître le matériel ADN des cellules dans les différentes phases"],
+					"validation" : "now",
+					"score" : 100,
+					"meta"  : {
+						"consigne": "Glisser déposer les éléments sur le schéma. Glisser un élément sur la poubelle permet de supprimer cet élément. Cliquer sur la poubelle permet de réinitialiser le jeu",
+						"background":"/ressources/act12/backgroundScenario1Activity12.png",
+						"dropzone": [
+							[
+								{ "x": 104, "y": 320, "shape": "square", "target":"e4" },
+								{ "x": 530, "y": 210, "shape": "square", "target":"e5" },
+								{ "x": 530, "y": 460, "shape": "square", "target":"e3" }
+							]
+						],
+						"etiquette": [
+							[
+								{ "id":"e1", "type":"text", "shape": "square", "label":"2%" },
+								{ "id":"e2", "type":"text", "shape": "square", "label": "10%" },
+								{ "id":"e3", "type":"text", "shape":"square", "label": "20%" },
+								{ "id":"e4", "type":"text", "shape":"square", "label": "22%" },
+								{ "id":"e5", "type":"text", "shape":"square", "label": "58%" },
+								{ "id":"e6", "type":"text", "shape":"square", "label": "80%" }
+							]
+						],
+						"answer": [
+								{ "slot": 0, "stickers": [3]},
+								{ "slot": 1, "stickers": [4]},
+								{ "slot": 2, "stickers": [2]}
+						]
+					}
+
+				},
+				{
+					"type" : "dragdropstar",
+					"libelle" : "Proportions et durée des phases dans le cycle cellulaire",
+					"time" : 0,
+					"enonce" : "Vous avez à présent la possibilité de corriger le schéma de cycle cellulaire que vous avez complété précédemment. Glisser déposer les éléments ci-dessous dans le schéma pour remplacer les valeurs.",
+					"memo" : {"type":"image","source":"/ressources/act13/memoSheetScenario1Activity13.png"},
+					"objectifs":[],
+					"prerequis":[],
+					"validation":"now",
+					"score" : 100,
+					"feeder":"H1",
+					"meta": {
+						"expected_answer":4,
+						"consigne": "Glisser déposer les éléments sur le schéma. Glisser un élément sur la poubelle permet de supprimer cet élément. Cliquer sur la poubelle permet de réinitialiser le jeu",
+						"background":"/ressources/act13/backgroundScenario1Activity13.png",
+						"dropzone": [
+							[
+								{ "x": 485, "y": 174, "shape": "square", "target":"s5" },
+								{ "x": 92, "y": 401, "shape": "square", "target":"s3" },
+								{ "x": 67, "y": 157, "shape": "square", "target":"s3" },
+								{ "x": 220, "y": 28, "shape": "square", "target":"s1" }
+							]
+						],
+						"etiquette": [
+							[
+								{ "id":"s1", "type": "text", "shape": "square", "label": "0h30" },
+								{ "id":"s2", "type": "text", "shape": "square", "label": "1h00" },
+								{ "id":"s3", "type": "text", "shape": "square", "label": "4h45" },
+								{ "id":"s4", "type": "text", "shape": "square", "label": "9h" },
+								{ "id":"s5", "type": "text", "shape": "square", "label": "14h" },
+								{ "id":"s6", "type": "text", "shape": "square", "label": "20h" }
+							]
+						],
+						"answer": [
+							{ "slot": 0, "stickers": [4] },
+							{ "slot": 1, "stickers": [2] },
+							{ "slot": 2, "stickers": [2] },
+							{ "slot": 3, "stickers": [0] }
+						]
+
+					}
+				}
+			]
+		},
+		{
+			"id":"Synthèse",
+			"id_icon": "/assets/main/id_protocole.png",
+			"mainpane"	:  "/tmp/transitionSynthesis.png",
+			"enonce" : "Nous venons de confronter les résultats du protocole expérimental avec nos hypothèses de départ, nous allons maintenant effectuer une synthèse de notre travail.",
+			"button" : "Suivant",
+			"activites" : 
+			[
+				{
+					"type" : "synthesis",
+					"libelle" : "Synthèse",
+					"time" : 0,
+					"validation":"now",
+					"score" : 100,
+					"enonce" : "Compléter le texte ci-contre.",
+					"meta" : {
+						"consigne": "Sélectionner la bonne réponse parmi les propositions dans les listes déroulantes",
+						"content": "Après une courte période de @KW, la croissance d'une population de cellules maintenues dans des conditions optimales de croissance se fait de manière @KW. On observe sur @KW un doublement rapide du nombre de cellules. On observe ensuite @KW qui montre l'arrêt de la division cellulaire. Cet arrêt du cycle cellulaire est provoqué par @KW liée à la confluence. En phase exponentielle de croissance la population de cellules est @KW. Elles sont réparties dans les différentes phases du cycle cellulaire dans des proportions inégales. On oberve sur @KW  que la proportion des cellules en @KW est de 58% environ, tandis que la proportion des cellules dont le contenu génétique est 2n est d'environ 22%. La répartition des cellules dans les différentes phases @KW du cycle cellulaire : @KW, est directement liée à la durée de chaque phase.",
+						"keywords":[
+							["repos","activation","quiescence","latence"],["exponentielle","logarithmique","linéaire"],["le profil de cytométrie de flux","la courbe de croissance","la droite"],["une phase stationnaire","une augmentation"],["l'inhibition de contact","la latence"],["asynchrone","synchronisée","désynchronisée"],["le profil de cytométrie de flux","la droite","l'image"],["G1","S","G2","M"],["ordonnées","désordonnées"],["G1, S, G2, M","G0, G1, G2"]
+						],
+						"answer": ["latence","exponentielle","la courbe de croissance","une phase stationnaire","l'inhibition de contact","asynchrone","le profil de cytométrie de flux","G1","ordonnées","G1, S, G2, M"]
+					},
+					"memo" : {"type":"image","source":"/ressources/act14/memoSheetScenario1Activity14.png"}
+				}
+			]
+		}
+	]
+}
