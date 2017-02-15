@@ -1,4 +1,4 @@
-.open C:\\Users\\stage\\Desktop\\Stage_Marvyn\\CellCycleLearn_Logs\\logsCecyle\\student.db
+--.open C:\\Users\\stage\\Desktop\\Stage_Marvyn\\CellCycleLearn_Logs\\logsCecyle\\student.db
 
 DROP TABLE IF EXISTS CCLSEQUENCE;
 DROP TABLE IF EXISTS CCLSECTION;
@@ -19,8 +19,8 @@ CREATE TABLE ACTIVITE
 INSERT INTO CCLSEQUENCE VALUES("1");
 INSERT INTO CCLSEQUENCE VALUES("2");
 
-ALTER TABLE LOGS ADD FOREIGN KEY (sequence) REFERENCES CCLSEQUENCE(id_sequence);
-
+--ALTER TABLE LOGS ADD FOREIGN KEY (sequence) REFERENCES CCLSEQUENCE(id_sequence);
+.read logs.sql
 
 INSERT INTO CCLSECTION  VALUES("0","Prérequis");
 INSERT INTO CCLSECTION  VALUES("1","Hypothèses");
