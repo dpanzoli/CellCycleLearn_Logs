@@ -15,12 +15,13 @@ CREATE TABLE ACTIVITE
 	FOREIGN KEY(id_section) REFERENCES CCLSECTION(id_section), 
 	FOREIGN KEY(id_sequence) REFERENCES CCLSEQUENCE(id_sequence));
 	
-	
+.read etudiant.sql	
 INSERT INTO CCLSEQUENCE VALUES("1");
 INSERT INTO CCLSEQUENCE VALUES("2");
 
 --ALTER TABLE LOGS ADD FOREIGN KEY (sequence) REFERENCES CCLSEQUENCE(id_sequence);
 .read logs.sql
+
 
 INSERT INTO CCLSECTION  VALUES("0","Prérequis");
 INSERT INTO CCLSECTION  VALUES("1","Hypothèses");
@@ -36,11 +37,11 @@ INSERT INTO ACTIVITE(id_activite,lib_activite,id_sequence,id_section) VALUES("0"
 INSERT INTO ACTIVITE(id_activite,lib_activite,id_sequence,id_section) VALUES("1","Courbe de croissance dans des conditions optimales",1,"1");
 INSERT INTO ACTIVITE(id_activite,lib_activite,id_sequence,id_section) VALUES("-1","TransitionProtocol",1,"2");
 INSERT INTO ACTIVITE(id_activite,lib_activite,id_sequence,id_section) VALUES("0","Planification du protocole expérimental",1,"2");
-INSERT INTO ACTIVITE(id_activite,lib_activite,id_sequence,id_section) VALUES("2","Nombres de boîtes de Pétri",1,"2");
-INSERT INTO ACTIVITE(id_activite,lib_activite,id_sequence,id_section) VALUES("3","Comptage",1,"2");
-INSERT INTO ACTIVITE(id_activite,lib_activite,id_sequence,id_section) VALUES("4","Densité Cellulaire",1,"2");
-INSERT INTO ACTIVITE(id_activite,lib_activite,id_sequence,id_section) VALUES("5","Nombre de cellules par boite et tailles des boites",1,"2");
-INSERT INTO ACTIVITE(id_activite,lib_activite,id_sequence,id_section) VALUES("6","Ensemencement",1,"2");
+INSERT INTO ACTIVITE(id_activite,lib_activite,id_sequence,id_section) VALUES("1","Nombres de boîtes de Pétri",1,"2");
+INSERT INTO ACTIVITE(id_activite,lib_activite,id_sequence,id_section) VALUES("2","Comptage",1,"2");
+INSERT INTO ACTIVITE(id_activite,lib_activite,id_sequence,id_section) VALUES("3","Densité Cellulaire",1,"2");
+INSERT INTO ACTIVITE(id_activite,lib_activite,id_sequence,id_section) VALUES("4","Nombre de cellules par boite et tailles des boites",1,"2");
+INSERT INTO ACTIVITE(id_activite,lib_activite,id_sequence,id_section) VALUES("5","Ensemencement",1,"2");
 INSERT INTO ACTIVITE(id_activite,lib_activite,id_sequence,id_section) VALUES("-1","TransitionExperimentation",1,"3");
 INSERT INTO ACTIVITE(id_activite,lib_activite,id_sequence,id_section) VALUES("-1","TransitionResults",1,"4");
 INSERT INTO ACTIVITE(id_activite,lib_activite,id_sequence,id_section) VALUES("0","Comptages",1,"4");
@@ -53,17 +54,17 @@ INSERT INTO ACTIVITE(id_activite,lib_activite,id_sequence,id_section) VALUES("0"
 
 INSERT INTO ACTIVITE(id_activite,lib_activite,id_sequence,id_section) VALUES("-1","TransitionRequirements",2,"0");
 INSERT INTO ACTIVITE(id_activite,lib_activite,id_sequence,id_section) VALUES("0","Les checkpoints du cycle cellulaire",2,"0");
-INSERT INTO ACTIVITE(id_activite,lib_activite,id_sequence,id_section) VALUES("2","Contenu ADN dans les différentes phases",2,"0");
+INSERT INTO ACTIVITE(id_activite,lib_activite,id_sequence,id_section) VALUES("1","Contenu ADN dans les différentes phases",2,"0");
 INSERT INTO ACTIVITE(id_activite,lib_activite,id_sequence,id_section) VALUES("-1","TransitionHypothesis",2,"1");
 INSERT INTO ACTIVITE(id_activite,lib_activite,id_sequence,id_section) VALUES("0","Checkpoint influencé par la privation en facteurs de croissance",2,"1");
 INSERT INTO ACTIVITE(id_activite,lib_activite,id_sequence,id_section) VALUES("1","Evolution du nombre de cellules",2,"1");
 INSERT INTO ACTIVITE(id_activite,lib_activite,id_sequence,id_section) VALUES("-1","TransitionProtocol",2,"2");
 INSERT INTO ACTIVITE(id_activite,lib_activite,id_sequence,id_section) VALUES("0","Planification du protocole expérimental",2,"2");
-INSERT INTO ACTIVITE(id_activite,lib_activite,id_sequence,id_section) VALUES("2","Nombres de boîtes de Pétri",2,"2");
-INSERT INTO ACTIVITE(id_activite,lib_activite,id_sequence,id_section) VALUES("3","Densité cellulaire",2,"2");
-INSERT INTO ACTIVITE(id_activite,lib_activite,id_sequence,id_section) VALUES("4","Nombre de cellules par boîte et taille des boîtes",2,"2");
-INSERT INTO ACTIVITE(id_activite,lib_activite,id_sequence,id_section) VALUES("5","Ensemencement",2,"2");
-INSERT INTO ACTIVITE(id_activite,lib_activite,id_sequence,id_section) VALUES("6","Changement de milieu",2,"2");
+INSERT INTO ACTIVITE(id_activite,lib_activite,id_sequence,id_section) VALUES("1","Nombres de boîtes de Pétri",2,"2");
+INSERT INTO ACTIVITE(id_activite,lib_activite,id_sequence,id_section) VALUES("2","Densité cellulaire",2,"2");
+INSERT INTO ACTIVITE(id_activite,lib_activite,id_sequence,id_section) VALUES("3","Nombre de cellules par boîte et taille des boîtes",2,"2");
+INSERT INTO ACTIVITE(id_activite,lib_activite,id_sequence,id_section) VALUES("4","Ensemencement",2,"2");
+INSERT INTO ACTIVITE(id_activite,lib_activite,id_sequence,id_section) VALUES("5","Changement de milieu",2,"2");
 INSERT INTO ACTIVITE(id_activite,lib_activite,id_sequence,id_section) VALUES("-1","TransitionExperimentation",2,"3");
 INSERT INTO ACTIVITE(id_activite,lib_activite,id_sequence,id_section) VALUES("-1","TransitionResults",2,"4");
 INSERT INTO ACTIVITE(id_activite,lib_activite,id_sequence,id_section) VALUES("0","Profils de cytométrie de flux au cours de l'expérience",2,"4");

@@ -78,7 +78,7 @@ for f in listdir("./logsUPSCUFR/"):
 
             c.execute('INSERT OR IGNORE INTO ETUDIANT VALUES(?,?)',[id_etudiant,univ])
             conn.commit()
-            c.execute('INSERT INTO LOGS VALUES(?,?,?,?,?,?,?,?,?,?,?,?)',[f,id_etudiant,sequence,heureDebutEvent,heureFinEvent,dureeEvent,heureDebutInput,heureFinInput,dureeInput,jour,mois,an])
+            c.execute('INSERT INTO LOGS VALUES(?,?,?,?,?,?,?,?,?,?,?,?)',[tab[0]+"_"+tab[1],id_etudiant,sequence,heureDebutEvent,heureFinEvent,dureeEvent,heureDebutInput,heureFinInput,dureeInput,jour,mois,an])
             conn.commit()          
             
             
