@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import sqlite3
 
 
-conn = sqlite3.connect(r'C:\\Users\\stage\\Desktop\\Stage_Marvyn\\CellCycleLearn_Logs\\logsCecyle\\student.db')
+conn = sqlite3.connect(r'../logsCecyle/student.db')
 c = conn.cursor()
 
 fig = plt.figure(figsize=(40,10))
@@ -20,4 +20,4 @@ for row in c.execute("SELECT ACTIVITE.lib_activite,avg(STATS.temps_tentative) fr
     i = i+1
 plt.yticks(ticks, labels)
 plt.xticks((0,30,60,90,120,150,180,210,240,270,300,330,360,390,420),('0','30sec','1 min','1min30','2min','2min30','3min','3min30','4min','4min30','5min','5min30','6min','6min30','7min'))
-fig.show()
+fig.savefig("plot1.png")
