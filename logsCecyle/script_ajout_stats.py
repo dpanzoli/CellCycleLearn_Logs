@@ -9,14 +9,25 @@ c = conn.cursor()
 #On créé la table STATS
 c.execute('''DROP TABLE IF EXISTS STATS''')
 c.execute('''CREATE TABLE STATS
-            (nom_fichier VARCHAR, id_activite,temps_activite INTEGER,nb_tentative INTEGER,
+            (nom_fichier VARCHAR, id_activite,tentative INTEGER,temps_tentative INTEGER,chrono Integer,
             FOREIGN KEY(nom_fichier)REFERENCES LOGS(nom_fichier),
             FOREIGN KEY(id_activite)REFERENCES ACTIVITE(id_activite),
-            PRIMARY KEY(nom_fichier,id_activite))''')
+            PRIMARY KEY(nom_fichier,id_activite,tentative))''')
 
 #On récupère tout les nom de fichiers
 for row in c.execute("SELECT nom_fichier FROM LOGS"):
     files.append(row[0])
+
+
+def tri_debut(listedeb,listefin,time):
+    cpt = 0
+    for i in listefin:
+
+        if i < time:
+            cpt+=1
+    listedeb = listedeb[cpt:]
+    listefin = listefin[cpt:]
+    return(listedeb,listefin)
 
 d = {}
 #Pour tout nos fichiers
@@ -27,20 +38,30 @@ for f in files:
         inputdata = json.load(data_file2)
     #On prend le premier timestamp
     timeStart = eventdata['events'][0]['timestamp']
+    currentActivity = "0"
     #Pour tout les events on regarde si à un moment on change d'activité, puis on récupère letemps passé
     for i in range(len(eventdata['events'])-1):
-        if eventdata['events'][i+1]["activity_id"] != eventdata['events'][i]["activity_id"] or i == len(eventdata['events'])-2:
+
+        if str(eventdata['events'][i+1]["section_id"]) != str(eventdata['events'][i]["section_id"]) or str(eventdata['events'][i+1]["sequence_id"]) != str(eventdata['events'][i]["sequence_id"]) or str(eventdata['events'][i+1]["activity_id"]) != str(eventdata['events'][i]["activity_id"]) or i == len(eventdata['events'])-2:
             x = (f,str(eventdata['events'][i]["sequence_id"]),str(eventdata['events'][i]["section_id"]),str(eventdata['events'][i]["activity_id"]))
             heure1 = datetime.datetime.fromtimestamp(timeStart//1000)
-            timeStart = eventdata['events'][i]['timestamp']
-            heure2  =datetime.datetime.fromtimestamp(eventdata['events'][i+1]['timestamp']//1000)  
+            heure2  =datetime.datetime.fromtimestamp(eventdata['events'][i]['timestamp']//1000)
             dureeInput=(heure2-heure1).seconds
             #Si on est jamais passé dans l'activité on créé une entrée
             if not x in d:
-                d[x] = [0,0,[]]
+                d[x] = [0,[timeStart],[eventdata['events'][i]['timestamp']],[0,0,0,0],0]
+                currentActivity = str(eventdata['events'][i]["sequence_id"])+str(eventdata['events'][i]["section_id"])+str(int(eventdata['events'][i]["activity_id"])+1)
+            #Sinon c'est un retour et on ajoute dans t-1
             else:
-                d[x][2].append([(str(eventdata['events'][i+1]["sequence_id"]),str(eventdata['events'][i+1]["section_id"]))])
+                if currentActivity > str(eventdata['events'][i]["sequence_id"])+str(eventdata['events'][i]["section_id"])+str(int(eventdata['events'][i]["activity_id"])+1):
+                    d[x][3][3]+=dureeInput
+                d[x][1].append(timeStart)
+                d[x][2].append(eventdata['events'][i+1]['timestamp'])
+
+            #On ajoute quand même à la durée totale
             d[x][0]+=dureeInput
+            timeStart = eventdata['events'][i]['timestamp']
+
 
     #Cas rare : Quand le dernier event est différent de l'avant dernier, il faut l'ajouter
     if eventdata['events'][i+1]["activity_id"] != eventdata['events'][i]["activity_id"]:
@@ -48,16 +69,84 @@ for f in files:
         dureeInput=(heure2-heure1).seconds
         x = (f,str(eventdata['events'][i+1]["sequence_id"]),str(eventdata['events'][i+1]["section_id"]),str(eventdata['events'][i+1]["activity_id"]))
         if not x in d:
-            d[x] = [0,0,[]]
-            d[x][0]+=dureeInput
+            d[x] = [0,[timeStart],[eventdata['events'][i+1]['timestamp']],[0,0,0,0],0]
+            currentActivity = str(eventdata['events'][i]["sequence_id"])+str(eventdata['events'][i]["section_id"])+str(int(eventdata['events'][i]["activity_id"])+1)
+        else:
+            if currentActivity > str(eventdata['events'][i]["sequence_id"])+str(eventdata['events'][i]["section_id"])+str(int(eventdata['events'][i]["activity_id"])+1):
+                    d[x][3][3]+=dureeInput
+            d[x][1].append(timeStart)
+            d[x][2].append(eventdata['events'][i+1]['timestamp'])
+        d[x][0]+=dureeInput
 
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Input
+
+        
     #On récupère le nombre de fois où l'élève à fait une épreuve
-    for i in range(len(inputdata['inputs'])):
-        d[(f,str(inputdata['inputs'][i]["sequence_id"]),str(inputdata['inputs'][i]["section_id"]),str(inputdata['inputs'][i]["activity_id"]))][1]+=1
+    j = 0
+    for i in range(len(inputdata['inputs'])-1):
+        seq,sec,act=str(inputdata['inputs'][i]["sequence_id"]),str(inputdata['inputs'][i]["section_id"]),str(inputdata['inputs'][i]["activity_id"])
+        #On corrige l'erreur du script des logs ( il met -1 au lieu de 0 ) 
+        if act == "-1":
+            act = "0"
+        #On cherche toutes les activités chronométré
+        for row in c.execute("SELECT * FROM ACTIVITE where id_section = ? and id_activite =? and id_sequence = ?",[sec,act,seq]):
+            x= row[0]
+        #Si ce 'nest pas une activité chrono elle peut avoir donc plusieurs tentatives
+        if x != 16 and x !=18 and x !=38 and x !=37:
+            #Si il y a une autre tentative 
+            if inputdata['inputs'][i]["sequence_id"] == inputdata['inputs'][i+1]["sequence_id"] and inputdata['inputs'][i]["activity_id"] == inputdata['inputs'][i+1]["activity_id"] and inputdata['inputs'][i]["section_id"] == inputdata['inputs'][i+1]["section_id"]:
+                #On prend la fonction tri-debut qui permet de trier le temps de début utilisable et initilisable 
+                x,y=tri_debut(d[f,seq,sec,act][1],d[f,seq,sec,act][2],inputdata['inputs'][i]['timestamp'])
+                heure1 =datetime.datetime.fromtimestamp(x[0]//1000)
+                heure2 = datetime.datetime.fromtimestamp(inputdata['inputs'][i]['timestamp']//1000)
+                d[f,seq,sec,act][3][j] = (heure2-heure1).seconds
+                #On augmente le nombre de tentative de 1
+                j+=1
+                #Si il ya eu plusieurs retour sur l'activité avant qu'elle soit faites et qu'on a donc plus de un temps de debut
+                if len(y) > 1:
+                    #Si notre temps de fin de l'event est plus grand que le timestamp de l'input 
+                    if y[0]> inputdata['inputs'][i+1]['timestamp']:
+                        #Notre nouveau temps de début ( entre la tentaive n et n+1 ) sera le temps précédent 
+                        x[0] = inputdata['inputs'][i]['timestamp']
+                        d[f,seq,sec,act][1][0] = inputdata['inputs'][i]['timestamp']
+                    else:
+                        #Sinon on laisse comme ça et notre fonction de tri s'en occupera 
+                        d[f,seq,sec,act][1] = x
+                else:
+                    #Si c'est de taille un on remplace le temps de départ par le temps de notre nouveau début
+                    x[0] = inputdata['inputs'][i]['timestamp']
+                    d[f,seq,sec,act][1] = x
+                #On enregistre nos temps de fin dans le dico pour le prochain tour
+                d[f,seq,sec,act][2] = y
+            else:
+                j=0
+        #Si c'est un temps chronometré
+        else:
+            if  inputdata['inputs'][i]["activity_id"] != inputdata['inputs'][i+1]["activity_id"]:
+                heure1 =datetime.datetime.fromtimestamp(d[f,seq,sec,act][1][0]//1000)
+                heure2 = datetime.datetime.fromtimestamp(inputdata['inputs'][i]['timestamp']//1000)
+                d[f,seq,sec,act][3][0] = (heure2-heure1).seconds
+                d[f,seq,sec,act][4]=1
 
-#On parcours toute les clés du dictionnaire et on les ajoute dans la base         
-for key in d:    
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Insertion Base
+
+#On parcours toute les clés du dictionnaire et on les ajoute dans la base
+for key in d:
+    #Si activité n'a pas d'input
+    if d[key][3][0] + d[key][3][1] +d[key][3][2] ==0:
+        #On met tout dans la tentative 1
+        d[key][3][0] = d[key][0] - d[key][3][3]
+    else:
+        #Sinon on rajoute le temps entre la tentative 3 et le changement d'activite dans t[3]
+        d[key][3][3] = d[key][0] - d[key][3][0] - d[key][3][1] - d[key][3][2] + d[key][3][3]
     for row in c.execute("SELECT * FROM ACTIVITE where id_section = ? and id_activite =? and id_sequence = ?",[key[2],key[3],key[1]]):
         x= row[0]
-    c.execute("INSERT INTO STATS VALUES(?,?,?,?)",[key[0],x,d[key][0],d[key][1]])
+    for t in range(len(d[key][3])):
+        if d[key][3][t] != 0:
+            if t == 3:
+                c.execute("INSERT INTO STATS VALUES(?,?,?,?,?)",[key[0],x,-1,d[key][3][t],d[key][4]])
+            else:
+                c.execute("INSERT INTO STATS VALUES(?,?,?,?,?)",[key[0],x,t+1,d[key][3][t],d[key][4]])
+                
+    
 conn.commit()
