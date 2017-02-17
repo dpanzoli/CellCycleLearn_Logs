@@ -119,7 +119,27 @@ for f in files:
                 #On enregistre nos temps de fin dans le dico pour le prochain tour
                 d[f,seq,sec,act][2] = y
             else:
+                x,y=tri_debut(d[f,seq,sec,act][1],d[f,seq,sec,act][2],inputdata['inputs'][i]['timestamp'])
+                heure1 =datetime.datetime.fromtimestamp(x[0]//1000)
+                heure2 = datetime.datetime.fromtimestamp(inputdata['inputs'][i]['timestamp']//1000)
+                d[f,seq,sec,act][3][j] = (heure2-heure1).seconds
+                #On augmente le nombre de tentative de 1
                 j=0
+                #Si il ya eu plusieurs retour sur l'activité avant qu'elle soit faites et qu'on a donc plus de un temps de debut
+                if len(y) > 1:
+                    #Si notre temps de fin de l'event est plus grand que le timestamp de l'input 
+                    if y[0]> inputdata['inputs'][i+1]['timestamp']:
+                        #Notre nouveau temps de début ( entre la tentaive n et n+1 ) sera le temps précédent 
+                        x[0] = inputdata['inputs'][i]['timestamp']
+                        d[f,seq,sec,act][1][0] = inputdata['inputs'][i]['timestamp']
+                    else:
+                        #Sinon on laisse comme ça et notre fonction de tri s'en occupera 
+                        d[f,seq,sec,act][1] = x
+                else:
+                    #Si c'est de taille un on remplace le temps de départ par le temps de notre nouveau début
+                    x[0] = inputdata['inputs'][i]['timestamp']
+                    d[f,seq,sec,act][1] = x
+                #On enregistre nos temps de fin dans le dico pour le prochain tour
         #Si c'est un temps chronometré
         else:
             if  inputdata['inputs'][i]["activity_id"] != inputdata['inputs'][i+1]["activity_id"]:

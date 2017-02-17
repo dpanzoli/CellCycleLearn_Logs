@@ -12,7 +12,7 @@ ticks = []
 labels=[]
 i=0
 x = 0
-for row in c.execute("SELECT ACTIVITE.lib_activite,avg(STATS.temps_tentative) from STATS,ACTIVITE where STATS.id_activite = ACTIVITE.key_activite group by STATS.id_activite"):
+for row in c.execute("SELECT ACTIVITE.lib_activite,avg(STATS.temps_tentative),(SUM(temps_tentative*temps_tentative) - SUM(temps_tentative)*SUM(temps_tentative)/COUNT(*)) / (COUNT(*)-1) from STATS,ACTIVITE where STATS.id_activite = ACTIVITE.key_activite group by STATS.id_activite"):
     y = row[1]
     ax.barh(i,y,height=0.8,left=x)
     ticks.append(i+0.5)
