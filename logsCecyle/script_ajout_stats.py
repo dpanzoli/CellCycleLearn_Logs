@@ -144,7 +144,7 @@ for key in d:
     for t in range(len(d[key][3])):
         if d[key][3][t] != 0:
             if t == 3:
-                c.execute("INSERT INTO STATS VALUES(?,?,?,?,?)",[key[0],x,-1,d[key][3][t],d[key][4]])
+                c.execute("INSERT INTO STATS VALUES(?,?,?,?,?)",[key[0],x,-1,d[key][3][t],0])
             else:
                 c.execute("INSERT INTO STATS VALUES(?,?,?,?,?)",[key[0],x,t+1,d[key][3][t],d[key][4]])
                 
