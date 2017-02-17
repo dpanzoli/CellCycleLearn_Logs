@@ -7542,38 +7542,6 @@
         {
             "user_id": "Cecyle",
             "session_id": "Cecyle_1480349626146",
-            "timestamp": 1480341622774,
-            "sequence_id": 2,
-            "section_id": "0",
-            "activity_id": "1",
-            "activity_kind": "dragdrop",
-            "data": {
-                "kind": "MousePressed",
-                "what": "DD_sticker",
-                "which": "/ressources/sequence2/act1/dd1.png",
-                "x": 1462,
-                "y": 269
-            }
-        },
-        {
-            "user_id": "Cecyle",
-            "session_id": "Cecyle_1480349626146",
-            "timestamp": 1480341624444,
-            "sequence_id": 2,
-            "section_id": "0",
-            "activity_id": "1",
-            "activity_kind": "dragdrop",
-            "data": {
-                "kind": "MouseReleased",
-                "what": "DD_sticker",
-                "which": "/ressources/sequence2/act1/dd1.png",
-                "x": 761,
-                "y": 497
-            }
-        },
-        {
-            "user_id": "Cecyle",
-            "session_id": "Cecyle_1480349626146",
             "timestamp": 1480341611326,
             "sequence_id": 2,
             "section_id": "0",
@@ -7617,6 +7585,38 @@
                 "which": "Les checkpoints du cycle cellulaire",
                 "x": 1569,
                 "y": 700
+            }
+        },
+        {
+            "user_id": "Cecyle",
+            "session_id": "Cecyle_1480349626146",
+            "timestamp": 1480341622774,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MousePressed",
+                "what": "DD_sticker",
+                "which": "/ressources/sequence2/act1/dd1.png",
+                "x": 1462,
+                "y": 269
+            }
+        },
+        {
+            "user_id": "Cecyle",
+            "session_id": "Cecyle_1480349626146",
+            "timestamp": 1480341624444,
+            "sequence_id": 2,
+            "section_id": "0",
+            "activity_id": "1",
+            "activity_kind": "dragdrop",
+            "data": {
+                "kind": "MouseReleased",
+                "what": "DD_sticker",
+                "which": "/ressources/sequence2/act1/dd1.png",
+                "x": 761,
+                "y": 497
             }
         },
         {

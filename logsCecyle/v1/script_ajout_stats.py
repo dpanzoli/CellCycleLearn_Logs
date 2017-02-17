@@ -9,10 +9,10 @@ c = conn.cursor()
 #On créé la table STATS
 c.execute('''DROP TABLE IF EXISTS STATS''')
 c.execute('''CREATE TABLE STATS
-            (nom_fichier VARCHAR, key_activite,tentative INTEGER,temps_tentative INTEGER,chrono Integer,
-            FOREIGN KEY(nom_fichier)REFERENCES LOGS(nom_fichier),
-            FOREIGN KEY(key_activite)REFERENCES ACTIVITE(key_activite),
-            PRIMARY KEY(nom_fichier,key_activite,tentative))''')
+            (fk_nom_fichier VARCHAR, fk_id_activite INTEGER,tentative INTEGER,temps_tentative INTEGER,
+            FOREIGN KEY(fk_nom_fichier)REFERENCES LOGS(nom_fichier),
+            FOREIGN KEY(fk_id_activite)REFERENCES ACTIVITE(id_activite),
+            PRIMARY KEY(fk_nom_fichier,fk_id_activite,tentative))''')
 
 #On récupère tout les nom de fichiers
 for row in c.execute("SELECT nom_fichier FROM LOGS"):
@@ -89,7 +89,7 @@ for f in files:
         if act == "-1":
             act = "0"
         #On cherche toutes les activités chronométré
-        for row in c.execute("SELECT * FROM ACTIVITE where id_section = ? and id_activite =? and id_sequence = ?",[sec,act,seq]):
+        for row in c.execute("SELECT * FROM ACTIVITE where fk_id_section = ? and num_activite =? and fk_id_sequence = ?",[sec,act,seq]):
             x= row[0]
         #Si ce 'nest pas une activité chrono elle peut avoir donc plusieurs tentatives
         if x != 16 and x !=18 and x !=38 and x !=37:
@@ -159,16 +159,16 @@ for key in d:
     else:
         #Sinon on rajoute le temps entre la tentative 3 et le changement d'activite dans t[3]
         d[key][3][4] = d[key][0] - d[key][3][0] - d[key][3][1] - d[key][3][2] - d[key][3][3]
-    for row in c.execute("SELECT * FROM ACTIVITE where id_section = ? and id_activite =? and id_sequence = ?",[key[2],key[3],key[1]]):
+    for row in c.execute("SELECT * FROM ACTIVITE where fk_id_section = ? and num_activite =? and fk_id_sequence = ?",[key[2],key[3],key[1]]):
         x= row[0]
     for t in range(len(d[key][3])):
         if d[key][3][t] != 0:
             if t == 3:
-                c.execute("INSERT INTO STATS VALUES(?,?,?,?,?)",[key[0],x,-1,d[key][3][t],0])
+                c.execute("INSERT INTO STATS VALUES(?,?,?,?)",[key[0],x,-1,d[key][3][t]])
             elif t == 4:
-                c.execute("INSERT INTO STATS VALUES(?,?,?,?,?)",[key[0],x,0,d[key][3][t],0])
+                c.execute("INSERT INTO STATS VALUES(?,?,?,?)",[key[0],x,0,d[key][3][t]])
             else:
-                c.execute("INSERT INTO STATS VALUES(?,?,?,?,?)",[key[0],x,t+1,d[key][3][t],d[key][4]])
+                c.execute("INSERT INTO STATS VALUES(?,?,?,?)",[key[0],x,t+1,d[key][3][t]])
                 
     
 conn.commit()
