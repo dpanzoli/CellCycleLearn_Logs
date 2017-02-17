@@ -1,5 +1,19 @@
 --select sequence, count(*) as compte from logs group by sequence;
 
+--select count(student_id) from ETUDIANT;
+
+--select count(*) from LOGS 
+--where LOGS.sequence = 2
+--and student_id not in (
+--	select LOGS.student_id from LOGS
+--	where LOGS.sequence=1 
+--	and LOGS.student_id in (
+--		select LOGS.student_id from LOGS
+--		where LOGS.sequence=2
+--	)
+--);
+
+
 --select count(LOGS.student_id) from LOGS, LOGS as LOG2, ETUDIANT
 --where LOGS.student_id = ETUDIANT.student_id
 --and LOG2.student_id = LOGS.student_id
@@ -8,24 +22,80 @@
 
 
 
-select count(distinct LOGS.student_id) from LOGS, ETUDIANT
-where LOGS.sequence = 2
-and univ = 'UPS'
-and LOGS.student_id = ETUDIANT.student_id
-and LOGS.student_id not in (
-	select count(LOGS.student_id) from LOGS, LOGS as LOG2, ETUDIANT
-	where LOGS.student_id = ETUDIANT.student_id
-	and LOG2.student_id = LOGS.student_id
-	and LOGS.sequence = 1
-	and LOG2.sequence = 2
-);
+--select count(distinct LOGS.student_id) from LOGS, ETUDIANT
+--where LOGS.sequence = 1
+--and LOGS.student_id = ETUDIANT.student_id
+--and LOGS.student_id not in (
+--	select count(LOGS.student_id) from LOGS, LOGS as LOG2, ETUDIANT
+--	where LOGS.student_id = ETUDIANT.student_id
+--	and LOG2.student_id = LOGS.student_id
+--	and LOGS.sequence = 1
+--	and LOG2.sequence = 2
+--);
 
 
 --select student_id, count(*) as compte from LOGS group by student_id
---having compte > 2;
+--having compte != 2;
 
-select LOGS.student_id, LOGS.sequence, LOGS.heure_debut_input, LOGS.duree_input/60 from LOGS
-where LOGS.student_id in (
-21100494, 21200184, 21201591, 21301337, 21303380, 21304371, 21403027, 21404331, 21504429, 21604809);
+--select LOGS.student_id, LOGS.sequence, LOGS.heure_debut_input, LOGS.duree_input/60 from LOGS
+--where LOGS.student_id in (
+--21100494, 21200184, 21201591, 21301337, 21303380, 21304371, 21403027, 21404331, 21504429, --21604809);
+
+
+--nom_fichier
+--student_id
+--sequence
+--heure_debut_event
+--heure_fin_event
+--duree_event
+--heure_debut_input
+--heure_fin_input
+--duree_input
+--jour
+--mois
+--annee
+
+--select LOGS.duree_event, LOGS.nom_fichier from LOGS 
+--where LOGS.sequence = 1
+--and LOGS.duree_event >= 0
+--and LOGS.duree_input >= 0;
+
+--select ACTIVITE.lib_activite, type, count(*) as Nb from STATS, ACTIVITE
+--where STATS.id_activite = ACTIVITE.key_activite
+--and STATS.tentative=0
+--and ACTIVITE.id_sequence=2
+--group by ACTIVITE.key_activite;
+
+select activite.id_sequence, count(distinct(stats.nom_fichier)) from STATS, ACTIVITE
+where STATS.id_activite = ACTIVITE.key_activite
+group by activite.id_sequence;
+
+select sequence, count(*) from LOGS
+group by sequence;
+
+select count(distinct(nom_fichier)) from STATS, ACTIVITE
+where STATS.key_activite=ACTIVITE.key_activite
+and id_sequence=1
+and nom_fichier not in (
+select distinct(nom_fichier) from STATS, ACTIVITE
+where STATS.key_activite=ACTIVITE.key_activite
+and id_sequence=2);
+
+select nom_fichier from LOGS where duree_input=6833;
+
+select nom_fichier, duree_input from LOGS;
+
+select id_sequence, sum(temps_tentative) from STATS, ACTIVITE
+where STATS.key_activite=ACTIVITE.key_activite
+and nom_fichier = "21401051_1474631412731"
+and stats.key_activite=40
+group by id_sequence;
+
+select LOGS.nom_fichier, duree_input, sum(temps_tentative), sum(temps_tentative)-duree_input from STATS, ACTIVITE, LOGS
+where STATS.key_activite=ACTIVITE.key_activite
+and LOGS.nom_fichier=STATS.nom_fichier
+group by STATS.nom_fichier;
+
+
 
 
