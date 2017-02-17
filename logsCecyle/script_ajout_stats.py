@@ -9,10 +9,10 @@ c = conn.cursor()
 #On créé la table STATS
 c.execute('''DROP TABLE IF EXISTS STATS''')
 c.execute('''CREATE TABLE STATS
-            (nom_fichier VARCHAR, id_activite,tentative INTEGER,temps_tentative INTEGER,chrono Integer,
+            (nom_fichier VARCHAR, key_activite,tentative INTEGER,temps_tentative INTEGER,chrono Integer,
             FOREIGN KEY(nom_fichier)REFERENCES LOGS(nom_fichier),
-            FOREIGN KEY(id_activite)REFERENCES ACTIVITE(id_activite),
-            PRIMARY KEY(nom_fichier,id_activite,tentative))''')
+            FOREIGN KEY(key_activite)REFERENCES ACTIVITE(key_activite),
+            PRIMARY KEY(nom_fichier,key_activite,tentative))''')
 
 #On récupère tout les nom de fichiers
 for row in c.execute("SELECT nom_fichier FROM LOGS"):
@@ -49,7 +49,7 @@ for f in files:
             dureeInput=(heure2-heure1).seconds
             #Si on est jamais passé dans l'activité on créé une entrée
             if not x in d:
-                d[x] = [0,[timeStart],[eventdata['events'][i]['timestamp']],[0,0,0,0],0]
+                d[x] = [0,[timeStart],[eventdata['events'][i]['timestamp']],[0,0,0,0,0],0]
                 currentActivity = str(eventdata['events'][i]["sequence_id"])+str(eventdata['events'][i]["section_id"])+str(int(eventdata['events'][i]["activity_id"])+1)
             #Sinon c'est un retour et on ajoute dans t-1
             else:
@@ -69,7 +69,7 @@ for f in files:
         dureeInput=(heure2-heure1).seconds
         x = (f,str(eventdata['events'][i+1]["sequence_id"]),str(eventdata['events'][i+1]["section_id"]),str(eventdata['events'][i+1]["activity_id"]))
         if not x in d:
-            d[x] = [0,[timeStart],[eventdata['events'][i+1]['timestamp']],[0,0,0,0],0]
+            d[x] = [0,[timeStart],[eventdata['events'][i+1]['timestamp']],[0,0,0,0,0],0]
             currentActivity = str(eventdata['events'][i]["sequence_id"])+str(eventdata['events'][i]["section_id"])+str(int(eventdata['events'][i]["activity_id"])+1)
         else:
             if currentActivity > str(eventdata['events'][i]["sequence_id"])+str(eventdata['events'][i]["section_id"])+str(int(eventdata['events'][i]["activity_id"])+1):
@@ -158,13 +158,15 @@ for key in d:
         d[key][3][0] = d[key][0] - d[key][3][3]
     else:
         #Sinon on rajoute le temps entre la tentative 3 et le changement d'activite dans t[3]
-        d[key][3][3] = d[key][0] - d[key][3][0] - d[key][3][1] - d[key][3][2] + d[key][3][3]
+        d[key][3][4] = d[key][0] - d[key][3][0] - d[key][3][1] - d[key][3][2]
     for row in c.execute("SELECT * FROM ACTIVITE where id_section = ? and id_activite =? and id_sequence = ?",[key[2],key[3],key[1]]):
         x= row[0]
     for t in range(len(d[key][3])):
         if d[key][3][t] != 0:
             if t == 3:
                 c.execute("INSERT INTO STATS VALUES(?,?,?,?,?)",[key[0],x,-1,d[key][3][t],0])
+            elif t == 4:
+                c.execute("INSERT INTO STATS VALUES(?,?,?,?,?)",[key[0],x,0,d[key][3][t],0])
             else:
                 c.execute("INSERT INTO STATS VALUES(?,?,?,?,?)",[key[0],x,t+1,d[key][3][t],d[key][4]])
                 
