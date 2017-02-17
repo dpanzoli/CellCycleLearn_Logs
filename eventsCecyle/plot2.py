@@ -14,6 +14,7 @@ for j in range(0,17):
                 ax = fig.add_subplot(111)
                 i=0
                 for line in csv_reader:
+                        print(x,d)
                         x=int(line[0])
                         d=int(line[1])
                         #plt.axhline(y=i+0.5, color="#aaaaaa")	
