@@ -158,7 +158,7 @@ for key in d:
         d[key][3][0] = d[key][0] - d[key][3][3]
     else:
         #Sinon on rajoute le temps entre la tentative 3 et le changement d'activite dans t[3]
-        d[key][3][4] = d[key][0] - d[key][3][0] - d[key][3][1] - d[key][3][2]
+        d[key][3][4] = d[key][0] - d[key][3][0] - d[key][3][1] - d[key][3][2] - d[key][3][3]
     for row in c.execute("SELECT * FROM ACTIVITE where id_section = ? and id_activite =? and id_sequence = ?",[key[2],key[3],key[1]]):
         x= row[0]
     for t in range(len(d[key][3])):
