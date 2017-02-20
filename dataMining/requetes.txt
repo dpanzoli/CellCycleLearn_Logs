@@ -156,15 +156,16 @@
 --where tentative=1
 --group by fk_id_activite;
 
-drop view TENTATIVES;
-create view TENTATIVES as
-select fk_nom_fichier, fk_id_activite, count(*) as nb_tentatives from STATS
-where tentative > 0
-group by fk_nom_fichier, fk_id_activite;
-select fk_id_activite, avg(nb_tentatives) from TENTATIVES
-group by fk_id_activite;
+--drop view TENTATIVES;
+--create view TENTATIVES as
+--select fk_nom_fichier, fk_id_activite, count(*) as nb_tentatives from STATS
+--where tentative > 0
+--group by fk_nom_fichier, fk_id_activite;
+--select fk_id_activite, avg(nb_tentatives) from TENTATIVES
+--group by fk_id_activite;
 
 --select fk_id_sequence, id_activite, lib_activite, type, chrono from activite;
 
-
-
+select fk_id_activite,avg(temps_tentative) from activite,stats 
+where STATS.fk_id_activite = ACTIVITE.id_activite and type != "Transition" and fk_id_section != 1 and tentative = 0 group by fk_id_activite;
+--select * from stats;
