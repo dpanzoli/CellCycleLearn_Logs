@@ -3,7 +3,7 @@ import json
 import datetime
 
 files = []
-conn = sqlite3.connect(r'C:\\Users\\stage\\Desktop\\Stage_Marvyn\\CellCycleLearn_Logs\\logsCecyle\\student.db')
+conn = sqlite3.connect(r'student.db')
 c = conn.cursor()
 
 #On créé la table STATS
@@ -145,6 +145,8 @@ for f in files:
             if  inputdata['inputs'][i]["activity_id"] != inputdata['inputs'][i+1]["activity_id"]:
                 heure1 =datetime.datetime.fromtimestamp(d[f,seq,sec,act][1][0]//1000)
                 heure2 = datetime.datetime.fromtimestamp(inputdata['inputs'][i]['timestamp']//1000)
+                if(heure1 > heure2):
+                    heure1,heure2=heure2,heure1
                 d[f,seq,sec,act][3][0] = (heure2-heure1).seconds
                 d[f,seq,sec,act][4]=1
 
@@ -158,7 +160,8 @@ for key in d:
         d[key][3][0] = d[key][0] - d[key][3][3]
     else:
         #Sinon on rajoute le temps entre la tentative 3 et le changement d'activite dans t[3]
-        d[key][3][4] = d[key][0] - d[key][3][0] - d[key][3][1] - d[key][3][2] - d[key][3][3]
+        if d[key][3][4]<0:
+            d[key][3][4] = d[key][0] - d[key][3][0] - d[key][3][1] - d[key][3][2] - d[key][3][3]
     for row in c.execute("SELECT * FROM ACTIVITE where fk_id_section = ? and num_activite =? and fk_id_sequence = ?",[key[2],key[3],key[1]]):
         x= row[0]
     for t in range(len(d[key][3])):

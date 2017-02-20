@@ -85,15 +85,20 @@
 
 --select nom_fichier, duree_input from LOGS;
 
-select id_sequence,id_section, sum(temps_tentative) from STATS, ACTIVITE
-where STATS.key_activite=ACTIVITE.key_activite
-and nom_fichier = "Cecyle_1480349626146"
-group by id_sequence;
+--select id_sequence,id_section, sum(temps_tentative) from STATS, ACTIVITE
+--where STATS.key_activite=ACTIVITE.key_activite
+--and nom_fichier = "Cecyle_1480349626146"
+--group by id_sequence;
 
 --select LOGS.nom_fichier, duree_event, sum(temps_tentative), sum(temps_tentative)-duree_event from STATS, ACTIVITE, LOGS
 --where STATS.key_activite=ACTIVITE.key_activite
 --and LOGS.nom_fichier=STATS.nom_fichier
 --group by STATS.nom_fichier;
+
+SELECT ACTIVITE.lib_activite,avg(STATS.temps_tentative), STATS.fk_id_activite,t,(sum(((temps_tentative)-t)*((temps_tentative)-t)))/(count(*)-1) 
+                     from STATS,ACTIVITE,(select fk_id_activite,avg(temps_tentative) as t from stats group by fk_id_activite) as P
+                     where STATS.fk_id_activite = P.fk_id_activite and STATS.fk_id_activite = ACTIVITE.id_activite 
+                     group by STATS.fk_id_activite;
 
 
 
