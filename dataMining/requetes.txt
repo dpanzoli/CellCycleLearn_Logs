@@ -144,17 +144,31 @@
 --);
 
 
+select fk_id_activite, count(*) from STATS
+where tentative=1
+group by fk_id_activite;
+
 --select fk_id_activite, count(fk_nom_fichier) from stats, activite
 --where activite.id_activite = stats.fk_id_activite
 --and fk_id_sequence=2
 --and tentative=1
 --group by fk_id_activite;
 
+
 --select * from activite where id_activite=37;
 
 --select fk_id_activite, count(*) from STATS
 --where tentative=1
 --group by fk_id_activite;
+
+select sum(temps_tentative)||',' from STATS, ACTIVITE 
+where STATS.fk_id_activite = ACTIVITE.id_activite
+and ACTIVITE.fk_id_sequence = 2
+and fk_nom_fichier in (
+	select distinct(fk_nom_fichier) from STATS
+	where fk_id_activite = 40 
+)
+group by fk_nom_fichier;
 
 --drop view TENTATIVES;
 --create view TENTATIVES as
@@ -163,6 +177,7 @@
 --group by fk_nom_fichier, fk_id_activite;
 --select fk_id_activite, avg(nb_tentatives) from TENTATIVES
 --group by fk_id_activite;
+
 
 --select fk_id_sequence, id_activite, lib_activite, type, chrono from activite;
 
