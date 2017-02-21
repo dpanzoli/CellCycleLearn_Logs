@@ -95,76 +95,71 @@
 --and LOGS.nom_fichier=STATS.nom_fichier
 --group by STATS.nom_fichier;
 
-SELECT ACTIVITE.lib_activite,avg(STATS.temps_tentative), STATS.fk_id_activite,t,(sum(((temps_tentative)-t)*((temps_tentative)-t)))/(count(*)-1) 
-                     from STATS,ACTIVITE,(select fk_id_activite,avg(temps_tentative) as t from stats group by fk_id_activite) as P
-                     where STATS.fk_id_activite = P.fk_id_activite and STATS.fk_id_activite = ACTIVITE.id_activite 
-                     group by STATS.fk_id_activite;
+--SELECT ACTIVITE.lib_activite,avg(STATS.temps_tentative), STATS.fk_id_activite,t,(sum(((temps_tentative)-t)*((temps_tentative)-t)))/(count(*)-1) 
+--                     from STATS,ACTIVITE,(select fk_id_activite,avg(temps_tentative) as t from stats group by fk_id_activite) as P
+--                     where STATS.fk_id_activite = P.fk_id_activite and STATS.fk_id_activite = ACTIVITE.id_activite 
+--                     group by STATS.fk_id_activite;
 
-select * from STATS 
-where nom_fichier="Cecyle_1480349626146";
+--select * from STATS 
+--where nom_fichier="Cecyle_1480349626146";
 
-create view V_TEMPS_SEQUENCE as 
-select nom_fichier, id_sequence, sum(temps_tentative) as temps_sequence from STATS, ACTIVITE
-where STATS.key_activite=ACTIVITE.key_activite
-group by nom_fichier, id_sequence;
+--create view V_TEMPS_SEQUENCE as 
+--select nom_fichier, id_sequence, sum(temps_tentative) as temps_sequence from STATS, ACTIVITE
+--where STATS.key_activite=ACTIVITE.key_activite
+--group by nom_fichier, id_sequence;
 
-create view V_TEMPS_SEQUENCE_1 as 
-select * from V_TEMPS_SEQUENCE
-where id_sequence = 1;
+--create view V_TEMPS_SEQUENCE_1 as 
+--select * from V_TEMPS_SEQUENCE
+--where id_sequence = 1;
 
-select * from V_TEMPS_SEQUENCE_1 order by temps_sequence limit 50;
+--select * from V_TEMPS_SEQUENCE_1 order by temps_sequence limit 50;
 
-select * from V_TEMPS_SEQUENCE_1 order by temps_sequence DESC limit 10;
+--select * from V_TEMPS_SEQUENCE_1 order by temps_sequence DESC limit 10;
 
-select id_sequence, avg(temps_sequence)/60, min(temps_sequence)/60, max(temps_sequence)/60 
-from V_TEMPS_SEQUENCE
-group by id_sequence;
+--select id_sequence, avg(temps_sequence)/60, min(temps_sequence)/60, max(temps_sequence)/60 
+--from V_TEMPS_SEQUENCE
+--group by id_sequence;
 
-select id_activite, lib_activite from activite 
-where fk_id_sequence=2 
-order by id_activite DESC limit 1;
+--select id_activite, lib_activite from activite 
+--where fk_id_sequence=2 
+--order by id_activite DESC limit 1;
 
-create view V_TEMPS_SEQUENCE_1 as 
-select STATS.fk_nom_fichier, ACTIVITE.fk_id_sequence, sum(STATS.temps_tentative) as temps_seq_1 from STATS, ACTIVITE
-where STATS.fk_id_activite=ACTIVITE.id_activite
-group by STATS.fk_nom_fichier, ACTIVITE.fk_id_sequence;
+--create view V_TEMPS_SEQUENCE_1 as 
+--select STATS.fk_nom_fichier, ACTIVITE.fk_id_sequence, sum(STATS.temps_tentative) as temps_seq_1 from STATS, ACTIVITE
+--where STATS.fk_id_activite=ACTIVITE.id_activite
+--group by STATS.fk_nom_fichier, ACTIVITE.fk_id_sequence;
 
-select avg(temps_seq_1)/60 from V_TEMPS_SEQUENCE_1
-where fk_id_sequence=1
-and fk_nom_fichier in (
-	select distinct(fk_nom_fichier) from STATS
-	where fk_id_activite = 20
-);
+--select avg(temps_seq_1)/60 from V_TEMPS_SEQUENCE_1
+--where fk_id_sequence=1
+--and fk_nom_fichier in (
+--	select distinct(fk_nom_fichier) from STATS
+--	where fk_id_activite = 20
+--);
 
-select temps_seq_1 from V_TEMPS_SEQUENCE_1
-where fk_id_sequence=2
-and fk_nom_fichier in (
-	select distinct(fk_nom_fichier) from STATS
-	where fk_id_activite = 40
-);
+--select temps_seq_1 from V_TEMPS_SEQUENCE_1
+--where fk_id_sequence=2
+--and fk_nom_fichier in (
+--	select distinct(fk_nom_fichier) from STATS
+--	where fk_id_activite = 40
+--);
 
-
-select fk_id_activite, count(fk_nom_fichier) from stats, activite
-where activite.id_activite = stats.fk_id_activite
-and fk_id_sequence=2
-and tentative=1
-group by fk_id_activite;
-
-select * from activite where id_activite=37;
 
 select fk_id_activite, count(*) from STATS
 where tentative=1
 group by fk_id_activite;
 
-drop view TENTATIVES;
-create view TENTATIVES as
-select fk_nom_fichier, fk_id_activite, count(*) as nb_tentatives from STATS
-where tentative > 0
-group by fk_nom_fichier, fk_id_activite;
-select fk_id_activite, avg(nb_tentatives) from TENTATIVES
-group by fk_id_activite;
+--select fk_id_activite, count(fk_nom_fichier) from stats, activite
+--where activite.id_activite = stats.fk_id_activite
+--and fk_id_sequence=2
+--and tentative=1
+--group by fk_id_activite;
 
-select fk_id_sequence, id_activite, lib_activite, type, chrono from activite;
+
+--select * from activite where id_activite=37;
+
+--select fk_id_activite, count(*) from STATS
+--where tentative=1
+--group by fk_id_activite;
 
 select sum(temps_tentative)||',' from STATS, ACTIVITE 
 where STATS.fk_id_activite = ACTIVITE.id_activite
@@ -175,4 +170,17 @@ and fk_nom_fichier in (
 )
 group by fk_nom_fichier;
 
+--drop view TENTATIVES;
+--create view TENTATIVES as
+--select fk_nom_fichier, fk_id_activite, count(*) as nb_tentatives from STATS
+--where tentative > 0
+--group by fk_nom_fichier, fk_id_activite;
+--select fk_id_activite, avg(nb_tentatives) from TENTATIVES
+--group by fk_id_activite;
 
+
+--select fk_id_sequence, id_activite, lib_activite, type, chrono from activite;
+
+select fk_id_activite,avg(temps_tentative) from activite,stats 
+where STATS.fk_id_activite = ACTIVITE.id_activite and type != "Transition" and fk_id_section != 1 and tentative = 0 group by fk_id_activite;
+--select * from stats;

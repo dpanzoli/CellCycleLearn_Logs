@@ -19,8 +19,6 @@ for row in c.execute("SELECT ACTIVITE.lib_activite,avg(STATS.temps_tentative),(s
                      "from STATS,ACTIVITE,(select fk_id_activite,avg(temps_tentative) as t from stats group by fk_id_activite) as P "+
                      "where STATS.fk_id_activite = P.fk_id_activite and STATS.fk_id_activite = ACTIVITE.id_activite " + 
                      "group by STATS.fk_id_activite"):
-    print(row)
-    print("---")
     y = row[1]
     test1.append(row[1])
     test2.append(math.sqrt(row[2]))
@@ -28,7 +26,6 @@ for row in c.execute("SELECT ACTIVITE.lib_activite,avg(STATS.temps_tentative),(s
     ticks.append(i+0.5)
     labels.append(row[0])
     i = i+1
-print(test2)
 plt.errorbar(test1,ticks,xerr =test2,linestyle='None',marker='^')
 plt.yticks(ticks, labels)
 plt.xticks((0,30,60,90,120,150,180,210,240,270,300,330,360,390,420),('0','30sec','1 min','1min30','2min','2min30','3min','3min30','4min','4min30','5min','5min30','6min','6min30','7min'))
