@@ -144,9 +144,9 @@
 --);
 
 
-select fk_id_activite, count(*) from STATS
-where tentative=1
-group by fk_id_activite;
+--select fk_id_activite, count(*) from STATS
+--where tentative=1
+--group by fk_id_activite;
 
 --select fk_id_activite, count(fk_nom_fichier) from stats, activite
 --where activite.id_activite = stats.fk_id_activite
