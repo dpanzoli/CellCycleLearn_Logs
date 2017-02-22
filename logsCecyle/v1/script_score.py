@@ -4,7 +4,7 @@ unit_mark = 10000
 
 def correctInput(u_input,meta):
     score = 0
-    if u_input['data']['user_input'] == meta['answer']:
+    if str(u_input['data']['user_input']) == str(meta['answer']):
             score+= unit_mark
     return score
 
@@ -49,14 +49,14 @@ def correctDragDropView(u_input,meta):
                 for j in range(len(u_input['data']['user_input'][i]['stickers'])):
                     if str(u_input['data']['user_input'][i]['stickers'][j]) ==str(meta['answer'][i]["stickers"][j]):
                         score += unit_mark
-    elif 'answer_mult' in meta:
-        for i in range(len(meta['awnser_multi'])):
+    elif 'answer_multi' in meta:
+        for i in range(len(meta['answer_multi'])):
             temp = 0
             for j in range(len(u_input['data']['user_input'])):
                 if len(u_input['data']['user_input'][j]['stickers']) ==len(meta['answer_multi'][i][j]["stickers"]):
                     for k in range(len(u_input['data']['user_input'][j]['stickers'])):
-                        if str(u_input['data']['user_input'][i]['stickers'][k]) ==str(meta['answer'][i][j]["stickers"][k]):
-                               score += unit_mark
+                        if str(u_input['data']['user_input'][j]['stickers'][k]) ==str(meta['answer_multi'][i][j]["stickers"][k]):
+                                temp += unit_mark
             if temp > score:
                 score = temp
     return score
@@ -68,12 +68,12 @@ def correctPlanif(u_input,meta):
             score+=unit_mark
     if len(u_input['data']['user_input']['culture']) == len(meta['answer']['culture']):
         for i in range(len(meta['answer']['culture'])):
-            if u_input['data']['user_input']['culture'][i]['condition'] == meta['answer']['culture'][i]['condition'] and u_input['data']['user_input']['culture'][i]['time'] == meta['answer']['culture'][i]['time']:
+            if u_input['data']['user_input']['culture'][i]['condition'] == meta['answer']['culture'][i]['condition'] and str(u_input['data']['user_input']['culture'][i]['time']) == str(meta['answer']['culture'][i]['time']):
                 score+=unit_mark
     if u_input['data']['user_input']['temoincheck']:
         if len(u_input['data']['user_input']['temoin']) == len(meta['answer']['temoin']):
             for i in range(len(meta['answer']['temoin'])):
-                if u_input['data']['user_input']['temoin'][i]['condition'] == meta['answer']['temoin'][i]['condition'] and u_input['data']['user_input']['temoin'][i]['time'] == meta['answer']['temoin'][i]['time']:
+                if u_input['data']['user_input']['temoin'][i]['condition'] == meta['answer']['temoin'][i]['condition'] and str(u_input['data']['user_input']['temoin'][i]['time']) == str(meta['answer']['temoin'][i]['time']):
                     score+=unit_mark
     return score
             
@@ -96,6 +96,8 @@ for f in files:
     inp = inputdata['inputs']
     for i in range(len(inp)):
         seq,sec,act = inp[i]["sequence_id"],inp[i]["section_id"],inp[i]["activity_id"]
+        if act == -1:
+                    act+=1
         x = (f,seq,sec,act)
         if sec != 1:           
             if not x in d:
@@ -115,8 +117,6 @@ for f in files:
             elif inp[i]['activity_kind'] == "pipette" or inp[i]['activity_kind'] == "synthesis" or inp[i]['activity_kind'] == "doublepipette" :
                 d[x].append(correctDosageAndTextView(inp[i],s['sections'][sec]['activites'][act]['meta']))
             elif inp[i]['activity_kind'] == "planif":
-                if act == -1:
-                    act+=1
                 d[x].append(correctPlanif(inp[i],s['sections'][sec]['activites'][act]['meta']))
 for x in d:
     for row in c.execute("SELECT * FROM ACTIVITE where fk_id_section = ? and num_activite =? and fk_id_sequence = ?",[x[2],x[3],x[1]]):
