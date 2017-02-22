@@ -1,0 +1,452 @@
+{
+	"id" : "sequence2",
+	"index":2,
+	"libelle" : "Carence en facteurs de croissance et cycle cellulaire.",
+	"objectifs": "Comprendre les principes de controle de la prolifération",
+	"sections" : [
+		{
+			"id"		:	"Prérequis",
+			"id_icon"	: "/assets/main/id_prerequisite.png",
+			"mainpane"	:  "/tmp/transitionRequirements.png",
+			"enonce"	: "Avant de commencer nous allons tester vos connaissances sur des notions indispensables pour jouer ce scénario." ,
+			"button"      : ["Ok"],
+			"activites"   :
+			[
+				{
+					"id"	: "dd1",
+					"type"    : "dragdroptest" ,
+					"libelle" : "Les checkpoints du cycle cellulaire",
+					"objectifs" : ["Savoir quel checkpoint est lié à l'arrêt en quelle phase."],
+					"prerequis":["Connaître le nom et la position des checkpoints dans le cycle cellulaire"],
+					"validation" : "now",
+					"time"    : 5,
+					"enonce"  : "Glisser-déposer les éléments ci-dessous pour compléter le schéma du cycle cellulaire :",
+					"memo"    : { "type" : "image" , "source" : "/ressources/sequence2/act0/memoSheetScenario2Activity0.png" },
+					"meta"  : {
+						"consigne": "Glisser déposer les éléments sur le schéma. Glisser un élément sur la poubelle permet de supprimer cet élément. Cliquer sur la poubelle permet de réinitialiser le jeu",
+						"background":"/ressources/sequence2/act0/backgroundScenario2Activity0.png",
+						"dropzone": [
+							[
+								{ "x": 230, "y": 34, "shape": "circle" },
+								{ "x": 401, "y": 394, "shape": "circle", "target":"S" },
+								{ "x": 120, "y": 453, "shape": "circle", "target":"G2" },
+								{ "x": 3, "y": 261, "shape": "circle", "target":"M" },
+								{ "x": 172, "y": 40, "shape": "circle", "target":"M" },
+								{ "x": 119, "y": 62, "shape": "circle", "target":"M" },
+								{ "x": 42, "y": 135, "shape": "circle", "target":"M" },
+								{ "x": 533, "y": 138, "shape": "circle", "target":"G0" }
+							]
+						],
+						"etiquette": [
+							[
+								{ "id":"iM", "type": "text", "shape": "circle", "label": "iM" },
+								{ "id":"G1S", "type": "text", "shape": "circle", "label": "G1/S" },
+								{ "id":"R", "type": "text", "shape": "circle", "label": "R" },
+								{ "id":"G2M", "type": "text", "shape": "circle", "label": "G2/M" },
+								{ "id":"L", "type": "text", "shape": "circle", "label": "L" },
+								{ "id":"P", "type": "text", "shape": "circle", "label": "P"},
+								{ "id":"P", "type": "text", "shape": "circle", "label": "S/G2" }
+							]
+						],
+						"answer": [
+							{ "slot": 0, "stickers": [] },
+							{ "slot": 1, "stickers": [2] },
+							{ "slot": 2, "stickers": [1] },
+							{ "slot": 3, "stickers": [] },
+							{ "slot": 4, "stickers": [0] },
+							{ "slot": 5, "stickers": [3] },
+							{ "slot": 6, "stickers": [] },
+							{ "slot": 7, "stickers": [] }
+						]
+					}
+				},
+				{
+					"id":"dd2",
+					"type" : "dragdroptest",
+					"libelle" : "Contenu ADN dans les différentes phases",
+					"objectifs" : ["Identifier le contenu ADN des cellules dans chaque phase."],
+					"prerequis":[],
+					"validation" : "now",
+					"time" : 5,
+					"enonce" : "Trier les phases du cycle cellulaire selon leur contenu ADN :",
+					"memo"    : { "type" : "image" , "source" : "/ressources/sequence2/act1/memoSheetScenario2Activity1.png" },
+					"meta"  : {
+						"consigne": "Glisser déposer les éléments sur le schéma. Glisser un élément sur la poubelle permet de supprimer cet élément. Cliquer sur la poubelle permet de réinitialiser le jeu",
+						"background":"/ressources/sequence2/act1/backgroundScenario2Activity1.png",
+						"dropzone": [
+							[
+								{ "x": 46, "y": 82,"shape": "img", "size":4 },
+								{ "x": 242, "y": 82, "shape": "img", "size": 4 },
+								{ "x": 434, "y": 82, "shape": "img", "size": 4 }
+							]
+						],
+						"etiquette": [
+							[
+								{ "id":"img1", "type": "image", "src": "/ressources/sequence2/act1/dd1.png" },
+								{ "id":"img2", "type": "image", "src": "/ressources/sequence2/act1/dd2.png" },
+								{ "id":"img3", "type": "image", "src": "/ressources/sequence2/act1/dd3.png" },
+								{ "id":"img4", "type": "image", "src": "/ressources/sequence2/act1/dd4.png" }
+							]
+						],
+						"answer": [
+							{ "slot": 0, "stickers": [0] },
+							{ "slot": 1, "stickers": [3] },
+							{ "slot": 2, "stickers": [1,2] }
+						]
+					}
+				}
+			]
+		},
+		{
+			"id"	: "Hypothèses",
+			"id_icon":	"/assets/main/id_hypothesis.png",
+			"mainpane"	:  "/tmp/transitionHypothesis_scenario2.png",
+			"enonce" : "Dans ce scénario nous étudier la prolifération des cellules U2OS. Pour cela nous allons formuler des hypothèses sur les réponses cellulaires préssenties à la lumière de vos connaissances. Nous allons ensuite mettre en place le protocole expérimental permettant de tester ces hypothèses.",
+			"button" : ["Démarrer"],
+			"activites" : [
+				{
+					"type" : "dragdroptest",
+					"libelle" : "Checkpoint influencé par la privation en facteurs de croissance",
+					"objectifs" : ["Identifier le checkpoint influencé par une privation en facteurs de croissance"],
+					"prerequis":[],
+					"validation" : "H1",
+					"time" : 5,
+					"enonce" : "Quel checkpoint est influencé par la privation en facteurs de croissance ?",
+					"meta"  : {
+						"consigne": "Glisser déposer les éléments sur le schéma. Glisser un élément sur la poubelle permet de supprimer cet élément. Cliquer sur la poubelle permet de réinitialiser le jeu",
+						"background":"/ressources/sequence2/act2/backgroundScenario2Activity2.png",
+						"dropzone": [
+							[
+								{ "x": 62, "y": 30, "shape": "flag"  },
+								{ "x": 192, "y": 20, "shape": "flag"  },
+								{ "x": 106, "y": 476, "shape": "flag"  },
+								{ "x": 406, "y": 412, "shape": "flag"  }
+							]
+						],
+						"etiquette": [ 
+							[ { "id":"s1", "type": "image", "src":"/ressources/sequence2/act2/flag1.png"} ]
+
+						],
+						"answer": [
+							{ "slot": 0, "stickers": [] },
+							{ "slot": 1, "stickers": [] },
+							{ "slot": 2, "stickers": [] },
+							{ "slot": 3, "stickers": [0] }
+						]
+					},
+					"memo" : 
+					{
+						"type" : "answer" ,
+						"libelle" : "Voici le checkpoint qui selon vous est influencé par les facteurs de croissances. Nous allons mettre en place une expérience permettant de retrouver ce résultat et donc de vérifier si votre hypotèses réponse est correcte."
+					}
+				},
+				{
+					"type" : "curvetest",
+					"libelle" : "Evolution du nombre de cellules",
+					"objectifs" : ["Observer l'impact de la privation en facteurs de croissance sur le cycle cellulaire"],
+					"prerequis":[],
+					"validation" : "H2",
+					"time" : 0,
+					"enonce" : "Représenter graphiquement l'évolution de la proportion de cellules dans une phase lorsqu'elles s'accumulent dans cette phase suite à l'activation du point de contrôle R.",
+					"meta" : {
+						"consigne": "Cliquer et faire glisser les points de la courbe pour les déplacer et faire varier la forme de la courbe.",
+						"background": "/ressources/sequence2/act3/backgroundCurve.png",
+						"points":[{"x":57,"y":322,"r":7},{"x":149,"y":322,"r":7},{"x":241,"y":322,"r":7},
+							{"x":333,"y":322,"r":7},{"x":425,"y":322,"r":7},{"x":517,"y":322,"r":7},{"x":607,"y":322,"r":7}
+						],
+						"min" : { "y": 438, "val":0 },
+						"max" : { "y": 48, "val":1 }
+					},
+					"memo" : { "type": "answer", "libelle" : "Voici la courbe de croissance que vous avez proposée pour l'évolution de la proportion de cellules dans la phase précédemment choisie dans des conditions de culture en abscence de facteurs de croissance. Nous allons mettre en place une expérience permettant de vérifier si votre hypothèses est correcte."}
+				}
+			]
+		},
+		{
+			"id":"Protocole",
+			"id_icon": "/assets/main/id_protocole.png",
+			"mainpane"	:  "/tmp/transitionProtocol_scenario2.png",
+			"enonce" : "Afin de tester les hypothèses formulées, nous allons mettre en place le protocole d'expérience permettant d'analyser l'évolution du nombre de cellules et de leur répartition dans les phases du cycle en absence de facteurs de croissance.",
+			"button" : "Suivant",
+			"activites" : [
+				{
+					"type" : "planif",
+					"libelle" : "Planification du protocole expérimental",
+					"time" : 0,
+					"validation":"now",
+					"enonce" : "Après une culture des cellules pendant 36h en milieu complet, le milieu est remplacé à t0 par un milieu appauvri en facteurs de croissance pendant 72h. La position des cellules dans le cycle cellulaire est analysée en cytométrie de flux toutes les 12h. Déterminer les paramètres de ce protocole expérimental, le plan expérimental à gauche évoluera en fonction de vos réglages.",
+					"objectifs":["Donner les paramètres du protocole expérimental : durée totale, fréquence des facs, présence d'une culture témoin"],
+					"prerequis":["Faire le lien entre facteurs de croissance et sérum","Savoir estimer la durée totale nécessaire d'une culture, la fréquence des FACS pour une expérience donnée","Savoir évaluer le besoin de la présence d'une culture témoin"],
+					"meta" : {
+						"consigne": "",
+						"event_list": ["+ glucose","- glucose","+ oxygène","- oxygène","+ sérum","- sérum"],
+						"answer": {
+							"protocol":["-36","72","12"],
+							"culture":[
+								{ 
+									"condition":"- sérum",
+									"time":0
+								}
+							],
+							"temoincheck": true ,
+							"temoin":[
+								{
+									"condition": "+ sérum",
+									"time": 0
+								} 
+							]
+						}
+					},
+					"memo" : { "type" : "image" , "source":"/ressources/sequence2/act4/memoSheetScenario2Activity4.png"}
+				},
+				{
+					"type" : "dragdroptest",
+					"libelle" : "Nombres de boîtes de Pétri",
+					"time" : 0,
+					"enonce" : "Combien de boites de Pétri devons nous prévoir pour cette expérience ?",
+					"objectifs":["Savoir calculer le nombre de boites de Pétri nécessaires pour une expérience"],
+					"prerequis":[],
+					"validation":"now",
+					"meta" : {
+						"consigne": "Glisser déposer les éléments sur le schéma. Glisser un élément sur la poubelle permet de supprimer cet élément. Cliquer sur la poubelle permet de réinitialiser le jeu",
+						"background":"/ressources/sequence2/act5/backgroundScenario2Activity5.png",
+						"dropzone": [
+							[
+								{ "x": 220, "y": 410, "shape": "square" }
+							]
+						],
+						"etiquette": [
+							[
+								{ "id":"iM", "type": "text", "shape": "square", "label": "5" },
+								{ "id":"R", "type": "text", "shape": "square", "label": "6" },
+								{ "id":"G2M", "type": "text", "shape": "square", "label": "7" },
+								{ "id":"L", "type": "text", "shape": "square", "label": "8" },
+								{ "id":"iM", "type": "text", "shape": "square", "label": "9" },
+								{ "id":"G1S", "type": "text", "shape": "square", "label": "10" },
+								{ "id":"R", "type": "text", "shape": "square", "label": "11" },
+								{ "id":"G2M", "type": "text", "shape": "square", "label": "12" },
+								{ "id":"L", "type": "text", "shape": "square", "label": "13" },
+								{ "id":"iM", "type": "text", "shape": "square", "label": "14" },
+								{ "id":"G1S", "type": "text", "shape": "square", "label": "15" },
+								{ "id":"R", "type": "text", "shape": "square", "label": "16" },
+								{ "id":"G2M", "type": "text", "shape": "square", "label": "17" },
+								{ "id":"L", "type": "text", "shape": "square", "label": "18" },
+								{ "id":"P", "type": "text", "shape": "square", "label": "19" }
+							]
+						],
+						"answer": [
+							{"slot":0, "stickers": [8] }
+						]
+					},
+					"memo" : { "type":"image", "source":"/ressources/sequence2/act5/memoSheetScenario2Activity5.png"}
+				},
+				{
+					"type" : "noactivity",
+					"libelle" : "Densité cellulaire",
+					"time" : 0,
+					"enonce" : "",
+					"objectifs":["Savoir calculer la densité d'une suspension cellulaire en convertissant un décompte grâce à une échelle donnée"],
+					"prerequis":["Connaître le principe de calcul de la densité cellulaire avec une cellule de Malassez","Savoir calculer une moyenne"],
+					"meta" : {},
+					"memo" : {"type":"image","source":"/ressources/sequence2/act6/memoSheetScenario2Activity6.png"}
+				},
+				{
+					"type" : "noactivity",
+					"libelle" : "Nombre de cellules par boîte et taille des boîtes",
+					"time" : 0,
+					"enonce" : "",
+					"objectifs":["Donner les paramètres du protocole expérimental : nombre de cellules par boîtes et dimensions des boîtes"],
+					"prerequis":["Savoir choisir la taille des boîtes de Pétri"],
+					"meta" : {},
+					"memo" : {"type":"image","source":"/ressources/sequence2/act7/memoSheetScenario2Activity7.png"}
+				},
+				{
+					"type" : "noactivity",
+					"libelle" : "Ensemencement",
+					"time" : 0,
+					"enonce" : "",
+					"objectifs":["Savoir calculer une dilution"],
+					"prerequis":["Savoir calculer un pourcentage","Savoir appliquer une règle proportionnelle"],
+					"meta" : {},
+					"memo" : {"type":"image","source":"/ressources/sequence2/act8/memoSheetScenario2Activity8.png"}
+				},
+				{
+					"type" : "doublepipette",
+					"validation":"now",
+					"libelle" : "Changement de milieu",
+					"time" : 0,
+					"enonce" : "A t=0 le milieu est retiré des 13 boites et un lavage en PBS est réalisé pour toutes. Le PBS est ensuite aspiré et les cellules mises en présence de milieu complet (10% sérum) pour les cellules contrôle ou de milieu appauvri en sérum (0.5% sérum) pour les cellules traitées. Réaliser les dilutions nécessaires pour la réalisation de ces deux milieux.",
+					"meta" : {
+						"consigne": "Sélectionner un constituant et une pipette puis cliquer sur 'Ajouter' pour ajouter cette quantité au mélange. Cliquer sur 'Corriger' lorsque le mélange est prêt à être versé dans les boîtes de Pétri.",
+						"answer": [3,0.005,18,3,0.1,21],
+						"max":45,
+						"max2":45,
+						"becher":"/ressources/act9/becher_50ml.png",
+						"becher2":"/ressources/act9/becher_50ml.png",
+						"concentration":1150000,
+						"boxNumber": 6,
+						"boxNumber2":7,
+						"pipette": [
+							{"content":0.01, "asset":"/assets/pipette0_01ml.png"},
+							{"content":0.1, "asset":"/assets/pipette0_1ml.png"},
+							{"content":1, "asset":"/assets/pipette1ml.png"},
+							{"content":10, "asset":"/assets/pipette10ml.png"}
+						]
+
+					},
+					"memo" : {"type":"image","source":"/ressources/sequence2/act9/memoSheetScenario2Activity9.png"}
+				}
+			]
+		},
+		{
+			"id":"Expérience",
+			"id_icon": "/assets/main/id_protocole.png",
+			"mainpane"	:  "/tmp/transitionExperimentation.png",
+			"enonce" : "",
+			"button" : "Suivant",
+			"activites" : []
+		},
+		{
+			"id":"Résultats",
+			"id_icon": "/assets/main/id_protocole.png",
+			"mainpane"	:  "/tmp/transitionResults.png",
+			"enonce" : "Nous allons maintenant visualiser les résultats obtenus grâce au simulateur et confronter les hypothèses de départ avec ces résultats.",
+			"button" : "Suivant",
+			"activites" : 
+			[
+				{
+					"type" : "dragdroptest",
+					"libelle" : "Profils de cytométrie de flux au cours de l'expérience",
+					"time" : 0,
+					"enonce" : "Glisser-déposer les profils de cytométrie de flux ci-dessous sur la planification afin de déterminer les différents temps analysés et compléter la phrase ci-contre.",
+					"memo" : {"type":"image","source":"/ressources/sequence2/act11a/memoSheetScenario2Activity11a.png"},
+					"objectifs" : ["Savoir déterminer les temps analysés d'après des profils de cytométrie de flux et la planification de l'expérience","Savoir ordonner dans le temps les profils de cytométrie de flux d'une expérimentation donnée"],
+					"prerequis":["Savoir déterminer la proportion de cellules dans les différentes phases grâce à un profil de cytométrie de flux (Scenario 1 !!)"],
+					"validation" : "now",
+					"meta"  : {
+						"consigne": "Glisser déposer les éléments sur le schéma. Glisser un élément sur la poubelle permet de supprimer cet élément. Cliquer sur la poubelle permet de réinitialiser le jeu",
+						"background":"/ressources/sequence2/act11a/backgroundScenario2Activity11a.png",
+						"dropzone": [
+							[
+								{ "x": 136 , "y": 322, "shape": "img", "size": 1 },
+								{ "x": 246, "y": 322, "shape": "img", "size": 1 },
+								{ "x": 356, "y": 322, "shape": "img", "size": 1 },
+								{ "x": 466, "y": 322, "shape": "img", "size": 1 }
+							],
+							[
+								{ "x": 380, "y": 460, "shape": "circle", "target":"G1" }
+							]
+						],
+						"etiquette": [
+							[
+								{ "id":"img1", "type": "image", "src": "/ressources/sequence2/act11a/facs1.png" },
+								{ "id":"img2", "type": "image", "src": "/ressources/sequence2/act11a/facs2.png" },
+								{ "id":"img3", "type": "image", "src": "/ressources/sequence2/act11a/facs3.png" },
+								{ "id":"img4", "type": "image", "src": "/ressources/sequence2/act11a/facs4.png" }
+							],
+							[
+								{ "id":"G1", "type": "text", "shape": "circle", "label": "G1" },
+								{ "id":"S", "type": "text", "shape": "circle", "label": "S" },
+								{ "id":"G2", "type": "text", "shape": "circle", "label": "G2" },
+								{ "id":"M", "type": "text", "shape": "circle", "label": "M" }
+							]
+						],
+						"answer" : [
+							{ "slot": 0, "stickers": [0] },
+							{ "slot": 1, "stickers": [1] },
+							{ "slot": 2, "stickers": [2] },
+							{ "slot": 3, "stickers": [3] },
+							{ "slot": 4, "stickers": [4] }
+						]
+
+					}
+				},
+				{
+					"type" : "dragdropstar",
+					"libelle" : "Checkpoint influencé par la privation en sérum",
+					"time" : 0,
+					"enonce" : "Vous avez à présent la possibilité de corriger la réponse que vous avez donnée précédemment, quel checkpoint est influencé par la privation en facteurs de croissance ?",
+					"validation":"now",
+					"policy":"timer",
+					"objectifs": ["Savoir quel checkpoint est influencé par la privation en sérum.","Connaître 'impact de la privation en facteurs de croissance sur le cycle cellulaire."],
+					"prerequis":["Savoir quel checkpoint est responsable de l'arrêt des cellules en phase G1"],
+					"feeder":"H1",
+					"meta" : {
+						"consigne": "Glisser déposer les éléments sur le schéma. Glisser un élément sur la poubelle permet de supprimer cet élément. Cliquer sur la poubelle permet de réinitialiser le jeu",
+						"background":"/ressources/sequence2/act10b/backgroundScenario2Activity10b.png",
+						"dropzone": [
+							[
+								{ "x": 62, "y": 30, "shape": "flag"  },
+								{ "x": 192, "y": 20, "shape": "flag"  },
+								{ "x": 106, "y": 476, "shape": "flag"  },
+								{ "x": 406, "y": 412, "shape": "flag"  }
+							]
+						],
+						"etiquette": [ [ {  "id":"s1", "type": "image","src":"/ressources/sequence2/act2/flag1.png" } ] ],
+						"answer": [
+							{ "slot": 0, "stickers": [] },
+							{ "slot": 1, "stickers": [] },
+							{ "slot": 2, "stickers": [] },
+							{ "slot": 3, "stickers": [0] }
+						]
+					},
+					"memo" : {"type":"image","source":"/ressources/sequence2/act10b/memoSheetScenario2Activity10b.png"}
+				},
+				{
+					"type" : "curvestar",
+					"libelle" : "Profils de cytométrie de flux et courbe d'évolution dans une phase",
+					"time" : 0,
+					"enonce" : "Vous avez maintenant la possibilité de corriger la courbe d'évolution que vous avez donnée précédemment. Pour rappel vous devez dessiner la courbe d'évolution du nombre de cellules dans une phase lorsque la population est synchronisée dans cette phase, ici on s'intéresse donc à la phase G1.",
+					"memo" : {"type":"image","source":"/ressources/sequence2/act11b/memoSheetScenario2Activity11b.png"},
+					"objectifs":["Connaître l'impact de la privation en facteurs de croissance sur le cycle cellulaire","Faire le lien entre profils de cytométrie de flux et courbe d'évolution des cellules dans une phase"],
+					"prerequis":[],
+					"validation":"now",
+					"feeder":"H2",
+					"meta": {
+						"consigne": "Cliquer et faire glisser les points de la courbe pour les déplacer et faire varier la forme de la courbe.",
+						"background": "/ressources/sequence2/act11b/backgroundScenario2Activity11b.png",
+						"points":[
+								{"x":57,"y":322,"r":7},
+								{"x":149,"y":322,"r":7},
+								{"x":241,"y":322,"r":7},
+								{"x":333,"y":322,"r":7},
+								{"x":425,"y":322,"r":7},
+								{"x":517,"y":322,"r":7},
+								{"x":607,"y":322,"r":7}
+						],
+						"min" : { "y": 438, "val":0 },
+						"max" : { "y": 48, "val":1 },
+						"answer": [0.58,0.59,0.60,0.69,0.87,1,1],
+						"threshold" : 95
+					}
+				}
+			]
+		},
+		{
+			"id":"Synthèse",
+			"id_icon": "/assets/main/id_protocole.png",
+			"mainpane"	:  "/tmp/transitionSynthesis.png",
+			"enonce" : "Nous venons de confronter les résultats du protocole expérimental avec nos hypothèses de départ, nous allons maintenant effectuer une synthèse de notre travail.",
+			"button" : "Suivant",
+			"activites" : 
+			[
+				{
+					"type" : "synthesis",
+					"libelle" : "Synthèse",
+					"time" : 0,
+					"enonce" : "Compléter le texte ci-contre",
+					"objectifs":["Décrire le résultat d'une expérience en utilisant le vocabulaire approprié"],
+					"prerequis":[],
+					"validation":"now",
+					"meta" : {
+						"consigne": "Sélectionner la bonne réponse parmi les propositions dans les listes déroulantes",
+						"content": "Dans l'expérience qui vient d'être réalisée, après une phase de @KW, les cellules ont été mises en présence d'un milieu appauvri en sérum et donc en @KW. En réponse à cette privation, les cellules n'ont pas franchi @KW et se retrouvent bloquées en @KW. Les cellules sont alors @KW dans cette phase. Si cet arrêt est prolongé, elles passent en phase @KW.",
+						"keywords":[
+							["prolifération","dégénérescence","mort cellulaire"],["facteurs de croissance","glucose","oxygène","guimauve","agents génotoxiques","poison des microtubules"],["le point de restriction","iM","G1/S"],["G1","S","G2","M","alpha","différenciation"],["asynchronisées","synchronisées","désynchronisées"],["G0","G2","M"] ],
+						"answer": ["prolifération","facteurs de croissance","le point de restriction","G1","synchronisées","G0"]
+					},
+					"memo" : {"type":"image","source":"/ressources/sequence2/act12/memoSheetScenario2Activity12.png"}
+				}
+			]
+		}
+	]
+}

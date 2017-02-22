@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import sqlite3
-import math
+
 
 
 conn = sqlite3.connect(r'student.db')

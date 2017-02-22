@@ -19,11 +19,16 @@ for row in c.execute("SELECT nom_fichier FROM LOGS"):
     files.append(row[0])
 
 
-def tri_debut(listedeb,listefin,time):
+def tri_debut(listedeb,listefin,time,d,key,j):
     cpt = 0
     for i in listefin:
 
         if i < time:
+            heure1 = datetime.datetime.fromtimestamp(listedeb[cpt]//1000)
+            heure2  =datetime.datetime.fromtimestamp(listefin[cpt]//1000)
+            dureeInput=(heure2-heure1).seconds
+            d[key][0]+=dureeInput
+            d[key][3][j]+=dureeInput
             cpt+=1
     listedeb = listedeb[cpt:]
     listefin = listefin[cpt:]
@@ -77,6 +82,7 @@ for f in files:
             d[x][1].append(timeStart)
             d[x][2].append(eventdata['events'][i+1]['timestamp'])
         d[x][0]+=dureeInput
+    
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Input
 
@@ -96,7 +102,7 @@ for f in files:
             #Si il y a une autre tentative 
             if inputdata['inputs'][i]["sequence_id"] == inputdata['inputs'][i+1]["sequence_id"] and inputdata['inputs'][i]["activity_id"] == inputdata['inputs'][i+1]["activity_id"] and inputdata['inputs'][i]["section_id"] == inputdata['inputs'][i+1]["section_id"]:
                 #On prend la fonction tri-debut qui permet de trier le temps de début utilisable et initilisable 
-                x,y=tri_debut(d[f,seq,sec,act][1],d[f,seq,sec,act][2],inputdata['inputs'][i]['timestamp'])
+                x,y=tri_debut(d[f,seq,sec,act][1],d[f,seq,sec,act][2],inputdata['inputs'][i]['timestamp'],d,(f,seq,sec,act),j)
                 heure1 =datetime.datetime.fromtimestamp(x[0]//1000)
                 heure2 = datetime.datetime.fromtimestamp(inputdata['inputs'][i]['timestamp']//1000)
                 d[f,seq,sec,act][3][j] = (heure2-heure1).seconds
@@ -106,9 +112,9 @@ for f in files:
                 if len(y) > 1:
                     #Si notre temps de fin de l'event est plus grand que le timestamp de l'input 
                     if y[0]> inputdata['inputs'][i+1]['timestamp']:
-                        #Notre nouveau temps de début ( entre la tentaive n et n+1 ) sera le temps précédent 
+                        #Notre nouveau temps de début ( entre la tentaive n et n+1 ) sera le temps de l'input précédent 
                         x[0] = inputdata['inputs'][i]['timestamp']
-                        d[f,seq,sec,act][1][0] = inputdata['inputs'][i]['timestamp']
+                        d[f,seq,sec,act][1] = x
                     else:
                         #Sinon on laisse comme ça et notre fonction de tri s'en occupera 
                         d[f,seq,sec,act][1] = x
@@ -119,7 +125,7 @@ for f in files:
                 #On enregistre nos temps de fin dans le dico pour le prochain tour
                 d[f,seq,sec,act][2] = y
             else:
-                x,y=tri_debut(d[f,seq,sec,act][1],d[f,seq,sec,act][2],inputdata['inputs'][i]['timestamp'])
+                x,y=tri_debut(d[f,seq,sec,act][1],d[f,seq,sec,act][2],inputdata['inputs'][i]['timestamp'],d,(f,seq,sec,act),j)
                 heure1 =datetime.datetime.fromtimestamp(x[0]//1000)
                 heure2 = datetime.datetime.fromtimestamp(inputdata['inputs'][i]['timestamp']//1000)
                 d[f,seq,sec,act][3][j] = (heure2-heure1).seconds
@@ -131,7 +137,7 @@ for f in files:
                     if y[0]> inputdata['inputs'][i+1]['timestamp']:
                         #Notre nouveau temps de début ( entre la tentaive n et n+1 ) sera le temps précédent 
                         x[0] = inputdata['inputs'][i]['timestamp']
-                        d[f,seq,sec,act][1][0] = inputdata['inputs'][i]['timestamp']
+                        d[f,seq,sec,act][1][0] = x
                     else:
                         #Sinon on laisse comme ça et notre fonction de tri s'en occupera 
                         d[f,seq,sec,act][1] = x
@@ -143,7 +149,8 @@ for f in files:
         #Si c'est un temps chronometré
         else:
             if  inputdata['inputs'][i]["activity_id"] != inputdata['inputs'][i+1]["activity_id"]:
-                heure1 =datetime.datetime.fromtimestamp(d[f,seq,sec,act][1][0]//1000)
+                x,y=tri_debut(d[f,seq,sec,act][1],d[f,seq,sec,act][2],inputdata['inputs'][i]['timestamp'],d,(f,seq,sec,act),0)
+                heure1 =datetime.datetime.fromtimestamp(x[0]//1000)
                 heure2 = datetime.datetime.fromtimestamp(inputdata['inputs'][i]['timestamp']//1000)
                 if(heure1 > heure2):
                     heure1,heure2=heure2,heure1
