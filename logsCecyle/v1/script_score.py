@@ -82,7 +82,7 @@ def correctPlanif(u_input,meta):
 files = []
 conn = sqlite3.connect(r'student.db')
 c = conn.cursor()
-#c.execute("ALTER TABLE STATS ADD COLUMN score INTEGER ")
+c.execute("ALTER TABLE STATS ADD COLUMN score INTEGER ")
 for row in c.execute("SELECT nom_fichier FROM LOGS"):
     files.append(row[0])
 d = {}

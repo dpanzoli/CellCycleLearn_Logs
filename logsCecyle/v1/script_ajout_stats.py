@@ -27,7 +27,7 @@ def tri_debut(listedeb,listefin,time,d,key,j):
             heure1 = datetime.datetime.fromtimestamp(listedeb[cpt]//1000)
             heure2  =datetime.datetime.fromtimestamp(listefin[cpt]//1000)
             dureeInput=(heure2-heure1).seconds
-            d[key][0]+=dureeInput
+            #d[key][0]+=dureeInput
             d[key][3][j]+=dureeInput
             cpt+=1
     listedeb = listedeb[cpt:]
@@ -50,7 +50,7 @@ for f in files:
         if str(eventdata['events'][i+1]["section_id"]) != str(eventdata['events'][i]["section_id"]) or str(eventdata['events'][i+1]["sequence_id"]) != str(eventdata['events'][i]["sequence_id"]) or str(eventdata['events'][i+1]["activity_id"]) != str(eventdata['events'][i]["activity_id"]) or i == len(eventdata['events'])-2:
             x = (f,str(eventdata['events'][i]["sequence_id"]),str(eventdata['events'][i]["section_id"]),str(eventdata['events'][i]["activity_id"]))
             heure1 = datetime.datetime.fromtimestamp(timeStart//1000)
-            heure2  =datetime.datetime.fromtimestamp(eventdata['events'][i]['timestamp']//1000)
+            heure2 = datetime.datetime.fromtimestamp(eventdata['events'][i]['timestamp']//1000)
             dureeInput=(heure2-heure1).seconds
             #Si on est jamais passé dans l'activité on créé une entrée
             if not x in d:
@@ -61,7 +61,7 @@ for f in files:
                 if currentActivity > str(eventdata['events'][i]["sequence_id"])+str(eventdata['events'][i]["section_id"])+str(int(eventdata['events'][i]["activity_id"])+1):
                     d[x][3][3]+=dureeInput
                 d[x][1].append(timeStart)
-                d[x][2].append(eventdata['events'][i+1]['timestamp'])
+                d[x][2].append(eventdata['events'][i]['timestamp'])
 
             #On ajoute quand même à la durée totale
             d[x][0]+=dureeInput
@@ -70,6 +70,7 @@ for f in files:
 
     #Cas rare : Quand le dernier event est différent de l'avant dernier, il faut l'ajouter
     if eventdata['events'][i+1]["activity_id"] != eventdata['events'][i]["activity_id"]:
+        heure1 = datetime.datetime.fromtimestamp(timeStart//1000)
         heure2  =datetime.datetime.fromtimestamp(eventdata['events'][i+1]['timestamp']//1000)
         dureeInput=(heure2-heure1).seconds
         x = (f,str(eventdata['events'][i+1]["sequence_id"]),str(eventdata['events'][i+1]["section_id"]),str(eventdata['events'][i+1]["activity_id"]))
@@ -160,6 +161,7 @@ for f in files:
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Insertion Base
 
 #On parcours toute les clés du dictionnaire et on les ajoute dans la base
+L=[]
 for key in d:
     #Si activité n'a pas d'input
     if d[key][3][0] + d[key][3][1] +d[key][3][2] ==0:
@@ -172,6 +174,8 @@ for key in d:
             d[key][3][4] = 0
     for row in c.execute("SELECT * FROM ACTIVITE where fk_id_section = ? and num_activite =? and fk_id_sequence = ?",[key[2],key[3],key[1]]):
         x= row[0]
+    L .append(d[key][0])
+
     for t in range(len(d[key][3])):
         if d[key][3][t] != 0:
             if t == 3:
@@ -181,5 +185,5 @@ for key in d:
             else:
                 c.execute("INSERT INTO STATS VALUES(?,?,?,?)",[key[0],x,t+1,d[key][3][t]])
                 
-    
+
 conn.commit()
