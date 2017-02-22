@@ -4,38 +4,38 @@ unit_mark = 10000
 
 def correctInput(u_input,meta):
     score = 0
-    if u_input['user_input'] == meta['awnser']:
+    if u_input['data']['user_input'] == meta['answer']:
             score+= unit_mark
     return score
 
-def correctDosage(u_input,meta):
+def correctDosageAndTextView(u_input,meta):
     score = 0
-    for i in range(len(u_input['user_input'])):
-        if u_input[i]['user_input'] == meta['awnser'][i]:
+    for i in range(len(u_input['data']['user_input'])):
+        if u_input['data']['user_input'][i] == meta['answer'][i]:
             score+= unit_mark
     return score
 
-def correctTextView(u_input,meta):
-    score = 0
-    for i in range(len(u_input['user_input'])):
-        if u_input[i]['user_input'] == meta['awnser'][i]:
-            score+= unit_mark
-    return score
+##def correctTextView(u_input,meta):
+##    score = 0
+##    for i in range(len(u_input['user_input'])):
+##        if u_input[i]['user_input'] == meta['awnser'][i]:
+##            score+= unit_mark
+##    return score
 
 def correctCurve(u_input,meta):
     score = 0
     somme,dist = 0,0
-    for i in range(len(u_input['user_input'])):
-        somme += u_input[i]
-        dist += abs(u_input['user_input'][i] - meta['awnser'][i])
-    if (((somme - ecart)/somme)*100) >= meta['threshold']:
-        score += unit_mark
+    for i in range(len(u_input['data']['user_input'])):
+        somme += u_input['data']['user_input'][i]
+        dist += abs(u_input['data']['user_input'][i] - meta['answer'][i])
+        if (((somme - dist)/(somme+1))*100) >= meta['threshold']:
+            score += unit_mark
     return score
 
 def correctCount(u_input,meta):
     score = 0
-    for i in range(len(u_input['user_input'])):
-        if u_input['user_input'][i] in meta['awnser'][i]:
+    for i in range(len(u_input['data']['user_input'])):
+        if u_input['data']['user_input'][i] in meta['answer'][i]:
             score+= unit_mark
     return score
 
@@ -61,31 +61,65 @@ def correctDragDropView(u_input,meta):
                 score = temp
     return score
 
+def correctPlanif(u_input,meta):
+    score = 0
+    for i in range(len(u_input['data']['user_input']['protocol'])):
+        if u_input['data']['user_input']['protocol'][i] == meta['answer']['protocol'][i]:
+            score+=unit_mark
+    if len(u_input['data']['user_input']['culture']) == len(meta['answer']['culture']):
+        for i in range(len(meta['answer']['culture'])):
+            if u_input['data']['user_input']['culture'][i]['condition'] == meta['answer']['culture'][i]['condition'] and u_input['data']['user_input']['culture'][i]['time'] == meta['answer']['culture'][i]['time']:
+                score+=unit_mark
+    if u_input['data']['user_input']['temoincheck']:
+        if len(u_input['data']['user_input']['temoin']) == len(meta['answer']['temoin']):
+            for i in range(len(meta['answer']['temoin'])):
+                if u_input['data']['user_input']['temoin'][i]['condition'] == meta['answer']['temoin'][i]['condition'] and u_input['data']['user_input']['temoin'][i]['time'] == meta['answer']['temoin'][i]['time']:
+                    score+=unit_mark
+    return score
+            
+
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Début du code
 files = []
 conn = sqlite3.connect(r'student.db')
 c = conn.cursor()
+c.execute("ALTER TABLE STATS ADD COLUMN score INTEGER")
 for row in c.execute("SELECT nom_fichier FROM LOGS"):
     files.append(row[0])
-
+d = {}
 #Pour tout nos fichiers
-for f in ['21004056_1475771589449']:
-    res = []
+for f in files:
     #On ouvre un fichier JSON
     with open("./logsUPSCUFR/"+f+"_input.log")as data_file , open("sequence1.json") as seq1, open("sequence2.json") as seq2:
         inputdata = json.load(data_file)
         sequence1 = json.load(seq1)
         sequence2 = json.load(seq2)
     inp = inputdata['inputs'] 
-    for i in range(len(inp)-1):
-        if(inp[i]['section_id']) != 1:
-            if inp[i]['sequence_id'] == 1:
-                if inp[i]['activity_kind'] == "dragdrop":
-                    res.append(correctDragDropView(inp[i],sequence1['sections'][inp[i]["section_id"]]['activites'][inp[i]["activity_id"]]['meta']))
-                else:
-                     pass
+    for i in range(len(inp)):
+        seq,sec,act = inp[i]["sequence_id"],inp[i]["section_id"],inp[i]["activity_id"]
+        x = (f,seq,sec,act)
+        if sec != 1:           
+            if not x in d:
+                        d[x] = []                        
+            if seq == 1:
+                s = sequence1
             else:
-                if inp[i]['activity_kind'] == "dragdrop":
-                    res.append([inp[i]["section_id"],inp[i]["activity_id"],correctDragDropView(inp[i],sequence2['sections'][inp[i]["section_id"]]['activites'][inp[i]["activity_id"]]['meta'])])
-                
-print(res)            
+                s = sequence2
+            if inp[i]['activity_kind'] == "dragdrop":
+                d[x].append(correctDragDropView(inp[i],s['sections'][sec]['activites'][act]['meta']))
+            elif inp[i]['activity_kind'] == "curvetest" or inp[i]['activity_kind'] == "curvestar":
+                d[x].append(correctCurve(inp[i],s['sections'][sec]['activites'][act]['meta']))
+            elif inp[i]['activity_kind'] == "counttest":
+                d[x].append(correctCount(inp[i],s['sections'][sec]['activites'][act]['meta']))
+            elif inp[i]['activity_kind'] == "input":
+                d[x].append(correctInput(inp[i],s['sections'][sec]['activites'][act]['meta']))
+            elif inp[i]['activity_kind'] == "pipette" or inp[i]['activity_kind'] == "synthesis" or inp[i]['activity_kind'] == "doublepipette" :
+                d[x].append(correctDosageAndTextView(inp[i],s['sections'][sec]['activites'][act]['meta']))
+            elif inp[i]['activity_kind'] == "planif":
+                if act == -1:
+                    act+=1
+                d[x].append(correctPlanif(inp[i],s['sections'][sec]['activites'][act]['meta']))
+for x in d:
+    print(x)
+    print(d[x])
+    print("~~~~~~~~~~~~~~~~~~~~~~~~~")
+                            
