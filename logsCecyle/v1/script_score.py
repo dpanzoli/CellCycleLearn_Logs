@@ -82,7 +82,7 @@ def correctPlanif(u_input,meta):
 files = []
 conn = sqlite3.connect(r'student.db')
 c = conn.cursor()
-c.execute("ALTER TABLE STATS ADD COLUMN score INTEGER")
+#c.execute("ALTER TABLE STATS ADD COLUMN score INTEGER ")
 for row in c.execute("SELECT nom_fichier FROM LOGS"):
     files.append(row[0])
 d = {}
@@ -93,7 +93,7 @@ for f in files:
         inputdata = json.load(data_file)
         sequence1 = json.load(seq1)
         sequence2 = json.load(seq2)
-    inp = inputdata['inputs'] 
+    inp = inputdata['inputs']
     for i in range(len(inp)):
         seq,sec,act = inp[i]["sequence_id"],inp[i]["section_id"],inp[i]["activity_id"]
         x = (f,seq,sec,act)
@@ -119,7 +119,11 @@ for f in files:
                     act+=1
                 d[x].append(correctPlanif(inp[i],s['sections'][sec]['activites'][act]['meta']))
 for x in d:
-    print(x)
-    print(d[x])
-    print("~~~~~~~~~~~~~~~~~~~~~~~~~")
-                            
+    for row in c.execute("SELECT * FROM ACTIVITE where fk_id_section = ? and num_activite =? and fk_id_sequence = ?",[x[2],x[3],x[1]]):
+        ida= row[0]
+    if len(d[x]) > 3:
+        c.execute("UPDATE STATS SET score = ? where fk_nom_fichier = ? and fk_id_activite = ? and tentative = 1",[d[x][len(d[x])-1],x[0],ida])
+    else:
+        for i in range(len(d[x])):
+            c.execute("UPDATE STATS SET score = ? where fk_nom_fichier = ? and fk_id_activite = ? and tentative = ?",[d[x][i],x[0],ida,i+1])
+conn.commit()
