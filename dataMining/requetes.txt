@@ -161,7 +161,7 @@ group by fk_id_activite;
 --where tentative=1
 --group by fk_id_activite;
 
-select sum(temps_tentative)||',' from STATS, ACTIVITE 
+select fk_nom_fichier, sum(temps_tentative)||',' from STATS, ACTIVITE 
 where STATS.fk_id_activite = ACTIVITE.id_activite
 and ACTIVITE.fk_id_sequence = 2
 and fk_nom_fichier in (
@@ -184,3 +184,13 @@ group by fk_nom_fichier;
 select fk_id_activite,avg(temps_tentative) from activite,stats 
 where STATS.fk_id_activite = ACTIVITE.id_activite and type != "Transition" and fk_id_section != 1 and tentative = 0 group by fk_id_activite;
 --select * from stats;
+
+drop view TEMPS;
+create view TEMPS as 
+select fk_nom_fichier, sum(temps_tentative) as somme from STATS
+group by fk_nom_fichier;
+select avg(TEMPS.somme-LOGS.duree_input) from TEMPS, LOGS
+where TEMPS.fk_nom_fichier = LOGS.nom_fichier;
+
+
+
