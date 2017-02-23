@@ -28,7 +28,9 @@ def tri_debut(listedeb,listefin,time,d,key,j):
             heure2  =datetime.datetime.fromtimestamp(listefin[cpt]//1000)
             dureeInput=(heure2-heure1).seconds
             #d[key][0]+=dureeInput
-            d[key][3][j]+=dureeInput
+            if d[key][3][j]==None:
+                d[key][3][j]=0
+            d[key][3][j]=dureeInput
             cpt+=1
     listedeb = listedeb[cpt:]
     listefin = listefin[cpt:]
@@ -54,7 +56,7 @@ for f in files:
             dureeInput=(heure2-heure1).seconds
             #Si on est jamais passé dans l'activité on créé une entrée
             if not x in d:
-                d[x] = [0,[timeStart],[eventdata['events'][i]['timestamp']],[0,0,0,0,0],0]
+                d[x] = [0,[timeStart],[eventdata['events'][i]['timestamp']],[None,None,None,0,0],0]
                 currentActivity = str(eventdata['events'][i]["sequence_id"])+str(eventdata['events'][i]["section_id"])+str(int(eventdata['events'][i]["activity_id"])+1)
             #Sinon c'est un retour et on ajoute dans t-1
             else:
@@ -75,7 +77,7 @@ for f in files:
         dureeInput=(heure2-heure1).seconds
         x = (f,str(eventdata['events'][i+1]["sequence_id"]),str(eventdata['events'][i+1]["section_id"]),str(eventdata['events'][i+1]["activity_id"]))
         if not x in d:
-            d[x] = [0,[timeStart],[eventdata['events'][i+1]['timestamp']],[0,0,0,0,0],0]
+            d[x] = [0,[timeStart],[eventdata['events'][i+1]['timestamp']],[None,None,None,0,0],0]
             currentActivity = str(eventdata['events'][i]["sequence_id"])+str(eventdata['events'][i]["section_id"])+str(int(eventdata['events'][i]["activity_id"])+1)
         else:
             if currentActivity > str(eventdata['events'][i]["sequence_id"])+str(eventdata['events'][i]["section_id"])+str(int(eventdata['events'][i]["activity_id"])+1):
@@ -97,11 +99,11 @@ for f in files:
             act = "0"
         #On cherche toutes les activités chronométré
         for row in c.execute("SELECT * FROM ACTIVITE where fk_id_section = ? and num_activite =? and fk_id_sequence = ?",[sec,act,seq]):
-            x= row[0]
+            n= row[0]
         #Si ce 'nest pas une activité chrono elle peut avoir donc plusieurs tentatives
-        if x != 16 and x !=18 and x !=38 and x !=37:
+        if n != 16 and n!=18 and n !=38 and n !=37:
             #Si il y a une autre tentative 
-            if inputdata['inputs'][i]["sequence_id"] == inputdata['inputs'][i+1]["sequence_id"] and inputdata['inputs'][i]["activity_id"] == inputdata['inputs'][i+1]["activity_id"] and inputdata['inputs'][i]["section_id"] == inputdata['inputs'][i+1]["section_id"]:
+            if inputdata['inputs'][i]["sequence_id"] == inputdata['inputs'][i+1]["sequence_id"] and inputdata['inputs'][i]["activity_id"] == inputdata['inputs'][i+1]["activity_id"] and inputdata['inputs'][i]["section_id"] == inputdata['inputs'][i+1]["section_id"] :
                 #On prend la fonction tri-debut qui permet de trier le temps de début utilisable et initilisable 
                 x,y=tri_debut(d[f,seq,sec,act][1],d[f,seq,sec,act][2],inputdata['inputs'][i]['timestamp'],d,(f,seq,sec,act),j)
                 heure1 =datetime.datetime.fromtimestamp(x[0]//1000)
@@ -128,7 +130,7 @@ for f in files:
             else:
                 x,y=tri_debut(d[f,seq,sec,act][1],d[f,seq,sec,act][2],inputdata['inputs'][i]['timestamp'],d,(f,seq,sec,act),j)
                 heure1 =datetime.datetime.fromtimestamp(x[0]//1000)
-                heure2 = datetime.datetime.fromtimestamp(inputdata['inputs'][i]['timestamp']//1000)
+                heure2 = datetime.datetime.fromtimestamp(inputdata['inputs'][i+1]['timestamp']//1000)
                 d[f,seq,sec,act][3][j] = (heure2-heure1).seconds
                 #On augmente le nombre de tentative de 1
                 j=0
@@ -157,27 +159,39 @@ for f in files:
                     heure1,heure2=heure2,heure1
                 d[f,seq,sec,act][3][0] = (heure2-heure1).seconds
                 d[f,seq,sec,act][4]=1
+    if inputdata['inputs'][i-1]["sequence_id"] == inputdata['inputs'][i]["sequence_id"] and inputdata['inputs'][i-1]["activity_id"] == inputdata['inputs'][i]["activity_id"] and inputdata['inputs'][i-1]["section_id"] == inputdata['inputs'][i]["section_id"]:
+        x,y=tri_debut(d[f,seq,sec,act][1],d[f,seq,sec,act][2],inputdata['inputs'][i]['timestamp'],d,(f,seq,sec,act),j)
+        heure1 =datetime.datetime.fromtimestamp(x[0]//1000)
+        heure2 = datetime.datetime.fromtimestamp(inputdata['inputs'][i+1]['timestamp']//1000)    
+        d[f,seq,sec,act][3][j] = (heure2-heure1).seconds
+    else:
+        x,y=tri_debut(d[f,seq,sec,act][1],d[f,seq,sec,act][2],inputdata['inputs'][i]['timestamp'],d,(f,seq,sec,act),j)
+        heure1 =datetime.datetime.fromtimestamp(x[0]//1000)
+        heure2 = datetime.datetime.fromtimestamp(inputdata['inputs'][i+1]['timestamp']//1000)
+        d[f,seq,str(inputdata['inputs'][i+1]["section_id"]),str(inputdata['inputs'][i+1]["activity_id"])][3][0] = (heure2-heure1).seconds
+        
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Insertion Base
 
 #On parcours toute les clés du dictionnaire et on les ajoute dans la base
-L=[]
 for key in d:
     #Si activité n'a pas d'input
-    if d[key][3][0] + d[key][3][1] +d[key][3][2] ==0:
+    if d[key][3][0]==None:
         #On met tout dans la tentative 1
         d[key][3][0] = d[key][0] - d[key][3][3]
     else:
         #Sinon on rajoute le temps entre la tentative 3 et le changement d'activite dans t[3]
-        d[key][3][4] = d[key][0] - d[key][3][0] - d[key][3][1] - d[key][3][2] - d[key][3][3]
+        for i in d[key][3][:-1]:
+            if i != None:
+                d[key][4] -= i
+        d[key][3][4]+= d[key][0]
         if d[key][3][4] < 0:
             d[key][3][4] = 0
     for row in c.execute("SELECT * FROM ACTIVITE where fk_id_section = ? and num_activite =? and fk_id_sequence = ?",[key[2],key[3],key[1]]):
         x= row[0]
-    L .append(d[key][0])
 
     for t in range(len(d[key][3])):
-        if d[key][3][t] != 0:
+        if d[key][3][t] != None:
             if t == 3:
                 c.execute("INSERT INTO STATS VALUES(?,?,?,?)",[key[0],x,-1,d[key][3][t]])
             elif t == 4:
