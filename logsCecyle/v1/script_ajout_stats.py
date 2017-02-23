@@ -110,6 +110,7 @@ for f in files:
                 heure2 = datetime.datetime.fromtimestamp(inputdata['inputs'][i]['timestamp']//1000)
                 d[f,seq,sec,act][3][j] = (heure2-heure1).seconds
                 #On augmente le nombre de tentative de 1
+                #print("a:",j,sec,act)
                 j+=1
                 #Si il ya eu plusieurs retour sur l'activité avant qu'elle soit faites et qu'on a donc plus de un temps de debut
                 if len(y) > 1:
@@ -160,6 +161,7 @@ for f in files:
                 d[f,seq,sec,act][3][0] = (heure2-heure1).seconds
                 d[f,seq,sec,act][4]=1
     if inputdata['inputs'][i-1]["sequence_id"] == inputdata['inputs'][i]["sequence_id"] and inputdata['inputs'][i-1]["activity_id"] == inputdata['inputs'][i]["activity_id"] and inputdata['inputs'][i-1]["section_id"] == inputdata['inputs'][i]["section_id"]:
+        #print(j,sec,act)
         x,y=tri_debut(d[f,seq,sec,act][1],d[f,seq,sec,act][2],inputdata['inputs'][i]['timestamp'],d,(f,seq,sec,act),j)
         heure1 =datetime.datetime.fromtimestamp(x[0]//1000)
         heure2 = datetime.datetime.fromtimestamp(inputdata['inputs'][i+1]['timestamp']//1000)    
@@ -175,6 +177,7 @@ for f in files:
 
 #On parcours toute les clés du dictionnaire et on les ajoute dans la base
 for key in d:
+    print(d[key])
     #Si activité n'a pas d'input
     if d[key][3][0]==None:
         #On met tout dans la tentative 1
