@@ -11,7 +11,6 @@ requete = c.execute("select TEMPS.fk_nom_fichier,SCORE.fk_id_activite,t,s,tent f
                     ",(select fk_nom_fichier,fk_id_activite,max(tentative) as tent,score as s from stats where fk_id_activite <=20 group by fk_nom_fichier,fk_id_activite) as score " +
                     "where TEMPS.fk_nom_fichier = SCORE.fk_nom_fichier and TEMPS.fk_nom_fichier in( select distinct (fk_nom_fichier)from stats where fk_id_activite=20) and s >=0 group by TEMPS.fk_nom_fichier,SCORE.fk_id_activite")
 for row in requete:
-    if(row[4] ==0 and row[5] !=3):
         print(row)
 ##    if row[0] not in d:
 ##        d[row[0]]=[0,row[3]]

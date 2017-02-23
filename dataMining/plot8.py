@@ -16,14 +16,15 @@ for row in requete:
     #390000 pour seq2 et 470000 pour seq1
     y.append(row[2]/390000 *100)
     x.append(row[1])
-plt.scatter(x,y)
-plt.title("Score/Temps par personne")
-plt.xlabel("Temps passé")
-plt.ylabel("Score")
-#plt.show()
-#fig.savefig("plot8a.png")
-
-with open('dataseq2.csv','w') as csvfile:
-    spamwriter = csv.writer(csvfile)
-    spamwriter.writerow(x)
-    spamwriter.writerow(y)
+print(x)
+##plt.scatter(x,y)
+##plt.title("Score/Temps par personne")
+##plt.xlabel("Temps passé")
+##plt.ylabel("Score")
+###plt.show()
+###fig.savefig("plot8a.png")
+##
+##with open('dataseq2.csv','w') as csvfile:
+##    spamwriter = csv.writer(csvfile)
+##    spamwriter.writerow(x)
+##    spamwriter.writerow(y)
