@@ -16,13 +16,7 @@ req = "select nb_scores,count(fk_nom_fichier) from (\
 					group by fk_nom_fichier)\
 				group by nb_scores;"
 
-req2 = "select nb_scores,count(fk_nom_fichier) from (\
-					select fk_nom_fichier, count(score) as nb_scores from STATS\
-					where fk_nom_fichier in (\
-						select nom_fichier from LOGS\
-						where fk_sequence = 2)\
-					group by fk_nom_fichier)\
-				group by nb_scores;"
+
 
 x=range(0,40)
 y=[0]*len(x)
