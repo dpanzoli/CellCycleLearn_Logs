@@ -8784,23 +8784,7 @@
                 "y": 626
             }
         },
-        {
-            "user_id": "Cecyle",
-            "session_id": "Cecyle_1480954429070",
-            "timestamp": 1480944364005,
-            "sequence_id": 1,
-            "section_id": "5",
-            "activity_id": "0",
-            "activity_kind": "synthesis",
-            "data": {
-                "kind": "Click",
-                "what": "end_btn",
-                "which": "Synthèse",
-                "x": 1230,
-                "y": 687
-            }
-        },
-        {
+		{
             "user_id": "Cecyle",
             "session_id": "Cecyle_1480954429070",
             "timestamp": 1480944363999,
@@ -8833,6 +8817,22 @@
                     ""
                 ],
                 "score": 473333.3333333333
+            }
+        },
+        {
+            "user_id": "Cecyle",
+            "session_id": "Cecyle_1480954429070",
+            "timestamp": 1480944364005,
+            "sequence_id": 1,
+            "section_id": "5",
+            "activity_id": "0",
+            "activity_kind": "synthesis",
+            "data": {
+                "kind": "Click",
+                "what": "end_btn",
+                "which": "Synthèse",
+                "x": 1230,
+                "y": 687
             }
         }
     ]
