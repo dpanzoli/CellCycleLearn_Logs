@@ -1,0 +1,14 @@
+create_database.py -> Script qui génère le début de la abse de donnée avec la table ETUDIANT et LOGS
+etudiant.sql->.dump de la table etudiant
+logs.sql->.dump de la table logs
+script_activite.sql -> reqête sql qui regénère les tables etudiants, logs et ajoute de nouvelles tables comme CCLSEQUENCE, CCLSECTION, ACTIVITE
+script_ajout_stats -> Script qui ajoute la table STATS dans notre base, elle contient des données importants comme le nombre de tentative, la durée de chacune, la durée des retours
+script_score.py -> Script qui contient les fonctions de validations de score et qui les ajoute dans la table  STATS
+tri_log -> Enlever certains utilisateurs du dossier de donnée
+
+
+
+/!\ Si jamais vous voulez modifier un script pour refaire la base vous devez lancer les 
+	fichier dans cet ordre scrupt_activite.sql -> script_ajout_stats.py -> script_score.py 
+/!\
+
