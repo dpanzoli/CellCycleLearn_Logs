@@ -800,25 +800,31 @@ import numpy as np
 import matplotlib.mlab as mlab
 import matplotlib.pyplot as plt
 
+#trick to caliber the curves
 L.append(-500)
 L3.append(-500)
 L.append(5500)
 L3.append(5500)
 
 
+fig, ax1 = plt.subplots()
+
 # the histogram of the data
-n, bins, patches = plt.hist(L3, 50, facecolor='blue', alpha=0.5)
-n, bins, patches = plt.hist(L, 50, facecolor='green', alpha=0.5)
+n, bins, patches = ax1.hist(L3, 50, facecolor='blue', alpha=0.5)
+n, bins, patches = ax1.hist(L, 50, facecolor='green', alpha=0.5)
 
 # add a 'best fit' line
-#y = mlab.normpdf( bins, 2500, 1000)
-#l = plt.plot(bins, y*20000, 'r--', linewidth=1)
+ax2 = ax1.twinx()
+y = mlab.normpdf( bins, 2500, 1000)
+l = ax2.plot(bins, y, 'r--', linewidth=1)
 
 plt.xlabel('Smarts')
-plt.ylabel('Probability')
-plt.title(r'$\mathrm{Histogram\ of\ IQ:}\ \mu=100,\ \sigma=15$')
+ax1.set_ylabel('Probability')
+ax2.set_ylabel('Other')
+#plt.title(r'$\mathrm{Histogram\ of\ IQ:}\ \mu=100,\ \sigma=15$')
 plt.axis([0, 5000, 0, 25])
 
+#fig.tight_layout()
 plt.grid(True)
 
 plt.show()
