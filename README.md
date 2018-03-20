@@ -1,3 +1,5 @@
+***Comparer le temps passé sur chaque activité par rapport à sa difficulté.***
+
 # CellCycleLearn_Logs
 Analyse des logs produits par l'application Cell Cycle Learn
 
